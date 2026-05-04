@@ -1,0 +1,289 @@
+1. SAMPLE COMPOSITIE
+======================================================================
+
+Totaal: 464 firms
+  LME (US):  348 (75.0%)
+  CME (EU):  116 (25.0%)
+
+Per sector:
+  Tech        :  256 totaal | US:  179 | EU:  77
+  Healthcare  :  208 totaal | US:  169 | EU:  39
+
+Per land:
+  United States        (LME):  348 (75.0%)
+  Germany              (CME):   40 (8.6%)
+  Switzerland          (CME):   18 (3.9%)
+  Sweden               (CME):   13 (2.8%)
+  Finland              (CME):   13 (2.8%)
+  Netherlands          (CME):    8 (1.7%)
+  Belgium              (CME):    8 (1.7%)
+  Norway               (CME):    7 (1.5%)
+  Austria              (CME):    6 (1.3%)
+  Denmark              (CME):    3 (0.6%)
+
+Per GICS subsector (top 10):
+  35201010 (Healthcare  ):  121
+  45103010 (Tech        ):   76
+  35202010 (Healthcare  ):   48
+  45301020 (Tech        ):   37
+  45103020 (Tech        ):   26
+  35203010 (Healthcare  ):   25
+  45201020 (Tech        ):   25
+  45203010 (Tech        ):   24
+  45301010 (Tech        ):   19
+  45102010 (Tech        ):   17
+
+======================================================================
+2. DESCRIPTIVE STATISTICS - FULL SAMPLE
+======================================================================
+
+                         count  missing      mean   median        std    min     25%      75%         max
+Board_Independence     464.000        0     0.841    0.875      0.107  0.375   0.800    0.900       1.000
+Gender_Diversity       464.000        0     0.294    0.300      0.124  0.000   0.222    0.375       0.667
+Avg_Tenure             464.000        0     5.890    5.294      3.391  0.000   3.348    7.679      17.169
+CEO_Duality            464.000        0     0.289    0.000      0.454  0.000   0.000    1.000       1.000
+Internationality_Ratio 464.000        0     0.199    0.000      0.254  0.000   0.000    0.400       0.800
+Board_Size             464.000        0     8.494    8.000      2.812  3.000   7.000   10.000      25.000
+Board_Busyness         464.000        0     1.687    1.640      0.424  1.000   1.375    2.000       3.000
+Age_Diversity          464.000        0     7.404    7.250      2.362  0.700   5.800    9.000      17.000
+Avg_Qualifications     464.000        0     2.292    2.273      0.563  0.167   2.000    2.625       4.286
+RD_Intensity           464.000        0    15.367    0.204     89.015  0.003   0.096    0.667     830.284
+Firm_Size_Ln           464.000        0     6.854    6.703      2.161  1.630   5.415    8.029      13.146
+ROA                    464.000        0    -0.129   -0.030      0.315 -1.553  -0.241    0.059       0.370
+Leverage               464.000        0     0.247    0.188      0.271  0.000   0.051    0.339       1.710
+Market_Cap_EUR         464.000        0 33405.091 1141.235 209154.329 25.095 230.162 6515.834 3210321.531
+
+======================================================================
+3. DESCRIPTIVES - LME (US) vs CME (EU)
+======================================================================
+
+  Board_Independence:
+    US (n=348): mean=0.848  std=0.073  median=0.875
+    EU (n=116): mean=0.821  std=0.170  median=0.833
+
+  Gender_Diversity:
+    US (n=348): mean=0.297  std=0.115  median=0.300
+    EU (n=116): mean=0.282  std=0.146  median=0.312
+
+  Avg_Tenure:
+    US (n=348): mean=5.951  std=3.471  median=5.358
+    EU (n=116): mean=5.706  std=3.146  median=5.117
+
+  CEO_Duality:
+    US (n=348): mean=0.299  std=0.458  median=0.000
+    EU (n=116): mean=0.259  std=0.440  median=0.000
+
+  Internationality_Ratio:
+    US (n=348): mean=0.157  std=0.217  median=0.000
+    EU (n=116): mean=0.325  std=0.311  median=0.300
+
+  Board_Size:
+    US (n=348): mean=8.382  std=1.943  median=8.000
+    EU (n=116): mean=8.828  std=4.504  median=8.000
+
+  Board_Busyness:
+    US (n=348): mean=1.750  std=0.424  median=1.700
+    EU (n=116): mean=1.500  std=0.367  median=1.433
+
+  Age_Diversity:
+    US (n=348): mean=7.450  std=2.307  median=7.250
+    EU (n=116): mean=7.267  std=2.524  median=7.350
+
+  Avg_Qualifications:
+    US (n=348): mean=2.428  std=0.487  median=2.375
+    EU (n=116): mean=1.885  std=0.581  median=1.875
+
+  RD_Intensity:
+    US (n=348): mean=20.271  std=102.336  median=0.238
+    EU (n=116): mean=0.656  std=3.222  median=0.116
+
+  Firm_Size_Ln:
+    US (n=348): mean=6.854  std=2.099  median=6.746
+    EU (n=116): mean=6.854  std=2.347  median=6.607
+
+  ROA:
+    US (n=348): mean=-0.166  std=0.326  median=-0.063
+    EU (n=116): mean=-0.019  std=0.247  median=0.034
+
+  Leverage:
+    US (n=348): mean=0.259  std=0.279  median=0.190
+    EU (n=116): mean=0.212  std=0.244  median=0.182
+
+  Market_Cap_EUR:
+    US (n=348): mean=39043.064  std=239276.513  median=1461.294
+    EU (n=116): mean=16491.171  std=54617.812  median=700.603
+
+======================================================================
+4. CEO DUALITY BREAKDOWN
+======================================================================
+
+  Full sample: 134/464 (28.9%)
+  US (LME):   104/348 (29.9%)
+  EU (CME):   30/116 (25.9%)
+
+  Per land:
+    United States       : 104/ 348 (29.9%)
+    Germany             :  20/  40 (50.0%)
+    Switzerland         :   1/  18 (5.6%)
+    Sweden              :   0/  13 (0.0%)
+    Finland             :   0/  13 (0.0%)
+    Netherlands         :   2/   8 (25.0%)
+    Belgium             :   1/   8 (12.5%)
+    Norway              :   0/   7 (0.0%)
+    Austria             :   6/   6 (100.0%)
+    Denmark             :   0/   3 (0.0%)
+
+======================================================================
+5. NORMALITEITSANALYSE
+======================================================================
+
+  Variabele                   Skewness   Kurtosis  Shapiro W  Shapiro p      Oordeel
+  ------------------------- ---------- ---------- ---------- ---------- ------------
+  Board_Independence            -1.313      2.240     0.8706     0.0000        matig
+  Gender_Diversity              -0.177      0.441     0.9788     0.0000           ok
+  Avg_Tenure                     0.967      0.819     0.9388     0.0000           ok
+  Internationality_Ratio         0.807     -0.776     0.7561     0.0000           ok
+  Board_Size                     1.895      7.126     0.8587     0.0000     PROBLEEM
+  Board_Busyness                 0.497     -0.134     0.9727     0.0000           ok
+  Age_Diversity                  0.342      0.283     0.9920     0.0138           ok
+  Avg_Qualifications            -0.038      0.566     0.9944     0.0889           ok
+  RD_Intensity                   8.292     71.567     0.1578     0.0000     PROBLEEM
+  Firm_Size_Ln                   0.474      0.005     0.9796     0.0000           ok
+  ROA                           -1.849      4.351     0.8339     0.0000        matig
+  Leverage                       2.542      9.600     0.7635     0.0000     PROBLEEM
+  Market_Cap_EUR                13.048    184.947     0.1289     0.0000     PROBLEEM
+
+  Drempels: |skewness| > 2 of |kurtosis| > 7 = problematisch (Curran et al., 1996)
+  Shapiro-Wilk: p < 0.05 = niet-normaal verdeeld
+
+======================================================================
+6. FORMELE TESTS LME vs CME VERSCHILLEN
+======================================================================
+
+  Variabele                   t-stat      t-p         MW-U     MW-p  Cohen d    Sig
+  ------------------------- -------- -------- ------------ -------- -------- ------
+  Board_Independence           1.676   0.0961        20787   0.6285    0.257       
+  Gender_Diversity             1.052   0.2942        20350   0.8948    0.127       
+  Avg_Tenure                   0.707   0.4804        20545   0.7732    0.072       
+  Internationality_Ratio      -5.384   0.0000        14090   0.0000   -0.688    ***
+  Board_Size                  -1.034   0.3033        22264   0.0930   -0.159       
+  Board_Busyness               6.107   0.0000        27124   0.0000    0.609    ***
+  Age_Diversity                0.690   0.4913        21201   0.4163    0.077       
+  Avg_Qualifications           9.053   0.0000        30936   0.0000    1.059    ***
+  RD_Intensity                 3.570   0.0004        28779   0.0000    0.221    ***
+  Firm_Size_Ln                -0.002   0.9985        20272   0.9442   -0.000       
+  ROA                         -5.076   0.0000        13302   0.0000   -0.474    ***
+  Leverage                     1.720   0.0868        21492   0.2960    0.172       
+  Market_Cap_EUR               1.635   0.1028        22817   0.0353    0.108       
+  CEO_Duality (chi2)           0.504   0.4779                                      
+
+  * p<0.05  ** p<0.01  *** p<0.001
+  Cohen's d: 0.2=klein, 0.5=medium, 0.8=groot
+
+======================================================================
+7. CORRELATIEMATRIX (Pearson)
+======================================================================
+
+                        Board_Independence  Gender_Diversity  Avg_Tenure  CEO_Duality  Internationality_Ratio  Board_Size  Board_Busyness  Age_Diversity  Avg_Qualifications  RD_Intensity
+Board_Independence                   1.000             0.249      -0.058       -0.205                   0.115      -0.020           0.302         -0.081               0.138        -0.049
+Gender_Diversity                     0.249             1.000      -0.070       -0.042                   0.128       0.193           0.291         -0.109               0.185         0.123
+Avg_Tenure                          -0.058            -0.070       1.000        0.071                  -0.022       0.106          -0.122         -0.005              -0.027        -0.028
+CEO_Duality                         -0.205            -0.042       0.071        1.000                  -0.068       0.039          -0.085         -0.008               0.016         0.008
+Internationality_Ratio               0.115             0.128      -0.022       -0.068                   1.000       0.289           0.109         -0.086               0.006        -0.076
+Board_Size                          -0.020             0.193       0.106        0.039                   0.289       1.000           0.140          0.013               0.046        -0.098
+Board_Busyness                       0.302             0.291      -0.122       -0.085                   0.109       0.140           1.000         -0.125               0.297         0.089
+Age_Diversity                       -0.081            -0.109      -0.005       -0.008                  -0.086       0.013          -0.125          1.000               0.025         0.051
+Avg_Qualifications                   0.138             0.185      -0.027        0.016                   0.006       0.046           0.297          0.025               1.000         0.041
+RD_Intensity                        -0.049             0.123      -0.028        0.008                  -0.076      -0.098           0.089          0.051               0.041         1.000
+
+  Hoge correlaties (|r| > 0.5):
+    Geen correlaties > 0.5 gevonden
+
+  VARIANCE INFLATION FACTORS (clustering variabelen):
+  VIF > 5 = problematisch, VIF > 10 = ernstig
+    Board_Independence       : VIF = 1.13
+    Gender_Diversity         : VIF = 1.12
+    Avg_Tenure               : VIF = 1.03
+    CEO_Duality              : VIF = 1.05
+    Internationality_Ratio   : VIF = 1.12
+    Board_Size               : VIF = 1.15
+
+  VIF (regressie controls):
+    Firm_Size_Ln             : VIF = 1.40
+    ROA                      : VIF = 1.43
+    Leverage                 : VIF = 1.08
+
+======================================================================
+8. HETEROSCEDASTICITEIT (Breusch-Pagan)
+======================================================================
+
+  Breusch-Pagan LM stat: 18.001
+  Breusch-Pagan p-value: 0.0549
+  F-stat: 1.828, F p-value: 0.0536
+  RESULTAAT: Geen significant bewijs voor heteroscedasticiteit
+
+  Hertest met ln(RD_Intensity + 0.001):
+  Breusch-Pagan LM stat: 40.971
+  Breusch-Pagan p-value: 0.0000
+  RESULTAAT: Nog steeds heteroscedasticiteit -> robust SE nodig
+
+======================================================================
+9. MISSING DATA ANALYSE
+======================================================================
+
+  Rijen met minstens 1 missing: 0/464
+  Complete cases: 464/464
+
+  MCAR indicatie (Internationality_Ratio):
+
+======================================================================
+10. EXTREME WAARDEN (potentiele outliers)
+======================================================================
+
+  Variabele                       P1      P99   <P1  >P99  IQR outliers
+  ------------------------- -------- -------- ----- ----- -------------
+  RD_Intensity                 0.003  510.435     0     5            90
+  Avg_Tenure                   0.200   16.309     3     5            13
+  Board_Independence           0.500    1.000     2     0            34
+  Gender_Diversity             0.000    0.609     0     5             5
+  Internationality_Ratio       0.000    0.800     0     0             0
+  Board_Busyness               1.000    2.736     0     5             2
+  ROA                         -1.319    0.370     5     0            29
+  Leverage                     0.000    1.557     0     5            16
+  Firm_Size_Ln                 2.354   12.133     5     5             8
+  Board_Size                   4.000   20.370     2     5            14
+  Age_Diversity                2.400   13.037     4     5             4
+
+  R&D Intensity detail:
+    Mean:   15.367
+    Median: 0.204
+    Ratio mean/median: 75.4x
+    Firms met RD_Intensity > 1: 103
+    Firms met RD_Intensity > 10: 46
+    Firms met RD_Intensity > 100: 13
+
+======================================================================
+11. CLUSTER ANALYSIS READINESS
+======================================================================
+
+  Sample size check (Dolnicar et al., 2014):
+    Clustering variabelen: 6
+    Minimum sample (70 per var): 420
+    Huidige sample: 464
+    Complete cases: 464
+    Status: OK
+
+  Schaalverschillen (reden voor z-score standaardisatie):
+    Board_Independence       : range [0.375, 1.000], std=0.107
+    Gender_Diversity         : range [0.000, 0.667], std=0.124
+    Avg_Tenure               : range [0.000, 17.169], std=3.391
+    CEO_Duality              : range [0.000, 1.000], std=0.454
+    Internationality_Ratio   : range [0.000, 0.800], std=0.254
+    Board_Size               : range [3.000, 25.000], std=2.812
+
+  Binaire variabelen in clustering:
+    CEO_Duality: 28.9% = 1 (voldoende variatie)
+
+======================================================================
+KLAAR
+======================================================================

@@ -1,0 +1,1121 @@
+Isin,Board_Name,Board_Id,Director_Type,Director_Name,Role_Name,Time_Role,Time_Board,Time_Company,Total_Boards,Total_Boards_Current,No_Qual,Gender_Ratio,Nationality_Mix,Number_Directors,Stdev_age
+SE0022419784,SECTRA AB,27453,Yes,Doctor Jan-Olof Brüer,Chairman (Independent Board Member),4.3,33.3,41.7,2,1,3,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,No,Doctor Torbjörn Kronander,President/CEO,11.4,36.3,39.3,2,1,3,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,Yes,Doctor Anders Persson,Independent Board Member,18.3,19.8,19.8,4,3,3,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,Yes,Tomas Puusepp,Independent Board Member,6.6,6.6,6.6,3,2,3,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,Yes,Birgitta Hagenfeldt,Independent Board Member,5.6,5.6,5.6,2,2,1,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,Yes,Andreas Häll,Employee Representative,2.6,2.6,15.9,1,1,1,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,Yes,Major General Fredrik Robertsson,Independent Board Member,3.6,3.6,3.6,1,1,7,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,Yes,Pontus Svärd,Employee Representative,0.6,0.6,21.1,1,1,1,0.778,0,9,9.5
+SE0022419784,SECTRA AB,27453,Yes,Ulrika Unell,Independent Board Member,1.6,1.6,1.6,1,1,1,0.778,0,9,9.5
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,Yes,Helena Levander,Independent Board Member,0,0,0,15,2,2,0.625,0,8,10.9
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,Yes,Professor Doctor Wenche Rolfsen Sandsborg,Independent Board Member,0,0,0,11,1,3,0.625,0,8,10.9
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,Yes,Doctor Lennart Hansson,Independent Chairman,0,0,0,4,2,1,0.625,0,8,10.9
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,Yes,Doctor Nina Rawal,Independent Board Member,0,0,0,3,1,3,0.625,0,8,10.9
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,Yes,Torbjörn Koivisto,Independent Board Member,0,0,0,4,2,2,0.625,0,8,10.9
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,No,Kjell Andersson,Chief Scientific Officer,0,0,0,1,1,1,0.625,0,8,10.9
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,Yes,Peter Unge,Board Member - SD,0,0,0,1,1,2,0.625,0,8,10.9
+SE0020388577,CINCLUS PHARMA HOLDING AB,3809103,Yes,Anders Öhberg,Independent Board Member,0,0,0,1,1,1,0.625,0,8,10.9
+SE0015988167,SWEDENCARE AB,2472939,Yes,Doctor Heinz-Jürgen Bertram,Board Member - SD,1.7,1.7,1.7,4,1,3,0.714,0.7,7,4.5
+SE0015988167,SWEDENCARE AB,2472939,Yes,Jean-Yves Parisot,Board Member - SD,2.7,2.7,2.7,3,3,2,0.714,0.7,7,4.5
+SE0015988167,SWEDENCARE AB,2472939,Yes,Ulrika Valassi,Independent Board Member,2.7,2.7,2.7,4,2,2,0.714,0.7,7,4.5
+SE0015988167,SWEDENCARE AB,2472939,Yes,Thomas Eklund,Independent Board Member,8.9,8.9,8.9,13,4,1,0.714,0.7,7,4.5
+SE0015988167,SWEDENCARE AB,2472939,Yes,Sara Brandt,Independent Board Member,5.7,5.7,5.7,2,1,1,0.714,0.7,7,4.5
+SE0015988167,SWEDENCARE AB,2472939,Yes,Håkan Svanberg,Chairman,2.7,8.5,8.5,1,1,0,0.714,0.7,7,4.5
+SE0015988167,SWEDENCARE AB,2472939,Yes,Johan Bergdahl,Board Member - SD,8.5,8.5,8.5,1,1,0,0.714,0.7,7,4.5
+SE0015961909,HEXAGON AB,14724,Yes,Ola Rollen,Chairman,1.6,24.5,24.5,4,1,1,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,Annika Bolin Falkengren,Independent Board Member,0.7,0.7,0.7,6,2,3,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,Sofia Högberg,Board Member - SD,7.6,7.6,7.6,4,3,4,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,Gun Nilsson,Independent Board Member,10.6,16.6,16.6,10,2,2,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,Erik Huggers,Independent Board Member,3.1,3.1,3.1,2,1,0,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,Ralph Haupter,Independent Board Member,0.7,0.7,0.7,1,1,2,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,John Brandon,Independent Board Member,7.6,7.6,7.6,2,2,1,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,Märta Andreen,Board Member - SD,7.6,7.6,7.6,5,4,2,0.556,0.3,9,10.4
+SE0015961909,HEXAGON AB,14724,Yes,Brett Watson,Independent Board Member,3.1,3.1,3.1,3,2,2,0.556,0.3,9,10.4
+SE0015961404,SLEEP CYCLE AB,3403617,Yes,Anne Broeng,Chair (Independent Board Member),1.6,3.5,3.5,3,2,1,0.75,0,4,11.1
+SE0015961404,SLEEP CYCLE AB,3403617,Yes,Mathias Høyer,Independent Board Member,1.6,1.6,1.6,1,1,1,0.75,0,4,11.1
+SE0015961404,SLEEP CYCLE AB,3403617,Yes,Maciej Drejak,Board Member - SD,1.4,1.4,3.5,1,1,0,0.75,0,4,11.1
+SE0015961404,SLEEP CYCLE AB,3403617,Yes,Hans Skruvfors,Independent Board Member,0.7,0.7,0.7,2,1,2,0.75,0,4,11.1
+SE0015810502,CHECKIN.COM GROUP AB,3395510,Yes,Doctor Christer Fahraeus,Independent Board Member,1.5,1.5,1.5,12,4,6,0.667,0,6,9.4
+SE0015810502,CHECKIN.COM GROUP AB,3395510,Yes,Birgitta Hagenfeldt,Independent Board Member,3.6,3.6,3.6,2,2,1,0.667,0,6,9.4
+SE0015810502,CHECKIN.COM GROUP AB,3395510,Yes,Kristoffer Cassel,Chairman,0.6,3.6,3.6,1,1,1,0.667,0,6,9.4
+SE0015810502,CHECKIN.COM GROUP AB,3395510,Yes,Maria McDonald,Board Member - SD,3.6,3.6,3.6,1,1,0,0.667,0,6,9.4
+SE0015810502,CHECKIN.COM GROUP AB,3395510,Yes,Michal Stala,Board Member - SD,3.6,3.6,3.6,1,1,1,0.667,0,6,9.4
+SE0015810502,CHECKIN.COM GROUP AB,3395510,Yes,Jonas Strömberg,Independent Board Member,1.9,1.9,1.9,2,1,2,0.667,0,6,9.4
+SE0012481133,VERTISEIT AB,3038415,Yes,Carl Backman,Board Member - SD,0.9,0.9,0.9,2,1,2,0.714,0,7,9
+SE0012481133,VERTISEIT AB,3038415,Yes,Jon Lindén,Independent Board Member,5.9,5.9,5.9,1,1,0,0.714,0,7,9
+SE0012481133,VERTISEIT AB,3038415,Yes,Doctor Ann Öberg,Independent Chair,0.9,1.9,1.9,1,1,1,0.714,0,7,9
+SE0012481133,VERTISEIT AB,3038415,Yes,Ville Schottenius,Board Member - SD,0.9,5.6,5.6,4,1,2,0.714,0,7,9
+SE0012481133,VERTISEIT AB,3038415,Yes,Adrian Nelje,Board Member - SD,4.9,4.9,5.2,2,2,0,0.714,0,7,9
+SE0012481133,VERTISEIT AB,3038415,Yes,Mikael Olsson,Independent Board Member,5.6,5.6,5.6,2,1,2,0.714,0,7,9
+SE0012481133,VERTISEIT AB,3038415,Yes,Johanna Schottenius,Board Member - SD,4.6,4.6,4.6,2,2,3,0.714,0,7,9
+SE0011870195,LIME TECHNOLOGIES AB,2959851,Yes,Lars Stugemo,Independent Board Member,2.7,3.7,3.7,5,2,1,0.6,0,5,10
+SE0011870195,LIME TECHNOLOGIES AB,2959851,Yes,Marlene Forsell,Independent Board Member,6,6,6,5,4,2,0.6,0,5,10
+SE0011870195,LIME TECHNOLOGIES AB,2959851,Yes,Erik Syrén,Chairman,1.7,3.7,6,2,1,1,0.6,0,5,10
+SE0011870195,LIME TECHNOLOGIES AB,2959851,Yes,Johanna Fagerstedt,Independent Board Member,1.7,1.7,1.7,1,1,0,0.6,0,5,10
+SE0011870195,LIME TECHNOLOGIES AB,2959851,Yes,Emil Hjalmarsson,Board Member - SD,1.7,1.7,4.5,5,4,1,0.6,0,5,10
+SE0010546242,ACCONEER AB,2790750,Yes,Thomas Rex,Independent Chairman,4.7,7,7,1,1,1,0.75,,4,8.2
+SE0010546242,ACCONEER AB,2790750,Yes,Git Adolfsson,Board Member - SD,6.7,7,7,2,2,1,0.75,,4,8.2
+SE0010546242,ACCONEER AB,2790750,Yes,Lars-Erik Wernersson,Independent Board Member,7,7,7,1,1,0,0.75,,4,8.2
+SE0010546242,ACCONEER AB,2790750,Yes,Henric Stråth,Independent Board Member,0.7,0.7,0.7,1,1,1,0.75,,4,8.2
+SE0009268279,SMART EYE AB,2578610,Yes,Lars Olofsson,Vice Chairman (Independent Board Member),7.7,7.7,7.7,4,1,1,0.714,0,7,10.3
+SE0009268279,SMART EYE AB,2578610,Yes,Eva Elmstedt,Independent Board Member,5.6,5.6,5.6,12,5,2,0.714,0,7,10.3
+SE0009268279,SMART EYE AB,2578610,Yes,Magnus Jonsson,Independent Board Member,8,8,8,7,5,1,0.714,0,7,10.3
+SE0009268279,SMART EYE AB,2578610,Yes,Cecilia Wachtmeister,Independent Board Member,5.6,5.6,5.6,4,3,1,0.714,0,7,10.3
+SE0009268279,SMART EYE AB,2578610,Yes,Anders Jöfelt,Chairman,7.7,8,8,1,1,1,0.714,0,7,10.3
+SE0009268279,SMART EYE AB,2578610,Yes,Mats Krantz,Board Member - SD,7.7,8,8,1,1,1,0.714,0,7,10.3
+SE0009268279,SMART EYE AB,2578610,Yes,Tobias Sjögren,Independent Board Member,1.6,1.6,1.6,2,1,1,0.714,0,7,10.3
+SE0006994448,SPECTRUMONE AB (Targeteveryone AB prior to 03/2020),2986165,Yes,Fredric Forsman,Chairman,8.2,8.2,8.2,5,3,2,0.667,,3,8
+SE0006994448,SPECTRUMONE AB (Targeteveryone AB prior to 03/2020),2986165,Yes,Hosni Teque-Omeirat,Board Member - SD,2.6,5.3,5.3,3,2,1,0.667,,3,8
+SE0006994448,SPECTRUMONE AB (Targeteveryone AB prior to 03/2020),2986165,Yes,Cecilia Hjertzell,Independent Board Member,3.9,3.9,3.9,2,1,0,0.667,,3,8
+SE0006421871,IMAGE SYSTEMS AB (Digital Vision AB prior to 06/2011),9273,Yes,Catharina Lagerstam,Independent Board Member,6.6,6.6,6.6,7,2,3,0.6,0,5,9.9
+SE0006421871,IMAGE SYSTEMS AB (Digital Vision AB prior to 06/2011),9273,Yes,Anders Fransson,Independent Chairman,2.6,4.9,4.9,3,2,1,0.6,0,5,9.9
+SE0006421871,IMAGE SYSTEMS AB (Digital Vision AB prior to 06/2011),9273,Yes,Matilda Wernhoff,Independent Board Member,2.6,2.6,2.6,1,1,0,0.6,0,5,9.9
+SE0006421871,IMAGE SYSTEMS AB (Digital Vision AB prior to 06/2011),9273,Yes,Jörgen Hermansson,Independent Board Member,2.5,2.5,2.5,1,1,0,0.6,0,5,9.9
+SE0006421871,IMAGE SYSTEMS AB (Digital Vision AB prior to 06/2011),9273,Yes,Jan Molin,Independent Board Member,2.6,2.6,2.6,1,1,1,0.6,0,5,9.9
+SE0005851706,IAR SYSTEMS GROUP AB (De-listed 11/2025),22320,Yes,Michael Ingelög,Independent Board Member,5.7,5.7,5.7,2,1,1,0.6,0,5,4.6
+SE0005851706,IAR SYSTEMS GROUP AB (De-listed 11/2025),22320,Yes,Sabina Lindén,Independent Board Member,2.7,2.7,2.7,2,2,1,0.6,0,5,4.6
+SE0005851706,IAR SYSTEMS GROUP AB (De-listed 11/2025),22320,Yes,Nicolas Hassbjer,Chairman (Independent Board Member),3.7,3.7,3.7,5,3,1,0.6,0,5,4.6
+SE0005851706,IAR SYSTEMS GROUP AB (De-listed 11/2025),22320,No,Cecilia Wachtmeister,CEO/MD,0.3,3.7,3.7,4,3,1,0.6,0,5,4.6
+SE0005851706,IAR SYSTEMS GROUP AB (De-listed 11/2025),22320,Yes,Fred Wikström,Independent Board Member,5.7,5.7,5.7,1,1,4,0.6,0,5,4.6
+SE0005794617,SANIONA AB,2142564,Yes,Professor Doctor Carl Sundberg,Independent Board Member,9.9,9.9,9.9,2,1,2,0.8,0.5,5,8.7
+SE0005794617,SANIONA AB,2142564,Yes,Doctor John Haurum,Independent Board Member,0.6,0.6,0.6,2,1,3,0.8,0.5,5,8.7
+SE0005794617,SANIONA AB,2142564,Yes,Jørgen Drejer,Chairman,2.6,10.7,10.7,3,1,1,0.8,0.5,5,8.7
+SE0005794617,SANIONA AB,2142564,Yes,Anna Ljung,Independent Board Member,6.9,6.9,6.9,4,3,1,0.8,0.5,5,8.7
+SE0005794617,SANIONA AB,2142564,Yes,Doctor Pierandrea Muglia,Independent Board Member,1.6,1.6,1.6,1,1,2,0.8,0.5,5,8.7
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Christophe Bourdon,Independent Board Member,1.6,1.6,1.6,1,1,2,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Annette Clancy,Independent Board Member,9.7,10.6,10.6,5,1,2,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Doctor Sven Ullman,Board Member - SD,1.6,2.2,3.7,3,2,2,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Helena Saxon,Board Member - SD,13.7,13.7,13.7,3,3,2,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,David Meek,Chairman (Independent Board Member),0,0,0,7,3,1,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Staffan Schüberg,Independent Board Member,4.6,4.6,4.6,2,1,1,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Zlatko Rihter,Board Member - SD,0.6,0.6,0.6,1,1,1,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Katy Mazibuko,Employee Representative,1.1,1.1,5.2,1,1,1,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Filippa Stenberg,Board Member - SD,3.6,3.6,3.6,1,1,1,0.6,0.4,10,9.5
+SE0000872095,SWEDISH ORPHAN BIOVITRUM AB (Biovitrum AB prior to 06/2010),83486,Yes,Mats Lek,Employee Representative,1.9,1.9,1.9,1,1,1,0.6,0.4,10,9.5
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,No,Erik Ekholm,President/CEO,7.9,18.7,18.7,10,2,2,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Jacob Wallenberg,Deputy Chair,13.7,13.7,14.7,10,2,3,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Jon Baksaas,Independent Director,7.8,7.8,7.8,8,2,4,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Ulf Rosberg,Employee Representative,1.4,1.4,3.8,7,3,2,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Jan Carlson,Independent Chair,1.8,7.8,7.8,6,3,3,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Christy Wyatt,Independent Director,1.8,1.8,1.8,4,2,1,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Karl Aberg,Director - SD,0.7,0.7,0.7,6,3,1,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Jonas Synnergren,Independent Director,1.8,1.8,1.8,4,2,2,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Eric Elzvik,Independent Director,7.8,7.8,7.8,3,3,1,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Kjell-Åke Soting,Employee Representative,7.8,7.8,28.9,1,1,0,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Kris Rinne,Independent Director,8.7,8.7,8.7,2,2,2,0.75,0.4,12,8.3
+SE0000108656,ERICSSON (Telefon AB LM Ericsson prior to 03/2012),10957,Yes,Annika Salomonsson,Employee Representative,1.4,1.4,25.9,1,1,0,0.75,0.4,12,8.3
+NO0013536078,IDEX BIOMETRICS ASA (IDEX ASA prior to 05/2019),15483,Yes,Adriana Saitta,Independent Board Member,1.6,1.6,1.6,3,2,2,0.333,0.7,3,9.7
+NO0013536078,IDEX BIOMETRICS ASA (IDEX ASA prior to 05/2019),15483,Yes,Morten Opstad,Chair,13.8,14.8,14.8,3,2,1,0.333,0.7,3,9.7
+NO0013536078,IDEX BIOMETRICS ASA (IDEX ASA prior to 05/2019),15483,Yes,Annika Olsson,Independent Board Member,3.6,3.6,3.6,1,1,0,0.333,0.7,3,9.7
+NO0011012502,SMARTOPTICS GROUP ASA (Smartoptics Group AS prior to 08/2025),3401600,Yes,Karl Thedéen,Board Member - SD,3.5,3.5,3.5,6,2,1,0.75,0,4,5.1
+NO0011012502,SMARTOPTICS GROUP ASA (Smartoptics Group AS prior to 08/2025),3401600,Yes,Thomas Ramm,Chairman,3.5,3.5,3.5,1,1,1,0.75,0,4,5.1
+NO0011012502,SMARTOPTICS GROUP ASA (Smartoptics Group AS prior to 08/2025),3401600,Yes,Einar Caspersen,Board Member - SD,2.6,2.6,3.5,1,1,1,0.75,0,4,5.1
+NO0011012502,SMARTOPTICS GROUP ASA (Smartoptics Group AS prior to 08/2025),3401600,Yes,Sara Asplund,Board Member - SD,2.6,2.6,2.6,1,1,2,0.75,0,4,5.1
+NO0010895782,XPLORA TECHNOLOGIES AS,3301108,Yes,Tore Engebretsen,Chairperson,4.1,4.1,4.1,6,1,1,0.6,0,5,10.8
+NO0010895782,XPLORA TECHNOLOGIES AS,3301108,Yes,Ingrid Leisner,Independent Board Member,3.5,3.5,3.5,15,3,4,0.6,0,5,10.8
+NO0010895782,XPLORA TECHNOLOGIES AS,3301108,Yes,Kari Bech-Moen,Independent Board Member,3.5,3.5,3.5,1,1,2,0.6,0,5,10.8
+NO0010895782,XPLORA TECHNOLOGIES AS,3301108,Yes,Harald Ulltveit-Moe,Board Member - SD,4.1,4.1,4.1,1,1,1,0.6,0,5,10.8
+NO0010895782,XPLORA TECHNOLOGIES AS,3301108,Yes,Bjørn Eide,Independent Board Member,4.1,4.1,4.1,1,1,1,0.6,0,5,10.8
+NO0010895568,AIRTHINGS ASA (De-listed 02/2026),3293484,Yes,Geir Førre,Chairman (Independent Board Member),2.6,4.2,4.2,1,1,1,0.5,0,6,3.3
+NO0010895568,AIRTHINGS ASA (De-listed 02/2026),3293484,Yes,Liv Dyrnes,Independent Board Member,4.2,4.2,4.2,1,1,1,0.5,0,6,3.3
+NO0010895568,AIRTHINGS ASA (De-listed 02/2026),3293484,Yes,Aksel Svindal,Independent Board Member,2.6,4.2,4.2,1,1,0,0.5,0,6,3.3
+NO0010895568,AIRTHINGS ASA (De-listed 02/2026),3293484,Yes,Karin Berg,Independent Board Member,3.2,3.2,3.2,1,1,1,0.5,0,6,3.3
+NO0010895568,AIRTHINGS ASA (De-listed 02/2026),3293484,Yes,Niklas Norin,Employee Representative,2.9,2.9,2.9,1,1,1,0.5,0,6,3.3
+NO0010895568,AIRTHINGS ASA (De-listed 02/2026),3293484,Yes,Elisabeth Barrie,Independent Board Member,0.5,0.5,0.5,1,1,1,0.5,0,6,3.3
+NO0010894231,LINK MOBILITY GROUP HOLDING ASA,3287366,Yes,Grethe Viksaas,Independent Board Member,4.2,4.2,4.2,7,3,2,0.5,0.6,6,10.3
+NO0010894231,LINK MOBILITY GROUP HOLDING ASA,3287366,Yes,Rob Nicewicz Jr,Board Member - SD,4.2,4.2,4.2,1,1,1,0.5,0.6,6,10.3
+NO0010894231,LINK MOBILITY GROUP HOLDING ASA,3287366,Yes,Andre Christensen,Independent Chairman,2.4,2.4,2.4,2,2,3,0.5,0.6,6,10.3
+NO0010894231,LINK MOBILITY GROUP HOLDING ASA,3287366,Yes,Jens Rugseth,Board Member - SD,2.4,4.2,4.2,5,4,1,0.5,0.6,6,10.3
+NO0010894231,LINK MOBILITY GROUP HOLDING ASA,3287366,Yes,Sara Forste,Independent Board Member,4.2,4.2,4.2,3,2,2,0.5,0.6,6,10.3
+NO0010894231,LINK MOBILITY GROUP HOLDING ASA,3287366,Yes,Sabrina Gosman,Board Member - SD,2.3,2.3,2.3,1,1,0,0.5,0.6,6,10.3
+NO0010781560,SPOTLIO AS (Canopy Holdings AS prior to 09/2023) (De-listed 09/2025),3317570,Yes,Rafael Fuertes Armengol,Board Member - SD,0.9,1.1,1.1,2,2,1,0.8,0,5,7.5
+NO0010781560,SPOTLIO AS (Canopy Holdings AS prior to 09/2023) (De-listed 09/2025),3317570,Yes,Thomas Wrede-Holm,Chairman,1.6,3.2,3.2,2,2,3,0.8,0,5,7.5
+NO0010781560,SPOTLIO AS (Canopy Holdings AS prior to 09/2023) (De-listed 09/2025),3317570,Yes,Marc Bigas Bachs,Board Member - SD,0.3,0.3,0.4,1,1,3,0.8,0,5,7.5
+NO0010781560,SPOTLIO AS (Canopy Holdings AS prior to 09/2023) (De-listed 09/2025),3317570,Yes,Tonje Berg,Board Member - SD,2.3,2.3,2.3,1,1,1,0.8,0,5,7.5
+NO0010781560,SPOTLIO AS (Canopy Holdings AS prior to 09/2023) (De-listed 09/2025),3317570,Yes,Martí Herrero,Board Member - SD,2.3,2.3,2.3,1,1,0,0.8,0,5,7.5
+NO0010112675,REC SILICON ASA (Renewable Energy Corporation ASA prior to 10/2013),787123,Yes,Joo-Yong Chung,Deputy Chair (Independent Board Member),0.6,0.6,0.6,2,2,2,0.4,0.5,5,3
+NO0010112675,REC SILICON ASA (Renewable Energy Corporation ASA prior to 10/2013),787123,Yes,Vivian Bertseka,Independent Board Member,2.2,2.2,2.2,1,1,2,0.4,0.5,5,3
+NO0010112675,REC SILICON ASA (Renewable Energy Corporation ASA prior to 10/2013),787123,Yes,Tae Jun,Chair,2.2,2.2,2.2,2,1,2,0.4,0.5,5,3
+NO0010112675,REC SILICON ASA (Renewable Energy Corporation ASA prior to 10/2013),787123,Yes,Doctor Renate Oberhoffer-Fritz,Independent Board Member,2.6,2.6,2.6,1,1,4,0.4,0.5,5,3
+NO0010112675,REC SILICON ASA (Renewable Energy Corporation ASA prior to 10/2013),787123,Yes,Robert Neuhauser,Independent Board Member,0.6,0.6,0.6,1,1,3,0.4,0.5,5,3
+NO0010000045,PHOTOCURE ASA,24393,Yes,Ghizlane Tagmouti,Independent Director,0.6,0.6,0.6,1,1,2,0.667,,3,
+NO0010000045,PHOTOCURE ASA,24393,Yes,Doctor Neal Shore,Independent Director,2.7,2.7,2.7,1,1,7,0.667,,3,
+NO0010000045,PHOTOCURE ASA,24393,Yes,Dylan Hallerberg,Independent Chair,0.6,1.6,1.6,1,1,1,0.667,,3,
+NL0015002SN0,QIAGEN NV,25483,Yes,Doctor Tony Haag,Independent Director,3.9,3.9,3.9,3,2,3,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Steve Rusckowski,Independent Director,1.7,1.7,1.7,8,3,2,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Liz Tallett,Independent Director,13.5,13.5,13.5,11,3,1,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Larry Rosen,Independent Chair,4.3,11.5,11.5,5,3,2,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,No,Thierry Bernard,CEO/MD,4.5,4.5,9.8,3,2,5,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Professor Doctor Elaine Mardis,Independent Director,10.5,10.5,10.5,3,2,2,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Doctor Metin Colpan,Independent Director,10.9,39.9,39.9,3,1,2,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,No,Roland Sackers,MD/CFO,18.9,18.9,25.9,5,2,1,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Professor Doctor Ross Levine,Independent Director,8.9,8.9,8.9,2,1,2,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Bert van Meurs,Independent Director,0.7,0.7,0.7,1,1,2,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Eva van Pelt,Independent Director,0.8,0.8,0.8,2,2,1,0.667,0.7,12,6.3
+NL0015002SN0,QIAGEN NV,25483,Yes,Doctor Eva Pisa,Independent Director,2.5,2.5,2.5,1,1,2,0.667,0.7,12,6.3
+NL0013332471,TOMTOM NV,813738,Yes,Derk Haank,Chairman (Independent Board Member),5.7,6.3,6.3,7,2,2,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,No,Harold Goddijn,CEO,19.6,19.6,19.6,3,1,1,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,Yes,Jack De Kreij,Deputy Chairman (Independent Board Member),2.7,7.9,7.9,6,3,2,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,No,Alain De Taeye,Board Member - ED,16.3,16.3,16.3,3,1,1,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,No,Taco Titulaer,CFO,9.3,9.2,19.3,1,1,1,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,Yes,Mike Rhodin,Independent Board Member,7.7,7.7,7.7,2,1,2,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,Yes,Gemma Postlethwaite,Independent Board Member,2.2,2.2,2.2,1,1,1,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,Yes,Maaike Schipperheijn,Independent Board Member,0.7,0.7,0.7,2,1,2,0.667,0.6,9,8.3
+NL0013332471,TOMTOM NV,813738,Yes,Marili 't Hooft-Bolle,Independent Board Member,2.5,2.5,2.5,1,1,3,0.667,0.6,9,8.3
+NL0012866412,BE SEMICONDUCTOR INDUSTRIES NV (BESI),3868,Yes,Carlo Bozotti,Vice Chairman (Independent Board Member),3.9,6.4,6.4,3,1,1,0.667,0.7,6,4.4
+NL0012866412,BE SEMICONDUCTOR INDUSTRIES NV (BESI),3868,No,Richard Blickman,Chairman/President/CEO,29,29,29,1,1,1,0.667,0.7,6,4.4
+NL0012866412,BE SEMICONDUCTOR INDUSTRIES NV (BESI),3868,Yes,Doctor Laura Oliphant,Independent Board Member,3.7,3.7,3.7,3,2,5,0.667,0.7,6,4.4
+NL0012866412,BE SEMICONDUCTOR INDUSTRIES NV (BESI),3868,Yes,Doctor Niek Hoek,Independent Board Member,6.7,6.7,6.7,5,2,2,0.667,0.7,6,4.4
+NL0012866412,BE SEMICONDUCTOR INDUSTRIES NV (BESI),3868,Yes,Elke Eckstein,Independent Board Member,3.3,3.3,3.3,3,3,1,0.667,0.7,6,4.4
+NL0012866412,BE SEMICONDUCTOR INDUSTRIES NV (BESI),3868,Yes,Richard Norbruis,Chairman (Independent Board Member),1.7,1.7,1.7,1,1,1,0.667,0.7,6,4.4
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Peter Verhaeghe,Chairman (Independent Board Member),10.4,10.4,10.4,3,1,3,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Doctor Don deBethizy,Vice Chairman (Independent Board Member),1.6,9.6,9.6,6,1,5,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Tony Rosenberg,Independent Board Member,7.7,7.7,8.2,6,3,2,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Jim Daly,Independent Board Member,6.6,6.6,6.6,6,3,2,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Steve Krognes,Independent Board Member,1.8,1.8,1.8,7,4,2,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Doctor Pam Klein,Independent Board Member,8.7,8.7,9.6,5,2,2,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,No,Tim van Hauwermeiren,CEO,10.4,10.4,10.4,4,3,4,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Camilla Sylvest,Independent Board Member,2.3,2.3,2.3,2,2,2,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Doctor Brian Kotzin,Independent Board Member,0.6,0.6,0.6,4,1,5,0.7,0.7,10,8.8
+NL0010832176,ARGENX SE (ARGEN-X NV prior to 05/2017),2123607,Yes,Ana Cespedes,Independent Board Member,2,2,2,1,1,4,0.7,0.7,10,8.8
+NL0010391025,PHARMING GROUP NV,24330,Yes,Leon Kruimer,Independent Board Member,3.6,3.6,3.8,6,4,3,0.625,0.7,8,5.8
+NL0010391025,PHARMING GROUP NV,24330,Yes,Doctor Mark Pykett,Independent Board Member,4,4,4,4,1,7,0.625,0.7,8,5.8
+NL0010391025,PHARMING GROUP NV,24330,No,Doctor Sijmen de Vries,CEO,4.4,16.1,16.1,2,2,2,0.625,0.7,8,5.8
+NL0010391025,PHARMING GROUP NV,24330,Yes,Barbara Yanni,Independent Board Member,4.6,4.6,4.6,6,2,5,0.625,0.7,8,5.8
+NL0010391025,PHARMING GROUP NV,24330,Yes,Steven Baert,Independent Board Member,3.6,3.6,3.8,1,1,3,0.625,0.7,8,5.8
+NL0010391025,PHARMING GROUP NV,24330,Yes,Doctor Richard Peters,Independent Chairman,1.3,1.3,1.4,4,2,5,0.625,0.7,8,5.8
+NL0010391025,PHARMING GROUP NV,24330,Yes,Deb Jorn,Vice Chairman (Independent Board Member),4,5.6,5.6,4,1,2,0.625,0.7,8,5.8
+NL0010391025,PHARMING GROUP NV,24330,Yes,Doctor Jabine van der Meijs,Independent Board Member,3.6,3.6,3.8,3,1,1,0.625,0.7,8,5.8
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,David East,Independent Board Member,4.7,4.7,4.7,6,1,4,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,Nils Andersen,Chair (Independent Board Member),1.7,1.7,1.7,9,1,5,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,D Durcan,Independent Board Member,4.7,4.7,4.7,8,3,2,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,Jack De Kreij,Independent Board Member,1.7,1.7,1.7,6,3,2,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,Annet Aris,Vice Chair (Independent Board Member),3.9,9.7,9.7,9,3,2,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,No,Frederic Schneider-Maunoury,Executive VP/Chief Operations Officer,14.8,14.8,15,1,1,2,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,Alexander Everke,Independent Board Member,2.7,2.7,2.7,3,2,2,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,No,Wayne Allan,Executive VP/Chief Strategic Sourcing & Procurement Officer,1.7,1.7,6.1,1,1,1,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,Birgit Conix,Independent Board Member,3.7,3.7,3.7,3,1,2,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,Terri Kelly,Independent Board Member,6.7,6.7,6.7,2,2,1,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,No,Jim Koonmen,Executive VP/Chief Customer Officer,0.7,0.7,6.7,1,1,3,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,Yes,Doctor An Steegen,Independent Board Member,2.7,2.7,2.7,3,2,1,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,No,Doctor Roger Dassen,Executive VP/CFO,6.5,6.5,6.5,1,1,3,0.714,0.8,14,4.5
+NL0010273215,ASML HOLDING NV (ASM Lithography Holding NV prior to 2001),2781,No,Christophe Fouquet,President/CEO,0.7,6.7,16.3,1,1,1,0.714,0.8,14,4.5
+NL0000334118,ASM INTERNATIONAL NV,2779,Yes,Martin Van den Brink,Independent Board Member,0.6,0.6,0.6,2,1,2,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,Yes,Doctor Didier Lamouche,Independent Vice Chair,0.9,4.6,4.6,8,3,2,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,Yes,Pauline van der Meer Mohr,Chair (Independent Board Member),2.6,3.3,3.3,8,3,3,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,No,Paul Verhagen,CFO,3.5,3.5,3.5,4,2,3,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,Yes,Marc De Jong,Independent Board Member,6.6,6.6,6.6,3,2,3,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,No,Doctor Hichem M'Saad,Chairman/President/CEO,0.6,2.6,9.8,2,2,3,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,Yes,Stefanie Kahle-Galonske,Independent Board Member,7.6,7.6,7.6,2,1,3,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,Yes,Adalio Sanchez,Independent Board Member,3.3,3.3,3.3,5,3,2,0.667,0.7,9,4.6
+NL0000334118,ASM INTERNATIONAL NV,2779,Yes,Tania Micki,Independent Board Member,0.6,0.6,0.6,1,1,3,0.667,0.7,9,4.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Nicolas Dufourcq,Chairman (Independent Board Member),4.6,9.6,9.6,6,2,2,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Janet Davidson,Independent Board Member,11.5,11.5,11.5,3,2,3,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Ana de Pro Gonzalo,Independent Board Member,4.5,4.5,4.5,5,3,2,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Pascal Daloz,Independent Board Member,0.6,0.6,0.6,3,3,1,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,No,Jean-Marc Chery,President/CEO,6.6,6.6,23.9,2,2,1,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Frédéric Sanchez,Independent Board Member,7.5,7.5,7.5,3,3,3,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,No,Lorenzo Grandi,President/CFO,0.2,0.6,37.9,1,1,2,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Maurizio Tamagnini,Vice Chairman (Independent Board Member),4.6,10.5,10.5,1,1,2,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Hélène Vletter-van Dort,Independent Board Member,1.6,1.6,1.6,4,1,2,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Donatella Sciuto,Independent Board Member,2.6,2.6,2.6,4,3,4,0.636,0.7,11,3.6
+NL0000226223,STMICROELECTRONICS NV (SGS-THOMSON Microelectronics NV prior to 1998),29278,Yes,Paolo Visca,Independent Board Member,1.6,1.6,1.6,1,1,1,0.636,0.7,11,3.6
+FI4000519236,F-SECURE OYJ,3544960,Yes,Risto Siilasmaa,Independent Board Member,2.4,2.4,2.4,5,2,1,0.667,0.3,6,5.9
+FI4000519236,F-SECURE OYJ,3544960,Yes,Thomas Jul,Independent Board Member,2.4,2.4,2.4,1,1,1,0.667,0.3,6,5.9
+FI4000519236,F-SECURE OYJ,3544960,Yes,Pertti Ervi,Chairman (Independent Board Member),2.4,2.4,2.4,8,2,1,0.667,0.3,6,5.9
+FI4000519236,F-SECURE OYJ,3544960,Yes,Tommi Uitto,Independent Board Member,0.8,0.8,0.8,1,1,2,0.667,0.3,6,5.9
+FI4000519236,F-SECURE OYJ,3544960,Yes,Petra Teräsaho,Independent Board Member,2.4,2.4,2.4,1,1,2,0.667,0.3,6,5.9
+FI4000519236,F-SECURE OYJ,3544960,No,Katja Kuusikumpu,Board Member - ED,0.8,0.8,0.8,1,1,1,0.667,0.3,6,5.9
+FI4000513015,DIGITAL WORKFORCE SERVICES OYJ,3484714,Yes,Doctor Leena Niemistö,Independent Board Member,3,3,3,7,5,4,0.667,0,6,5.3
+FI4000513015,DIGITAL WORKFORCE SERVICES OYJ,3484714,Yes,Jukka Virkkunen,Board Member - SD,1.2,3,3,2,1,2,0.667,0,6,5.3
+FI4000513015,DIGITAL WORKFORCE SERVICES OYJ,3484714,Yes,Timo Ahopelto,Independent Board Member,2.7,3,3,4,3,1,0.667,0,6,5.3
+FI4000513015,DIGITAL WORKFORCE SERVICES OYJ,3484714,Yes,Juha Mikkola,Board Member - SD,3,3,3,3,1,2,0.667,0,6,5.3
+FI4000513015,DIGITAL WORKFORCE SERVICES OYJ,3484714,Yes,Heikki Länsisyrjä,Chairman,0.7,3,3,2,2,2,0.667,0,6,5.3
+FI4000513015,DIGITAL WORKFORCE SERVICES OYJ,3484714,Yes,Marika Auramo,Independent Board Member,3,3,3,2,1,2,0.667,0,6,5.3
+FI4000507934,AIFORIA TECHNOLOGIES OYJ,3486452,Yes,Steve Lynum,Board Member - SD,1.8,1.8,1.8,1,1,0,0.857,0,7,6.6
+FI4000507934,AIFORIA TECHNOLOGIES OYJ,3486452,Yes,Doctor Tuomas Tenkanen,Board Member - SD,0.7,0.7,0.7,1,1,2,0.857,0,7,6.6
+FI4000507934,AIFORIA TECHNOLOGIES OYJ,3486452,Yes,Jerry Hong,Board Member - SD,2.7,2.7,2.7,1,1,1,0.857,0,7,6.6
+FI4000507934,AIFORIA TECHNOLOGIES OYJ,3486452,Yes,Doctor Johan Lundin,Scientific Advisor,3,3,3,1,1,2,0.857,0,7,6.6
+FI4000507934,AIFORIA TECHNOLOGIES OYJ,3486452,Yes,Doctor Maria de Paz,Independent Board Member,2.7,2.7,2.7,1,1,3,0.857,0,7,6.6
+FI4000507934,AIFORIA TECHNOLOGIES OYJ,3486452,No,Panu Kauppila,Chief Product Officer,1,1.9,1.9,1,1,1,0.857,0,7,6.6
+FI4000507934,AIFORIA TECHNOLOGIES OYJ,3486452,Yes,Pekka Mattila,Chairman,3,3,3,2,1,1,0.857,0,7,6.6
+FI4000283130,GOFORE OYJ,2786361,Yes,Antti Koskelin,Independent Board Member,0.7,0.7,0.7,1,1,1,0.667,0,6,4.4
+FI4000283130,GOFORE OYJ,2786361,Yes,Piia-Noora Kauppi,Independent Board Member,3.8,3.8,3.8,2,2,3,0.667,0,6,4.4
+FI4000283130,GOFORE OYJ,2786361,Yes,Mammu Kaario,Independent Board Member,4.7,4.7,4.7,9,4,2,0.667,0,6,4.4
+FI4000283130,GOFORE OYJ,2786361,Yes,Sami Somero,Independent Board Member,7.1,7.1,7.1,1,1,2,0.667,0,6,4.4
+FI4000283130,GOFORE OYJ,2786361,Yes,Timur Kärki,Chairman,5,5,7.1,3,2,1,0.667,0,6,4.4
+FI4000283130,GOFORE OYJ,2786361,Yes,Matti Saastamoinen,Employee Representative,0.7,0.7,7.9,1,1,1,0.667,0,6,4.4
+FI4000233317,ENERSIZE OYJ,2684793,Yes,Johan Gralen,Independent Board Member,0.5,0.5,0.5,1,1,1,1,0,3,10.7
+FI4000233317,ENERSIZE OYJ,2684793,Yes,Alexander Fällström,Chairman,1.9,2.5,2.5,2,2,0,1,0,3,10.7
+FI4000233317,ENERSIZE OYJ,2684793,Yes,Anders Wallseth,Independent Board Member,0.5,0.5,0.5,1,1,0,1,0,3,10.7
+FI4000185533,VINCIT PLC (VINCIT OYJ) (Vincit Group Oyj prior to 05/2018),2630415,Yes,Mikko Kuitunen,Chairman,3.4,4.9,8,3,2,1,0.75,0,4,10
+FI4000185533,VINCIT PLC (VINCIT OYJ) (Vincit Group Oyj prior to 05/2018),2630415,Yes,Arto Martonen,Independent Board Member,2.9,2.9,2.9,2,2,1,0.75,0,4,10
+FI4000185533,VINCIT PLC (VINCIT OYJ) (Vincit Group Oyj prior to 05/2018),2630415,Yes,Mervi Airaksinen,Independent Board Member,3.9,3.9,3.9,1,1,0,0.75,0,4,10
+FI4000185533,VINCIT PLC (VINCIT OYJ) (Vincit Group Oyj prior to 05/2018),2630415,Yes,Frank Korsström,Independent Board Member,2.9,2.9,2.9,1,1,1,0.75,0,4,10
+FI4000115464,DETECTION TECHNOLOGY OYJ,2244465,Yes,Johan Roos,Vice Chair (Independent Board Member),1.8,9.8,9.8,1,1,1,0.667,0.8,6,7.2
+FI4000115464,DETECTION TECHNOLOGY OYJ,2244465,Yes,Hannu Syrjälä,Chair (Independent Board Member),6.8,7.3,7.3,1,1,1,0.667,0.8,6,7.2
+FI4000115464,DETECTION TECHNOLOGY OYJ,2244465,Yes,Richard Ingram,Independent Board Member,4.7,4.7,4.7,2,1,3,0.667,0.8,6,7.2
+FI4000115464,DETECTION TECHNOLOGY OYJ,2244465,Yes,Jyrki Vainionpää,Board Member - SD,0.8,0.8,0.8,1,1,2,0.667,0.8,6,7.2
+FI4000115464,DETECTION TECHNOLOGY OYJ,2244465,Yes,Marion Björkstén,Board Member - SD,1.8,2.8,2.8,1,1,1,0.667,0.8,6,7.2
+FI4000115464,DETECTION TECHNOLOGY OYJ,2244465,Yes,Amy Chen,Independent Board Member,0.8,0.8,0.8,1,1,2,0.667,0.8,6,7.2
+FI4000043435,SIILI SOLUTIONS PLC (SIILI SOLUTIONS OYJ),2038130,Yes,Doctor Tero Ojanpera,Independent Board Member,4.3,4.3,4.3,4,2,2,0.6,0,5,6.2
+FI4000043435,SIILI SOLUTIONS PLC (SIILI SOLUTIONS OYJ),2038130,Yes,Harry Brade,Chairman (Independent Board Member),6.9,8.8,8.8,2,1,3,0.6,0,5,6.2
+FI4000043435,SIILI SOLUTIONS PLC (SIILI SOLUTIONS OYJ),2038130,Yes,Katarina Cantell,Independent Board Member,0.7,0.7,0.7,2,2,1,0.6,0,5,6.2
+FI4000043435,SIILI SOLUTIONS PLC (SIILI SOLUTIONS OYJ),2038130,Yes,Henna Mäkinen,Independent Board Member,0.7,0.7,0.7,3,2,1,0.6,0,5,6.2
+FI4000043435,SIILI SOLUTIONS PLC (SIILI SOLUTIONS OYJ),2038130,Yes,Jesse Maula,Vice Chair (Independent Board Member),0.7,3.8,3.8,1,1,1,0.6,0,5,6.2
+FI4000014238,LOIHDE OYJ,3423686,Yes,Matti Vikkula,Independent Board Member,1.6,1.6,1.6,4,1,3,0.833,0,6,4.6
+FI4000014238,LOIHDE OYJ,3423686,Yes,Anni Ronkainen,Independent Board Member,1.6,1.6,1.6,8,5,1,0.833,0,6,4.6
+FI4000014238,LOIHDE OYJ,3423686,Yes,Jari Niska,Independent Vice Chair,0.6,0.6,0.6,2,1,2,0.833,0,6,4.6
+FI4000014238,LOIHDE OYJ,3423686,Yes,Marko Kauppi,Independent Chair,0.6,0.6,0.6,3,1,1,0.833,0,6,4.6
+FI4000014238,LOIHDE OYJ,3423686,Yes,Juha Murtopuro,Independent Board Member,1.6,1.6,1.6,1,1,1,0.833,0,6,4.6
+FI4000014238,LOIHDE OYJ,3423686,Yes,Christian Wetterstrand,Independent Board Member,0.6,0.6,0.6,1,1,0,0.833,0,6,4.6
+FI0009008270,SSH COMMUNICATIONS SECURITY OYJ,28958,Yes,Karl-Christian Fredrikson,Independent Board Member,3.8,3.8,3.8,2,1,1,0.8,0,5,7.2
+FI0009008270,SSH COMMUNICATIONS SECURITY OYJ,28958,Yes,Tuomo Louhivuori,Independent Board Member,0.8,0.8,0.8,1,1,1,0.8,0,5,7.2
+FI0009008270,SSH COMMUNICATIONS SECURITY OYJ,28958,Yes,Henri Österlund,Chairman,4.5,4.5,4.5,6,2,1,0.8,0,5,7.2
+FI0009008270,SSH COMMUNICATIONS SECURITY OYJ,28958,Yes,Kai Tavakka,Board Member - SD,4.5,4.5,4.5,3,3,2,0.8,0,5,7.2
+FI0009008270,SSH COMMUNICATIONS SECURITY OYJ,28958,Yes,Catharina Candolin,Independent Board Member,2.8,2.8,2.8,1,1,4,0.8,0,5,7.2
+FI0009007991,SOLTEQ OYJ,28529,Yes,Mika Sutinen,Independent Board Member,2.8,2.8,2.8,1,1,2,0.714,,7,9.6
+FI0009007991,SOLTEQ OYJ,28529,Yes,Panu Porkka,Board Member - SD,5.8,5.8,5.8,3,1,1,0.714,,7,9.6
+FI0009007991,SOLTEQ OYJ,28529,Yes,Markku Pietila,Independent Chairman,7.8,16.8,16.8,1,1,2,0.714,,7,9.6
+FI0009007991,SOLTEQ OYJ,28529,Yes,Katarina Cantell,Board Member - SD,5.8,5.8,5.8,2,2,1,0.714,,7,9.6
+FI0009007991,SOLTEQ OYJ,28529,Yes,Anni Sarvaranta,Independent Board Member,2.8,2.8,2.8,1,1,1,0.714,,7,9.6
+FI0009007991,SOLTEQ OYJ,28529,Yes,Esko Mertsalmi,Independent Board Member,1.8,1.8,1.8,1,1,1,0.714,,7,9.6
+FI0009007991,SOLTEQ OYJ,28529,Yes,Lotta Airas,Independent Board Member,0.8,0.8,0.8,1,1,1,0.714,,7,9.6
+FI0009007983,DIGIA OYJ (SysOpen Digia PLC prior to 03/2008),1066310,Yes,Martti Ala-Härkönen,Vice Chair (Independent Board Member),1.8,8.8,8.8,2,1,2,0.667,0,6,3.5
+FI0009007983,DIGIA OYJ (SysOpen Digia PLC prior to 03/2008),1066310,Yes,Outi Taivainen,Independent Board Member,6.8,6.8,6.8,1,1,2,0.667,0,6,3.5
+FI0009007983,DIGIA OYJ (SysOpen Digia PLC prior to 03/2008),1066310,Yes,Santtu Elsinen,Independent Board Member,6.8,6.8,6.8,1,1,1,0.667,0,6,3.5
+FI0009007983,DIGIA OYJ (SysOpen Digia PLC prior to 03/2008),1066310,Yes,Robert Ingman,Chairman,6.8,14.8,14.8,5,4,2,0.667,0,6,3.5
+FI0009007983,DIGIA OYJ (SysOpen Digia PLC prior to 03/2008),1066310,Yes,Henry Nieminen,Independent Board Member,1.8,1.8,1.8,1,1,2,0.667,0,6,3.5
+FI0009007983,DIGIA OYJ (SysOpen Digia PLC prior to 03/2008),1066310,Yes,Sari Leppänen,Independent Board Member,2.8,2.8,2.8,1,1,1,0.667,0,6,3.5
+FI0009007264,BITTIUM OYJ (Elektrobit OYJ prior to 07/2015),830612,Yes,Pekka Kemppainen,Independent Board Member,5.7,5.7,5.7,2,2,1,0.833,0,6,9
+FI0009007264,BITTIUM OYJ (Elektrobit OYJ prior to 07/2015),830612,Yes,Riitta Tiuraniemi,Independent Board Member,6.7,6.7,6.7,1,1,1,0.833,0,6,9
+FI0009007264,BITTIUM OYJ (Elektrobit OYJ prior to 07/2015),830612,Yes,Petri Toljamo,Independent Board Member,5.8,5.8,19.3,1,1,3,0.833,0,6,9
+FI0009007264,BITTIUM OYJ (Elektrobit OYJ prior to 07/2015),830612,Yes,Erkki Veikkolainen,Chairman (Independent Board Member),9.1,16.8,17.8,1,1,2,0.833,0,6,9
+FI0009007264,BITTIUM OYJ (Elektrobit OYJ prior to 07/2015),830612,Yes,Veli-Pekka Paloranta,Independent Board Member,4.5,4.5,16.5,1,1,1,0.833,0,6,9
+FI0009007264,BITTIUM OYJ (Elektrobit OYJ prior to 07/2015),830612,Yes,Raimo Jyväsjärvi,Board Member - SD,0.7,0.7,0.7,1,1,0,0.833,0,6,9
+FI0009000681,NOKIA OYJ,22335,Yes,Sari Baldauf,Chair (Independent Board Member),4.6,6.6,15.6,10,1,3,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Lisa Hook,Independent Board Member,2.7,2.7,2.7,14,3,3,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Doctor Kai Öistämö,Independent Board Member,2.7,2.7,25.9,6,1,2,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Søren Skou,Vice Chair (Independent Board Member),2.7,5.6,5.6,5,1,4,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Carla Smits-Nusteling,Independent Board Member,8.5,8.5,8.5,6,2,2,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Elizabeth Crain,Independent Board Member,1.7,1.7,1.7,3,1,2,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Thomas Dannenfeldt,Independent Board Member,4.6,4.6,4.6,4,2,1,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Mike McNamara,Independent Board Member,0.7,0.7,0.7,2,1,1,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Thomas Saueressig,Independent Board Member,2.7,2.7,2.7,2,2,3,0.6,0.8,10,8
+FI0009000681,NOKIA OYJ,22335,Yes,Timo Ahopelto,Independent Board Member,1.7,1.7,1.7,4,3,1,0.6,0.8,10,8
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Tomas Franzén,Chairman (Independent Board Member),5,5.8,5.8,11,3,2,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Bertil Carlsén,Independent Board Member,1.8,1.8,1.8,1,1,2,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Liselotte Engstam,Independent Board Member,6.8,6.8,6.8,7,2,9,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Harri-Pekka Kaukonen,Deputy Chairman (Independent Board Member),4.5,8.8,8.8,6,1,3,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Anders Palklint,Employee Representative,8,8,11.8,1,1,1,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Doctor Elisabetta Castiglioni,Independent Board Member,1.8,1.8,1.8,5,2,2,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Petter Soderstrom,Board Member - SD,1.8,1.8,1.8,3,2,1,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Katharina Mosheim,Independent Board Member,4.7,4.7,4.7,1,1,1,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Thomas Slettemoen,Employee Representative,0.8,0.8,2,1,1,0,0.7,0.7,10,8.6
+FI0009000277,TIETO OYJ (Tietoevry Oyj prior to 03/2026),30721,Yes,Gustav Moss,Independent Board Member,1.8,1.8,4.3,1,1,1,0.7,0.7,10,8.6
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Doctor Sylvie Grégoire,Independent Board Member,9.8,9.8,9.8,7,3,4,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Helge Lund,Chair (Independent Board Member),6.8,8.8,8.8,6,2,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Laurence Debroux,Independent Board Member,5.8,5.8,5.8,10,3,1,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Andreas Fibig,Independent Board Member,6.8,6.8,6.8,5,2,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Doctor Martin Mackay,Independent Board Member,6.8,6.8,6.8,6,4,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Lars Jørgensen,President/CEO,7.9,11.9,30.8,4,1,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Henrik Poulsen,Vice Chair,2.8,3.8,4.8,6,2,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Henrik Wulff,Executive VP - Product Supply & Quality,9.7,9.7,26.9,2,1,1,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Tania Sabroe,Executive VP - People Organisation & Corporate Affairs,1.8,1.8,20.9,1,1,0,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Kasim Kutay,Board Member - SD,7.8,7.8,7.8,4,2,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Dave Moore,Executive VP - Corporate Development,1.8,1.8,2.3,2,1,3,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Christina Law,Independent Board Member,2.8,2.8,2.8,2,2,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Liselotte Hyveled,Employee Representative,6.8,6.8,31.7,2,2,3,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Karsten Knudsen,Executive VP/CFO,6.8,6.8,17.3,2,1,1,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Maziar Doustdar,Executive VP - International Operations,9.7,9.7,32.6,2,2,1,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Camilla Sylvest,Executive VP - Strategy/Corporate Affairs,7.2,7.2,28.7,2,2,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Thomas Rantzau,Employee Representative,6.8,6.8,34.9,1,1,0,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Mette Jensen,Employee Representative,6.8,6.8,20.8,1,1,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Doctor Marcus Schindler,Executive VP - R&D/Chief Scientific Officer,3.8,3.8,6.9,2,1,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Ludovic Helfgott,Executive VP - Rare Disease,5.7,5.7,5.7,1,1,4,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,No,Doctor Martin Lange,Executive VP - Development,3.8,3.8,19.6,1,1,2,0.636,0.7,22,5
+DK0062498333,NOVO-NORDISK A/S,22606,Yes,Elisabeth Christensen,Employee Representative,2.8,2.8,2.8,1,1,0,0.636,0.7,22,5
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Lars Rasmussen,Chairman (Independent Board Member),8.8,11.8,11.8,8,3,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Lars Bang,Executive VP - Product Development,8.8,8.8,32.9,1,1,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Lene Skole-Sørensen,Deputy Chair,9.8,9.8,9.8,7,4,4,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Doctor Dorothea Wenzel,Independent Board Member,3.8,3.8,3.8,4,3,4,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Jakob Riis,Independent Board Member,1.8,1.8,1.8,3,1,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Jeff Berkowitz,Independent Board Member,6.8,6.8,6.8,5,2,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Charl van Zyl,President/CEO,1.3,1.3,1.3,1,1,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Lars Holmqvist,Board Member - SD,9.8,9.8,9.8,6,5,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Tom Gibbs,Executive VP/Head of Division,1.8,1.8,1.8,1,1,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Michala Fischer-Hansen,Executive VP/Head of Division,0.7,0.7,0.7,1,1,3,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Joerg Hornstein,Executive VP/CFO,2.3,2.3,2.3,1,1,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Doctor Santiago Arroyo,Independent Board Member,3.8,3.8,3.8,2,1,3,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Doctor Johan Luthman,Executive VP - Research & Development,5.8,5.8,5.8,2,2,7,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Tine Hansen,Senior VP/Head of Corporate Communications,0.7,0.7,0.7,1,1,0,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Hossein Armandi,Employee Representative,2.8,2.8,29.9,1,1,0,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Dorte Clausen,Employee Representative,2.8,2.8,12.7,1,1,1,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Lasse Skibsbye,Employee Representative,2.8,2.8,8.6,1,1,2,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,Yes,Camilla Andersson,Employee Representative,2.8,2.8,19.6,1,1,1,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Dianne Hol,Executive VP/Head of Division,0.7,0.7,0.7,1,1,1,0.65,0.6,20,7.8
+DK0061804770,LUNDBECK(H) A/S,14158,No,Maria Alfaiate,Executive VP - Commercial,0.3,0.3,0.3,1,1,1,0.65,0.6,20,7.8
+DK0061536828,IMPERO A/S,3386123,Yes,Jorgen Bardenfleth,Chair (Independent Board Member),3.7,3.7,3.7,5,1,3,0.667,0,6,12.8
+DK0061536828,IMPERO A/S,3386123,Yes,Line Ljungdahl,Independent Board Member,3.7,3.7,3.7,2,2,2,0.667,0,6,12.8
+DK0061536828,IMPERO A/S,3386123,Yes,Carsten Gerner,Independent Board Member,3.7,3.7,3.7,1,1,2,0.667,0,6,12.8
+DK0061536828,IMPERO A/S,3386123,Yes,Helen Agering,Independent Board Member,2.7,2.7,2.7,1,1,1,0.667,0,6,12.8
+DK0061536828,IMPERO A/S,3386123,Yes,Jens Kolind,Vice Chair,0.7,0.7,0.7,1,1,1,0.667,0,6,12.8
+DK0061536828,IMPERO A/S,3386123,Yes,Steffen Pasgaard,Board Member - SD,0.7,0.7,0.7,1,1,3,0.667,0,6,12.8
+DK0061113511,KONSOLIDATOR A/S,3032181,Yes,Thomas à Porta,Independent Board Member,2.8,2.8,2.8,2,1,3,1,0,5,1.2
+DK0061113511,KONSOLIDATOR A/S,3032181,Yes,Michael Andersen,Chairman,0.1,2.3,2.3,3,1,2,1,0,5,1.2
+DK0061113511,KONSOLIDATOR A/S,3032181,Yes,Claus Christiansen,Independent Board Member,2.8,2.8,2.8,2,1,3,1,0,5,1.2
+DK0061113511,KONSOLIDATOR A/S,3032181,Yes,Peter Gath,Independent Board Member,1.8,1.8,1.8,2,2,6,1,0,5,1.2
+DK0061113511,KONSOLIDATOR A/S,3032181,Yes,Michael Rasmussen,Independent Board Member,0.8,0.8,0.8,1,1,2,1,0,5,1.2
+DK0060055861,CHEMOMETEC A/S,1015139,Yes,Hans Glensbjerg,Vice Chairman,0.8,14.3,17.6,1,1,0,0.6,,5,6.7
+DK0060055861,CHEMOMETEC A/S,1015139,Yes,Niels Thestrup,Chairman,3.2,3.2,3.2,1,1,3,0.6,,5,6.7
+DK0060055861,CHEMOMETEC A/S,1015139,Yes,Kristine Faerch,Independent Director,4.2,4.2,4.2,1,1,0,0.6,,5,6.7
+DK0060055861,CHEMOMETEC A/S,1015139,Yes,Betina Hagerup,Independent Director,3.2,3.2,3.2,1,1,0,0.6,,5,6.7
+DK0060055861,CHEMOMETEC A/S,1015139,Yes,Peter Reich,Independent Director,10.2,10.2,10.2,1,1,0,0.6,,5,6.7
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Jesper Mailind,Independent Board Member,0.7,12.4,15.7,2,1,4,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Peter Thostrup,Chairman,3.7,15.7,15.7,3,2,2,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,No,Peter Røpke,President/CEO,8,8,8,2,1,1,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Lars Tofft,Independent Board Member,7.7,7.7,7.7,1,1,4,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Mogens Hestbæk,Independent Board Member,0.7,0.7,0.7,1,1,1,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Kurt Rasmussen,Employee Representative,9.7,9.7,24.1,1,1,2,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Kevin Harritsø,Employee Representative,5.7,5.7,14.5,1,1,1,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Doctor Henrik Schimmell,Deputy Chair (Independent Board Member),0.7,5.7,5.7,1,1,2,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Katja Millard,Independent Board Member,1.8,1.8,1.8,1,1,3,0.8,0,10,8.2
+DK0010267129,RTX A/S (RTX Telecom A/S prior to 03/2012),26688,Yes,Camilla Munk,Employee Representative,1.7,1.7,7.7,1,1,0,0.8,0,10,8.2
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Michael Hankel,Shareholder Representative (Independent Board Member),6.7,6.7,6.7,2,1,1,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Doctor Tobias Ohler,Chairman (Shareholder Representative),9,9.5,9.5,2,2,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Doctor Hermann Gerlinger,Shareholder Representative (Independent Board Member),9.5,9.5,9.5,2,2,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Sieglinde Feist,Shareholder Representative,9.5,9.5,9.5,1,1,1,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,No,Michael Heckmeier,CEO,1.6,1.6,1.6,1,1,1,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Mandy Breyer,Employee Representative,6.7,6.7,9.5,1,1,1,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Klaus-Peter Estermaier,Employee Representative,6.7,6.7,9.5,1,1,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Mariella Röhm-Kottmann,Shareholder Representative (Independent Board Member),1.6,1.6,1.6,2,2,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Lina Ohltmann,Employee Representative,3.9,3.9,3.9,1,1,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Volker Stapfer,Employee Representative,2.9,2.9,9.5,1,1,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,No,Claudia Schmitt,CFO,1.4,1.4,9.5,1,1,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Doctor Jos Benschop,Shareholder Representative (Independent Board Member),1.6,1.6,1.6,1,1,2,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Daniela Berer,Deputy Chairwoman (Employee Representative),1.6,1.6,9.5,1,1,1,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,No,Klaus Buchwald,COO,0.5,0.5,0.5,1,1,0,0.6,0.3,15,7.9
+DE000WAF3001,SILTRONIC AG,2295421,Yes,Günter Zellner,Employee Representative,0.3,0.3,0.3,2,2,0,0.6,0.3,15,7.9
+DE000BAY0017,BAYER AG,3693,Yes,Professor Doctor Paul Achleitner,Board Member - SD,4.9,22.7,22.7,7,1,3,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Colleen Goggins,Independent Board Member,7.7,7.7,7.7,5,3,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Ertharin Moore,Independent Board Member,5.2,5.2,5.2,3,3,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Jeff Ubben,Independent Board Member,0.7,0.7,1.8,24,2,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Alberto Weisser,Independent Board Member,3.7,3.7,3.7,6,3,3,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Doctor Nancy Simonian,Independent Board Member,0.7,0.7,0.7,5,2,3,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Francesco Grioli,Employee Representative,2.7,2.7,2.7,6,2,1,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Horst Baier,Independent Board Member,4.7,4.7,4.7,5,2,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,No,Wolfgang Nickl,CFO,6.5,6.7,6.7,2,1,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,André van Broich,Employee Representative,4.9,12.7,36.9,1,1,1,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Professor Doctor Norbert Winkeljohann,Chairman (Independent Board Member),4.7,6.6,6.6,2,2,5,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Lori Schechter,Independent Board Member,0.7,0.7,0.7,2,1,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Frank Löllgen,Employee Representative,4.9,9.1,16.1,3,2,0,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Kimberly Lein-Mathisen,Independent Board Member,2.3,2.3,2.3,5,3,3,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,No,Bill Anderson,Chairman/CEO,1.5,1.7,1.7,2,1,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Heike Hausfeld,Vice Chairwoman (Employee Representative),2.7,7.7,39.6,1,1,0,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,No,Stefan Oelrich,Division President,6.1,6.1,17.1,1,1,1,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Andrea Sacher,Employee Representative,4.3,4.3,10.9,1,1,0,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,No,Rodrigo Santos,Division President,2.9,2.9,6.3,1,1,3,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Claudia Schade,Employee Representative,2.7,2.7,18.9,1,1,0,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Michael Westmeier,Employee Representative,2.7,2.7,32.9,1,1,0,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Yasmin Fahimi,Employee Representative,2.2,2.2,2.2,2,1,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,No,Heike Prinz,Chief Talent Officer/Labor Director,1.3,1.3,3.2,1,1,1,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,No,Julio Triana,Division President,0.6,0.7,22.9,1,1,2,0.56,0.6,25,7.2
+DE000BAY0017,BAYER AG,3693,Yes,Marianne Maehl,Employee Representative,0.3,0.3,17.9,1,1,2,0.56,0.6,25,7.2
+DE000A4BGGM7,BIOFRONTERA AG,895806,Yes,Tobias Reich,Board Member - SD,0.3,0.3,0.3,2,1,2,0.714,0.6,7,3.9
+DE000A4BGGM7,BIOFRONTERA AG,895806,Yes,Doctor Helge Lubenow,Vice Chairman,0.3,3,3,2,2,2,0.714,0.6,7,3.9
+DE000A4BGGM7,BIOFRONTERA AG,895806,No,María del Pilar de la Huerta Martínez,CFO,2.3,2.3,2.3,3,1,4,0.714,0.6,7,3.9
+DE000A4BGGM7,BIOFRONTERA AG,895806,Yes,Hansjörg Plaggemars,Board Member - SD,0.3,3.2,3.2,24,9,1,0.714,0.6,7,3.9
+DE000A4BGGM7,BIOFRONTERA AG,895806,Yes,Doctor Heikki Lanckriet,Board Member - SD,3,3,3,5,3,3,0.714,0.6,7,3.9
+DE000A4BGGM7,BIOFRONTERA AG,895806,Yes,Christian Link,Chairman,0.3,0.3,0.3,6,5,2,0.714,0.6,7,3.9
+DE000A4BGGM7,BIOFRONTERA AG,895806,Yes,Karlheinz Schmelig,Board Member - SD,3,3,3,2,1,2,0.714,0.6,7,3.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,Yes,Eva Kienle,Independent Shareholder Representative,1,1,1,3,3,3,0.5,0,8,6.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,Yes,Doctor Wolfgang Wienand,Independent Deputy Chairperson,1,1,1,2,2,3,0.5,0,8,6.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,Yes,Peter Goldschmidt,Independent Chairman (Shareholder Representative),1,1,1,3,1,5,0.5,0,8,6.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,Yes,Ann-Kristin Erkens,Independent Shareholder Representative,1,1,1,1,1,2,0.5,0,8,6.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,No,Andreas Reisse,Chairman/CEO,1,1,1,1,1,1,0.5,0,8,6.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,No,Doctor Almuth Steinkühler,CFO,1,1,1,1,1,4,0.5,0,8,6.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,Yes,Christine Wening,Employee Representative,1,1,1,1,1,2,0.5,0,8,6.9
+DE000A3ENQ51,SCHOTT PHARMA AG & CO KGAA,3688869,Yes,Mario Just,Employee Representative,1,1,1,1,1,2,0.5,0,8,6.9
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,Yes,Doctor Abe Peled,Deputy Chairperson (Independent Board Member),1.6,5.3,5.3,4,1,4,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,Yes,Christina Stercken,Independent Board Member,1.6,1.6,1.6,5,3,4,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,Yes,Ralf Dieter,Chairperson (Independent Board Member),1.6,2.2,2.2,6,1,4,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,Yes,Joe Heel,Independent Board Member,0.5,0.5,0.5,3,1,3,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,Yes,Axel Salzmann,Independent Board Member,4.6,5.3,5.3,6,1,1,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,No,Oliver Steil,Chairman/CEO,5.3,5.3,5.3,1,1,1,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,No,Michael Wilkens,CFO,2.3,2.3,2.3,3,1,2,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,Yes,Hera Siu,Independent Board Member,3.1,3.1,3.1,4,4,2,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,No,Peter Turner,Chief Commercial Officer,2.4,2.4,2.4,1,1,3,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,Yes,Swantje Conrad,Independent Board Member,1.6,1.6,1.6,5,2,2,0.636,0.6,11,7
+DE000A2YN900,TEAMVIEWER SE (Teamviewer AG prior to 03/2023),3087399,No,Mei Dent,Chief Product and Technology Officer,1.3,1.3,1.3,1,1,1,0.636,0.6,11,7
+DE000A2NB601,JENOPTIK AG,17400,Yes,Thomas Spitzenpfeil,Independent Board Member,2.5,2.5,2.5,4,1,1,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,No,Prisca Havranek-Kosicek,CFO,1.7,1.7,1.7,3,2,2,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Elke Eckstein,Independent Board Member,7.5,7.5,7.5,3,3,1,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,No,Doctor Stefan Traeger,Chairman/President/CEO,7.6,7.6,7.6,2,2,3,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Matthias Wierlacher,Chairman (Independent Board Member),9.4,12.5,12.5,3,1,2,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Evert Dudok,Independent Board Member,9.4,9.4,9.4,1,1,1,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Daniela Mattheus,Independent Board Member,1.1,1.1,1.1,3,3,2,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,No,Doctor Ralf Kuschnereit,Director - ED,1.9,1.9,7.4,1,1,3,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Dörthe Knips,Employee Representative,7.5,7.5,7.5,1,1,0,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Doctor Ursula Keller,Independent Board Member,2.9,2.9,2.9,1,1,3,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Alexander Münkwitz,Employee Representative,2.7,3.8,5.8,1,1,0,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,André Hillner,Employee Representative,2.5,2.5,2.5,1,1,3,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Franziska Wolf,Employee Representative,2.5,2.5,2.5,1,1,1,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Christina Süßenbach,Employee Representative,2.5,2.5,6.8,1,1,1,0.6,0.4,15,8.5
+DE000A2NB601,JENOPTIK AG,17400,Yes,Jakob Habermann,Deputy Chairman (Employee Representative),0.9,0.9,0.9,1,1,2,0.6,0.4,15,8.5
+DE000A2GS5D8,DERMAPHARM HOLDING SE,2788603,Yes,Lothar Lanz,Board Member - SD,6.8,6.8,6.8,8,1,2,1,0,6,8.4
+DE000A2GS5D8,DERMAPHARM HOLDING SE,2788603,No,Doctor Hans-Georg Feldmeier,Chairman/CEO,6.8,6.8,6.8,1,1,2,1,0,6,8.4
+DE000A2GS5D8,DERMAPHARM HOLDING SE,2788603,Yes,Wilhelm Beier,Chairman,6.8,6.8,6.8,1,1,0,1,0,6,8.4
+DE000A2GS5D8,DERMAPHARM HOLDING SE,2788603,Yes,Doctor Erwin Kern,Deputy Chairman,6.8,6.8,6.8,1,1,2,1,0,6,8.4
+DE000A2GS5D8,DERMAPHARM HOLDING SE,2788603,No,Doctor Andreas Eberhorn,Chief Marketing Officer,2.3,2.3,2.3,1,1,0,1,0,6,8.4
+DE000A2GS5D8,DERMAPHARM HOLDING SE,2788603,No,Christof Dreibholz,CFO/Chief Compliance Officer,2.1,2.1,2.1,1,1,1,1,0,6,8.4
+DE000A2E4SV8,CYAN AG,2802670,No,Markus Cserna,Chief Technology Officer,6.8,6.8,6.8,1,1,0,1,0,5,8.5
+DE000A2E4SV8,CYAN AG,2802670,Yes,Doctor Lucas Prunbauer,Deputy Chairman,3,6,6,1,1,3,1,0,5,8.5
+DE000A2E4SV8,CYAN AG,2802670,Yes,Doctor Markus Messerer,Board Member - SD,1.8,1.8,1.8,2,1,6,1,0,5,8.5
+DE000A2E4SV8,CYAN AG,2802670,Yes,Alexander Singer,Chairman,1.4,1.4,1.4,1,1,1,1,0,5,8.5
+DE000A2E4SV8,CYAN AG,2802670,No,Thomas Kicker,Chairman/CEO,0.9,0.9,0.9,1,1,0,1,0,5,8.5
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,Yes,Stefan Hillenbach,Employee Representative,24.3,24.3,24.3,1,1,0,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,Yes,Wilhelm Zours,Chairman,11.3,11.3,11.3,4,3,0,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,Yes,Jens-Martin Jüttner,Board Member - SD,10.4,10.4,10.4,3,1,0,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,Yes,Doctor Wolfgang Schlaak,Board Member - SD,1.1,1.8,1.8,1,1,1,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,Yes,Armin Steiner,Deputy Chairman,1.3,8.8,8.8,3,2,2,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,No,Rigas Paschaloudis,Board Member - ED,1.2,1.2,1.2,1,1,0,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,No,Gerald Schmedding,CFO,4.3,4.3,9.7,1,1,2,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,No,Mirko Minnich,Board Member - ED,2.9,2.9,2.9,1,1,1,1,0,9,6
+DE000A2BPP88,BETA SYSTEMS SOFTWARE AG (De-listed 06/2025),4136,Yes,Michael Feill,Employee Representative,0,0,0,1,1,0,1,0,9,6
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Doctor Ulrike Handel,Board Member - SD,4.4,7.6,7.6,5,2,4,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,No,Doctor Daniel Gotthardt,CEO,0.3,17.7,21.9,1,1,7,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Matthias Störmer,Board Member - SD,4.5,4.5,4.5,1,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Doctor Bettina Volkens,Board Member - SD,4.5,4.5,4.5,4,3,1,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,No,Hannes Reichl,MD,4.5,6.1,15.9,1,1,1,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Philipp von Ilberg,Chairman,4.5,4.5,4.5,1,1,2,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,No,Emanuele Mugnani,MD,2.8,2.8,7.9,1,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Ali Yener,Employee Representative,0.5,0.5,0.5,2,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Professor Doctor Martin Köhrmann,Board Member - SD,4.5,4.5,4.5,1,1,4,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Julia Mole,Employee Representative,3.9,3.9,3.9,1,1,1,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Ayfer Basal,Employee Representative,3.3,3.3,3.3,1,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Frank Betz,Employee Representative,3.3,3.3,3.3,1,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Adelheid Hegemann,Employee Representative,3.3,3.3,3.3,1,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Stefan Weinmann,Vice Chairman (Employee Representative),3.3,3.3,3.3,1,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,Yes,Reinhard Lyhs,Board Member - SD,1.8,1.8,1.8,1,1,0,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,No,Doctor Ulrich Thomé,MD,1.3,1.3,1.3,1,1,2,0.706,0,17,8.3
+DE000A288904,COMPUGROUP MEDICAL SE & CO KGAA (Compugroup Medical AG prior to 02/2016) (De-listed 06/2025),7554,No,Daniela Hommel,MD/CFO,0.8,0.8,0.8,1,1,1,0.706,0,17,8.3
+DE000A254211,INTERSHOP COMMUNICATIONS AG,16438,Yes,Frank Fischer,Chairman,2,2,2,3,2,1,0.857,,7,4.9
+DE000A254211,INTERSHOP COMMUNICATIONS AG,16438,Yes,Professor Doctor Louis Velthuis,Independent Board Member,8.5,8.5,8.5,2,2,1,0.857,,7,4.9
+DE000A254211,INTERSHOP COMMUNICATIONS AG,16438,Yes,Ulrich Praedel,Vice Chairman (Independent Board Member),8,8,8,1,1,2,0.857,,7,4.9
+DE000A254211,INTERSHOP COMMUNICATIONS AG,16438,Yes,Oliver Bendig,Independent Board Member,2.6,2.6,2.6,1,1,2,0.857,,7,4.9
+DE000A254211,INTERSHOP COMMUNICATIONS AG,16438,No,Markus Klahn,CEO,3.6,6.7,6.7,1,1,1,0.857,,7,4.9
+DE000A254211,INTERSHOP COMMUNICATIONS AG,16438,No,Petra Stappenbeck,CFO,1.9,1.9,12.5,1,1,0,0.857,,7,4.9
+DE000A254211,INTERSHOP COMMUNICATIONS AG,16438,No,Markus Dränert,COO,1,1,1,1,1,0,0.857,,7,4.9
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,Yes,Doctor Bernd Schulte,Independent Shareholder Representative,1.3,4.1,4.1,2,1,2,0.625,0.4,8,5
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,Yes,Doctor David Dean,Chairman (Independent Shareholder Representative),4.6,4.6,4.6,3,2,3,0.625,0.4,8,5
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,Yes,Professor Doctor Mirja Steinkamp,Independent Shareholder Representative,2.8,2.8,2.8,3,3,6,0.625,0.4,8,5
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,Yes,Doctor Myriam Jahn,Deputy Chairman (Independent Shareholder Representative),4.6,7.6,7.6,3,2,6,0.625,0.4,8,5
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,No,Doctor Thomas Rohe,COO,3.5,3.6,3.6,1,1,4,0.625,0.4,8,5
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,Yes,Jan Smits,Independent Shareholder Representative,4.6,4.6,4.6,1,1,2,0.625,0.4,8,5
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,No,Doctor Cornelia Ballwießer,CFO,1.4,1.4,1.4,2,1,1,0.625,0.4,8,5
+DE000A1K0235,SÜSS MICROTEC SE (Süss MicroTec AG prior to 08/2017),1040272,No,Burkhardt Frick,CEO,1.3,1.3,1.3,1,1,1,0.625,0.4,8,5
+DE000A1EWVY8,FORMYCON AG,2037052,Yes,Doctor Colin Bond,Deputy Chairman (Independent Board Member),0,0.2,0.2,4,2,4,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,Yes,Klaus Röhrig,Board Member - SD,4,4,4,5,3,1,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,No,Enno Spillner,CFO,1.7,1.7,1.7,4,2,1,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,No,Doctor Stefan Glombitza,CEO/COO,2.4,8.2,8.2,1,1,2,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,Yes,Doctor Bodo Coldewey,Independent Board Member,0.5,0.5,0.5,1,1,0,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,No,Nicola Mikulcik,Chief Business Officer,2.5,2.5,2.5,1,1,1,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,No,Doctor Andreas Seidl,Chief Scientific Officer,2.4,2.4,2.4,1,1,1,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,Yes,Lebenslauf Essler,Chairman,0.5,1.4,1.4,1,1,1,0.889,0.6,9,4.8
+DE000A1EWVY8,FORMYCON AG,2037052,Yes,Nick Haggar,Independent Board Member,0,0.5,0.5,2,2,2,0.889,0.6,9,4.8
+DE000A12UP37,NORCOM INFORMATION TECHNOLOGY GMBH & CO KGAA,22361,Yes,Dieter Gauglitz,Chairman (Independent Board Member),0.4,5.2,5.2,5,2,4,0.8,0,5,7.5
+DE000A12UP37,NORCOM INFORMATION TECHNOLOGY GMBH & CO KGAA,22361,Yes,Doctor Hans Liebl,Deputy Chairman (Independent Board Member),5,7.8,7.8,1,1,2,0.8,0,5,7.5
+DE000A12UP37,NORCOM INFORMATION TECHNOLOGY GMBH & CO KGAA,22361,Yes,Beate Junker,Independent Board Member,0.4,0.4,0.4,1,1,0,0.8,0,5,7.5
+DE000A12UP37,NORCOM INFORMATION TECHNOLOGY GMBH & CO KGAA,22361,No,Viggo Nordbakk,CEO/MD,25.5,25.5,25.5,1,1,1,0.8,0,5,7.5
+DE000A12UP37,NORCOM INFORMATION TECHNOLOGY GMBH & CO KGAA,22361,No,Wolfgang Schröter,MD/COO/Managing Partner,1.1,1.1,27.9,1,1,0,0.8,0,5,7.5
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,Yes,Doctor Georg Baur,Deputy Chairman (Independent Board Member),14.2,18,18,2,1,1,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,Yes,Professor Doctor Friedrich von Bohlen und Halbach,Independent Board Member,18,18,18,8,1,3,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,Yes,Professor Doctor Christof Hettich,Chairman (Independent Board Member),14.2,14.5,14.5,5,1,3,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,Yes,Doctor Birgit Kudlek,Independent Board Member,12.5,12.5,12.5,2,1,2,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,Yes,Doctor Mathias Hothum,Deputy Chairman,3.1,9.3,9.3,4,3,2,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,No,Walter Miller,CFO,1.5,1.5,1.5,2,1,3,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,No,Professor Doctor Andreas Pahl,CEO,0.8,8.4,8.4,1,1,1,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,Yes,Doctor Jeffery Liu,Board Member - SD,2.4,2.4,2.4,1,1,3,0.889,0,9,6.6
+DE000A11QVV0,HEIDELBERG PHARMA AG (Wilex AG prior to 10/2017),577628,Yes,Doctor Yan Xia,Board Member - SD,1.5,1.5,1.5,1,1,2,0.889,0,9,6.6
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,Yes,Doctor Friedrich Wöbking,Deputy Chairman,0.9,14.5,15.6,2,1,2,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,Yes,Stefanie Kemp,Independent Board Member,1.9,1.9,1.9,1,1,1,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,Yes,Susi Zorc,Independent Board Member,1.5,1.5,1.5,2,2,0,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,Yes,Doctor Volker Gruhn,Chairperson,18.4,18.4,27.6,1,1,2,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,No,Andreas Prenneis,Board Member - ED,9.7,9.7,9.7,1,1,0,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,Yes,Hermann Kögler,Independent Board Member,9.5,9.5,9.5,1,1,1,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,Yes,Rainer Rudolf,Independent Board Member,4.9,25.8,25.8,1,1,1,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,No,Jörg Schroeder,CFO,5.2,5.2,5.2,1,1,3,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,No,Kristina Gerwert,Board Member - ED,1.4,1.4,13.9,1,1,1,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,No,Mark Lohweber,Chairman/CEO,0.9,1.4,15.4,1,1,1,0.818,0,11,7.9
+DE000A0Z23Q5,ADESSO SE (ADESSO AG prior to 11/2019),4896,No,Benedikt Bonnmann,Board Member - ED,0.7,0.7,5.9,1,1,2,0.818,0,11,7.9
+DE000A0WMPJ6,AIXTRON SE,1212,Yes,Kim Schindelhauer,Chairman (Independent Board Member),22,32.8,32.8,3,1,1,0.75,0.5,8,10.3
+DE000A0WMPJ6,AIXTRON SE,1212,Yes,Frits van Hout,Deputy Chairman (Independent Board Member),5.6,5.6,5.6,3,2,2,0.75,0.5,8,10.3
+DE000A0WMPJ6,AIXTRON SE,1212,Yes,Alexander Everke,Independent Board Member,0.6,0.6,0.6,3,2,2,0.75,0.5,8,10.3
+DE000A0WMPJ6,AIXTRON SE,1212,Yes,Doctor Stefan Traeger,Independent Board Member,2.6,2.6,2.6,2,2,3,0.75,0.5,8,10.3
+DE000A0WMPJ6,AIXTRON SE,1212,Yes,Karen Florschütz,Independent Board Member,0.6,0.6,0.6,1,1,3,0.75,0.5,8,10.3
+DE000A0WMPJ6,AIXTRON SE,1212,No,Doctor Felix Grawert,Chairman/President/CEO,3.7,7.5,7.5,1,1,3,0.75,0.5,8,10.3
+DE000A0WMPJ6,AIXTRON SE,1212,Yes,Professor Doctor Anna Weber,Independent Board Member,5.6,5.6,5.6,2,2,2,0.75,0.5,8,10.3
+DE000A0WMPJ6,AIXTRON SE,1212,No,Doctor Christian Danninger,CFO,3.6,3.6,3.6,1,1,3,0.75,0.5,8,10.3
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Doctor Dorothea Wenzel,Shareholder Representative (Independent Board Member),0.4,0.4,0.4,4,3,4,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Francesco Grioli,Deputy Chairman (Independent Employee Representative),1.6,12.1,12.1,6,3,1,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,No,Doctor Bernd Metzner,CFO,5.5,5.5,5.5,4,1,3,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Doctor Axel Herberg,Chairman (Independent Shareholder Representative),2.4,15.2,15.2,2,1,3,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Markus Rocholz,Employee Representative (Independent Board Member),2.4,12.6,12.6,1,1,0,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Andrea Abt,Shareholder Representative (Independent Board Member),2.4,9.6,9.6,7,2,2,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,No,Dietmar Siemssen,CEO,6,6,6,2,1,4,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Katja Schnitzler,Employee Representative (Independent Board Member),8.8,8.8,16.3,1,1,13,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Professor Doctor Annette Köhler,Shareholder Representative (Independent Board Member),2.4,2.4,2.4,5,4,6,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Paul Schilling,Employee Representative (Independent Board Member),2.4,7.6,14.8,1,1,0,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,No,Doctor Lukas Burkhardt,Board Member - ED,6.8,6.8,6.8,1,1,2,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Doctor Christoph Zindel,Shareholder Representative (Independent Board Member),0.4,0.4,0.4,3,2,2,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Doctor Sidonie Golombowski-Daffner,Shareholder Representative (Independent Board Member),0.4,0.4,0.4,2,2,2,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Marlis Mergenthal,Employee Representative (Independent Board Member),2.4,2.4,2.4,1,1,1,0.6,0.3,15,8.2
+DE000A0LD6E6,GERRESHEIMER AG,13174,Yes,Robert Fröhler,Employee Representative (Independent Board Member),2.4,2.4,16.8,1,1,0,0.6,0.3,15,8.2
+DE000A0JC8S7,DATAGROUP SE (Datagroup AG prior to 11/2016),1622426,Yes,Heinz Hilgert,Chairman,13.6,13.6,13.6,2,1,1,0.8,0,5,9.7
+DE000A0JC8S7,DATAGROUP SE (Datagroup AG prior to 11/2016),1622426,Yes,Max Schaber,Board Member - SD,2.5,18,18,1,1,3,0.8,0,5,9.7
+DE000A0JC8S7,DATAGROUP SE (Datagroup AG prior to 11/2016),1622426,No,Andreas Baresel,CEO/CFO,0.4,5.9,5.9,1,1,1,0.8,0,5,9.7
+DE000A0JC8S7,DATAGROUP SE (Datagroup AG prior to 11/2016),1622426,Yes,Doctor Hubert Deutsch,Deputy Chairman,4.9,4.9,4.9,1,1,1,0.8,0,5,9.7
+DE000A0JC8S7,DATAGROUP SE (Datagroup AG prior to 11/2016),1622426,No,Doctor Sabine Laukemann,Chief Human Resources Officer,2.4,2.4,18,1,1,2,0.8,0,5,9.7
+DE0007846867,VISCOM SE (Viscom AG prior to 06/2024),957733,No,Doctor Martin Heuser,Chief Production & Development Officer,1.5,40.2,40.2,1,1,2,0.833,0,6,4.8
+DE0007846867,VISCOM SE (Viscom AG prior to 06/2024),957733,Yes,Volker Pape,Deputy Chairman,6.6,23.9,40.2,1,1,1,0.833,0,6,4.8
+DE0007846867,VISCOM SE (Viscom AG prior to 06/2024),957733,No,Dirk Schwingel,CFO,13.5,13.5,14.4,1,1,2,0.833,0,6,4.8
+DE0007846867,VISCOM SE (Viscom AG prior to 06/2024),957733,No,Carsten Salewski,Chief Sales & Operations Officer,1.5,6.5,31.9,1,1,2,0.833,0,6,4.8
+DE0007846867,VISCOM SE (Viscom AG prior to 06/2024),957733,Yes,Professor Doctor Ludger Overmeyer,Independent Board Member,10.6,10.6,10.6,2,2,3,0.833,0,6,4.8
+DE0007846867,VISCOM SE (Viscom AG prior to 06/2024),957733,Yes,Professor Doctor Michèle Morner,Chair (Independent Board Member),6.6,6.6,6.6,2,1,3,0.833,0,6,4.8
+DE0007461006,PVA TEPLA AG,597195,Yes,Doctor Gernot Hebestreit,Deputy Chairman (Independent Board Member),2.9,16.5,16.5,2,2,4,0.667,0,6,7.2
+DE0007461006,PVA TEPLA AG,597195,No,Marc Höfer,COO,11.1,11.1,17,1,1,0,0.667,0,6,7.2
+DE0007461006,PVA TEPLA AG,597195,Yes,Doctor Myriam Jahn,Chairwoman (Independent Board Member),0.3,1.5,1.5,3,2,6,0.667,0,6,7.2
+DE0007461006,PVA TEPLA AG,597195,No,Jalin Ketter,CEO/CFO,0.9,4.5,9.8,1,1,1,0.667,0,6,7.2
+DE0007461006,PVA TEPLA AG,597195,Yes,Dieter May,Independent Board Member,0.3,0.3,0.3,3,3,1,0.667,0,6,7.2
+DE0007461006,PVA TEPLA AG,597195,Yes,Christoph von Seidel,Independent Board Member,0.3,0.3,0.3,1,1,1,0.667,0,6,7.2
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,No,Martin Müller-Elschner,Chairman/CEO/CFO,8.1,16.9,24.4,1,1,1,0.75,0.3,8,10.1
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,Yes,Bert Meerstadt,Chairman (Shareholder Representative),0.6,0.6,5.9,4,1,3,0.75,0.3,8,10.1
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,No,Leon Struijk,Vice Chairman/Chief Customer Officer/COO,0.1,6.8,7.9,1,1,2,0.75,0.3,8,10.1
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,Yes,Ute Witt,Deputy Chairwoman (Shareholder Representative),6.4,6.4,6.4,1,1,1,0.75,0.3,8,10.1
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,Yes,Doctor Heiner Bente,Shareholder Representative,5.6,5.6,5.6,1,1,2,0.75,0.3,8,10.1
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,Yes,Doctor Barbara Lenz,Shareholder Representative,5.6,5.6,5.6,1,1,3,0.75,0.3,8,10.1
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,Yes,Benedikt Woelki,Employee Representative,5.4,5.4,16.4,1,1,2,0.75,0.3,8,10.1
+DE0007448508,IVU TRAFFIC TECHNOLOGIES AG,17186,Yes,Steffen Brümmer,Employee Representative,0.6,0.6,12.9,1,1,1,0.75,0.3,8,10.1
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,Yes,Doctor Peter Zattler,Shareholder Representative,0.6,20.5,20.5,1,1,1,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,Yes,Doctor Ralf Wintergerst,Chairman (Shareholder Representative),7.6,7.6,7.6,1,1,10,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,No,Torsten Henn,COO,9.9,5.5,27.9,1,1,1,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,No,Doctor Kai Martius,Chief Technology Officer,9.9,5.5,25.9,1,1,1,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,No,Axel Deininger,Chairman/CEO,5.5,9.8,9.8,1,1,2,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,Yes,Professor Doctor Günter Schäfer,Shareholder Representative,10.6,10.6,10.6,1,1,2,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,Yes,Gesa-Maria Rustemeyer,Employee Representative,5.6,5.6,7.9,1,1,3,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,Yes,Jörg Marx,Employee Representative,5.6,5.6,25.9,1,1,1,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,No,Jessica Nospers,CFO,0.5,0.5,0.5,1,1,1,0.8,0,10,7.8
+DE0007276503,SECUNET SECURITY NETWORKS AG (SecuNet Security Networks GmbH prior to 05/1999),27454,Yes,Jan Thyen,Deputy Chairman,0.6,0.6,0.6,1,1,0,0.8,0,10,7.8
+DE0007203705,SNP SCHNEIDER-NEUREITHER & PARTNER SE (SNP Schneider-Neureither & Partner AG prior to 12/2017),28351,Yes,Professor Doctor Thorsten Grenz,Deputy Chairperson,1.3,1.3,2.4,6,2,2,1,0,5,2.9
+DE0007203705,SNP SCHNEIDER-NEUREITHER & PARTNER SE (SNP Schneider-Neureither & Partner AG prior to 12/2017),28351,No,Doctor Jens Amail,CEO,1.9,1.9,1.9,1,1,2,1,0,5,2.9
+DE0007203705,SNP SCHNEIDER-NEUREITHER & PARTNER SE (SNP Schneider-Neureither & Partner AG prior to 12/2017),28351,Yes,Doctor Karl Biesinger,Chairperson,1.3,5.5,5.5,1,1,3,1,0,5,2.9
+DE0007203705,SNP SCHNEIDER-NEUREITHER & PARTNER SE (SNP Schneider-Neureither & Partner AG prior to 12/2017),28351,No,Andreas Röderer,CFO,1.1,1.1,1.1,1,1,2,1,0,5,2.9
+DE0007203705,SNP SCHNEIDER-NEUREITHER & PARTNER SE (SNP Schneider-Neureither & Partner AG prior to 12/2017),28351,Yes,Peter Maier,Board Member - SD,1.3,1.3,1.3,1,1,1,1,0,5,2.9
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,No,Thibault Kassir,Board Member - ED,2.4,2.4,2.4,1,1,2,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,Yes,Olga Wolfenberg,Employee Representative,5.3,5.3,14.7,1,1,1,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,Yes,Stephan Itter,Board Member - SD,4.3,4.3,4.3,1,1,2,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,Yes,Peter McCarthy,Deputy Chairman,4.3,4.3,4.3,1,1,1,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,No,Dirk Schäfer,Board Member - ED,3.3,4.3,4.3,1,1,2,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,Yes,Michael Gerosa,Chairman,3.4,3.6,3.6,1,1,1,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,No,Robin Maly,Board Member - ED,3.4,3.4,3.4,1,1,1,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,Yes,Rob Tilmans,Board Member - SD,3.3,3.3,4.8,1,1,4,0.889,,9,0
+DE0007201907,FIRST SENSOR AG (Silicon Sensor International AG prior to 07/2011),27978,Yes,Christoph Findeisen,Employee Representative,3.1,3.1,15.8,1,1,1,0.889,,9,0
+DE0007165631,SARTORIUS AG,27097,Yes,Professor Doctor David Ebsworth,Independent Shareholder Representative,4.9,4.9,4.9,12,2,3,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Professor Doctor Klaus Trützschler,Independent Shareholder Representative,13.1,13.1,13.1,6,1,5,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,No,Doctor Florian Funck,CFO,0.7,0.7,0.7,6,2,3,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,No,Doctor Joachim Kreuzburg,Chairman/CEO,18.6,21.9,23.8,2,2,2,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Petra Kirchhoff,Employee Representative,14.2,14.2,23.9,1,1,1,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Frank Riemensperger,Independent Shareholder Representative,2.8,2.8,2.8,3,2,1,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Annette Becker,Employee Representative,22.3,22.3,28.9,1,1,1,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Doctor Lothar Kappich,Chairman (Independent Shareholder Representative),7.4,17.7,17.7,2,2,3,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Manfred Zaffke,Vice Chairman (Employee Representative),10.8,10.8,10.8,1,1,1,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Doctor Daniela Favoccia,Independent Shareholder Representative,7.7,7.7,7.7,1,1,1,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Ilke Panzer,Independent Shareholder Representative,7.7,7.7,7.7,1,1,2,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,No,Doctor René Fáber,Head of Bioprocess Solutions,5.9,5.9,5.9,2,2,1,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Dietmar Müller,Employee Representative,4.6,4.6,4.6,1,1,2,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Hermann Ritzau,Employee Representative,3.8,3.8,34.8,1,1,0,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,Yes,Sabrina Wirth,Employee Representative,2.8,2.8,2.8,1,1,2,0.625,0.4,16,8.7
+DE0007165631,SARTORIUS AG,27097,No,Doctor Alexandra Gatzemeyer,Head of Lab Products & Services,1.5,1.6,15.9,2,2,1,0.625,0.4,16,8.7
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Gerhard Oswald,Independent Board Member,5.9,26.8,41.8,1,1,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Pekka Ala-Pietilä,Chairman,0.6,19.6,19.6,6,2,3,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Lars Lamadé,Deputy Chairman (Employee Representative),7.9,22.6,31.9,1,1,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,No,Dominik Asam,CFO,1.8,1.8,1.8,3,1,3,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Jennifer Li,Independent Board Member,2.6,2.6,2.6,6,3,2,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Doctor Qi Lu,Independent Board Member,4,4,4,4,1,3,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Margret Klein-Magar,Employee Representative,6,12.6,33.1,1,1,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Doctor Friederike Rotsch,Lead Independent Board Member,2.6,6.6,6.6,1,1,3,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Aicha Evans,Independent Board Member,7.4,7.4,7.4,3,2,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Doctor Gunnar Wiedenfels,Independent Board Member,5.6,5.6,5.6,2,1,3,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Andreas Hahn,Employee Representative,4.6,4.6,27.9,1,1,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,No,Christian Klein,CEO,3.9,7.4,24.8,3,2,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,No,Thomas Saueressig,Head of Customer Service,0.7,5.1,19.8,2,2,3,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Doctor Ralf Herbrich,Board Member - SD,0.6,0.6,0.6,1,1,4,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Doctor Rouven Westphal,Independent Board Member,3.6,3.6,3.6,1,1,2,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,No,Gina Vargiu-Breuer,Chief People Officer/Labor Director,0.8,0.8,0.8,1,1,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,No,Muhammad Alam,Head of Product Engineering,0.7,0.7,2.9,1,1,2,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Jakub Černý,Employee Representative,0.6,0.6,0.6,1,1,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Pascal Demat,Employee Representative,0.6,0.6,10.9,1,1,4,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,César Martin,Employee Representative,0.6,0.6,14.9,1,1,2,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Nicolas Sabatier,Employee Representative,0.6,0.6,0.6,1,1,3,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Eberhard Schick,Employee Representative,0.6,0.6,27.9,1,1,1,0.739,0.6,23,8
+DE0007164600,SAP SE (SAP AG prior to 07/2014),27066,Yes,Nina Straßner,Employee Representative,0.6,0.6,5.9,1,1,4,0.739,0.6,23,8
+DE0006599905,MERCK KGAA,20288,Yes,Michael Kleinemeier,Chair (Independent Shareholder Representative),0.8,5.7,5.7,4,1,1,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,No,Belén Garijo López,Chair/CEO,3.6,9.9,11.2,4,2,3,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Doctor Carla Kriwet,Shareholder Representative (Independent Board Member),0.7,0.7,0.7,4,1,4,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,No,Doctor Kai Beckmann,Division CEO,7.3,13.7,35.9,1,1,2,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Doctor Susanne Schaffert,Shareholder Representative (Independent Board Member),0.7,0.7,0.7,5,3,1,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,No,Peter Guenter,Division CEO,3.9,3.9,3.9,3,2,1,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,No,Helene von Roeder,CFO,1.4,5.7,5.7,6,1,2,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,No,Doctor Matthias Heinzel,Division CEO,3.7,3.7,3.7,2,1,2,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Doctor Dietmar Oeter,Employee Representative (Independent Board Member),10.6,10.6,28.9,1,1,4,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Alexander Putz,Employee Representative (Independent Board Member),9.5,9.5,38.8,1,1,2,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Barbara Lambert,Shareholder Representative (Independent Board Member),1.3,1.3,1.3,4,3,3,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Professor Stefan Palzer,Shareholder Representative (Independent Board Member),0.7,0.7,0.7,1,1,6,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Doctor Daniel Thelen,Shareholder Representative (Independent Board Member),5.7,5.7,5.7,1,1,4,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Doctor Simon Thelen,Shareholder Representative (Independent Board Member),5.7,5.7,5.7,1,1,2,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Sascha Held,Vice Chairman (Independent Employee Representative),4.6,5.7,18.8,1,1,1,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Doctor Christian Raabe,Employee Representative (Independent Board Member),5.7,5.7,33.7,1,1,1,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Anne Lange,Employee Representative (Independent Board Member),5.7,5.7,18.9,1,1,1,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Birgit Biermann,Employee Representative,2.4,2.4,2.4,3,2,2,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Katja Vila,Shareholder Representative (Independent Board Member),0.7,0.7,0.7,2,1,1,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Michael Reinhart,Employee Representative,0.7,0.7,0.7,1,1,2,0.571,0.2,21,7.2
+DE0006599905,MERCK KGAA,20288,Yes,Sandra Schwebke,Employee Representative,0.7,0.7,26.9,1,1,3,0.571,0.2,21,7.2
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,Yes,Kurt Dobitsch,Chairman (Independent Board Member),16.8,21.8,21.8,7,4,1,0.625,0.7,8,7.9
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,Yes,Bill Krouch,Independent Board Member,6.6,6.6,6.6,1,1,2,0.625,0.7,8,7.9
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,Yes,Professor Doctor Andreas Söffing,Independent Board Member,2.6,2.6,2.6,2,1,4,0.625,0.7,8,7.9
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,No,Yves Padrines,Chairman/CEO,2.8,2.8,2.8,1,1,1,0.625,0.7,8,7.9
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,Yes,Doctor Gernot Strube,Deputy Chairman (Independent Board Member),1.4,2.6,2.6,1,1,3,0.625,0.7,8,7.9
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,No,Louise Öfverström,CFO,1.9,1.9,1.9,3,2,2,0.625,0.7,8,7.9
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,Yes,Christine Schöneweis,Independent Board Member,2.6,2.6,2.6,2,2,1,0.625,0.7,8,7.9
+DE0006452907,NEMETSCHEK SE (Nemetschek AG prior to 03/2016),21750,Yes,Iris Helke,Independent Board Member,1.4,1.4,1.4,1,1,4,0.625,0.7,8,7.9
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Johann Dechant,Independent Deputy Chairman (Employee Representative),2.7,14.3,25.4,1,1,0,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Professor Doctor Hermann Eul,Independent Shareholder Representative,0.6,6,9.5,3,1,3,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Doctor Ulrich Spiesshofer,Independent Shareholder Representative,4.6,4.6,4.6,2,2,2,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Doctor Friedrich Eichiner,Independent Shareholder Representative,4.6,4.6,4.6,3,2,2,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Doctor Herbert Diess,Independent Chairman (Shareholder Representative),1.6,6.6,6.6,4,1,3,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Jürgen Scholz,Employee Representative (Independent Board Member),14.6,14.6,14.6,2,1,0,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Margret Suckale,Independent Shareholder Representative,4.6,4.6,4.6,5,4,4,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Klaus Helmrich,Independent Shareholder Representative,1.6,1.6,1.6,4,1,2,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Peter Gruber,Employee Representative (Independent),15.6,15.6,25.7,1,1,1,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,No,Andreas Urschitz,Chief Marketing Officer,2.3,2.3,12,1,1,1,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,No,Doctor Sven Schneider,CFO,5.3,5.3,5.3,3,2,2,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Ute Wolf,Independent Shareholder Representative,1.4,1.4,1.4,7,4,1,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,No,Doctor Rutger Wijburg,Chief Operations Officer,2.4,2.4,2.4,1,1,2,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Annette Engelfried,Employee Representative (Independent),9.6,9.6,9.6,1,1,1,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Susanne Lachenmann,Employee Representative (Independent),9.6,9.6,22.7,1,1,2,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Diana Vitale,Employee Representative (Independent),9.6,9.6,18.7,1,1,3,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Xiaoqun Clever-Steg,Independent Shareholder Representative,4.6,4.6,4.6,6,4,7,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,No,Jochen Hanebeck,CEO,2.4,8.2,25.7,1,1,1,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,No,Elke Reichart,Chief Digital & Sustainability Officer,0.8,0.8,0.8,3,1,1,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Melanie Riedl,Employee Representative (Independent),4.6,4.6,25.7,1,1,1,0.619,0.2,21,5.8
+DE0006231004,INFINEON TECHNOLOGIES AG,15909,Yes,Mirco Synde,Employee Representative (Independent),2.3,2.3,2.3,1,1,3,0.619,0.2,21,5.8
+DE0005874846,INTICA SYSTEMS SE (InTiCa Systems AG prior to 03/2023),1327287,Yes,Udo Zimmer,Chairman (Independent Board Member),9.4,12.4,13.4,3,1,1,1,0,5,4.5
+DE0005874846,INTICA SYSTEMS SE (InTiCa Systems AG prior to 03/2023),1327287,Yes,Christian Fürst,Independent Board Member,9.4,14.3,14.3,1,1,1,1,0,5,4.5
+DE0005874846,INTICA SYSTEMS SE (InTiCa Systems AG prior to 03/2023),1327287,Yes,Werner Paletschek,Deputy Chairman (Independent Board Member),9.4,14.3,14.3,1,1,1,1,0,5,4.5
+DE0005874846,INTICA SYSTEMS SE (InTiCa Systems AG prior to 03/2023),1327287,No,Doctor Gregor Wasle,Chairman/CEO,9.9,9.9,9.9,1,1,0,1,0,5,4.5
+DE0005874846,INTICA SYSTEMS SE (InTiCa Systems AG prior to 03/2023),1327287,No,Bernhard Griesbeck,Board Member - ED,0.9,0.9,4.9,1,1,1,1,0,5,4.5
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,Yes,Doctor Paul Lerbinger,Independent Vice Chairperson,7.6,13.9,13.9,1,1,2,0.75,0.3,8,4.8
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,Yes,Doctor Annette Beller,Independent Board Member,1.5,1.5,1.5,2,1,3,0.75,0.3,8,4.8
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,Yes,Ulrich Dietz,Independent Chairperson,7.6,26.2,37.9,1,1,2,0.75,0.3,8,4.8
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,No,Doctor Jochen Ruetz,MD/CFO,9.3,21.3,21.3,2,2,2,0.75,0.3,8,4.8
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,No,Joan-Carles Fonoll,Group Chief Executive/COO,6.4,6.4,23.5,1,1,1,0.75,0.3,8,4.8
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,Yes,Professor Doctor Andreas Wiedemann,Independent Board Member,9.3,9.3,9.3,1,1,3,0.75,0.3,8,4.8
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,Yes,Maria Dietz,Independent Board Member,9.3,9.3,34.9,2,2,1,0.75,0.3,8,4.8
+DE0005800601,GFT TECHNOLOGIES SE (GFT Technologies AG prior to 08/2015),637059,No,Marco Santos,Global CEO/MD,0,1.9,13.5,1,1,7,0.75,0.3,8,4.8
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,No,Gottfried Greschner,Chairman/CEO,23.4,23.4,23.4,1,1,2,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,Yes,Doctor Johannes Haupt,Independent Board Member,1.6,1.6,1.6,2,2,2,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,Yes,Ulrich Sieg,Deputy Chairman (Independent Board Member),8.4,10.4,10.4,1,1,2,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,No,Doctor Mark Ferber,CFO,1.8,1.8,1.8,1,1,0,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,No,Matthias Kühn,COO/Deputy CEO,0.2,8.7,8.7,1,1,1,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,Yes,Christina Greschner,Board Member - SD,5.6,5.6,17.9,1,1,2,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,Yes,Andreas Thun,Chairman,0.5,2.6,2.6,1,1,1,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,No,Jörg Munz,Chief Human Resource Officer,1.6,1.6,7.1,1,1,1,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,Yes,Professor Michaela Dickgießer,Independent Board Member,1.6,1.6,1.6,1,1,2,0.8,0,10,11.3
+DE0005759807,INIT INNOVATION IN TRAFFIC SYSTEMS SE (INIT Innovation In Traffic Systems AG prior to 03/2017),1620593,No,Martin Timmann,Deputy CEO/Chief Sales Officer/Chief Revenue Officer,0.2,0.2,0.2,1,1,0,0.8,0,10,11.3
+DE0005754402,LS TELCOM AG,19204,Yes,Paul De Schrijver,Board Member - SD,0.4,0.4,0.4,3,2,2,1,0,6,3.5
+DE0005754402,LS TELCOM AG,19204,Yes,Professor Doctor Hans-Peter Burghof,Board Member - SD,2.5,2.5,2.5,2,1,2,1,0,6,3.5
+DE0005754402,LS TELCOM AG,19204,No,Doctor Georg Schöne,CEO,2.9,23.5,23.5,1,1,2,1,0,6,3.5
+DE0005754402,LS TELCOM AG,19204,No,Roland Götz,COO,23.5,23.5,23.5,1,1,2,1,0,6,3.5
+DE0005754402,LS TELCOM AG,19204,Yes,Doctor Winfried Holtermüller,Chairman (Independent Board Member),23.5,23.5,23.5,1,1,1,1,0,6,3.5
+DE0005754402,LS TELCOM AG,19204,Yes,Professor Doctor Winfried Lieber,Board Member - SD,0.5,0.5,0.5,1,1,3,1,0,6,3.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,Yes,Doctor Dirk Hoheisel,Independent Board Member,3.6,3.6,3.6,1,1,2,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,Yes,Doctor Klaus Weyer,Chairman (Independent Board Member),7.6,25.8,40.8,2,1,2,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,Yes,Professor Doctor Günter Zimmer,Vice Chairman (Independent Board Member),7.6,40.9,40.9,2,1,2,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,Yes,Thomas Lehner,Employee Representative,13.5,13.5,13.5,1,1,1,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,Yes,Sven-Olaf Schellenberg,Employee Representative,13.6,13.6,13.6,1,1,0,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,No,Doctor Arne Schneider,CEO,3.9,10.4,13.9,1,1,3,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,No,Doctor Jan Dienstuhl,Chief Sales Officer,5.9,5.9,12.9,1,1,1,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,Yes,Doctor Volkmar Tanneberger,Independent Board Member,3.6,3.6,3.6,1,1,3,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,No,Doctor Burkhard von Spreckelsen,Chief Development Officer,0.5,0.5,4.9,1,1,2,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,No,Jochen Vaihinger,Chief Technology Officer,0.8,0.8,0.8,1,1,1,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,No,Margarita Mamberger,CFO,2.4,2.4,2.4,1,1,0,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,No,Michael Neuhäuser,Chief Product Officer,0.3,0.3,0.3,1,1,0,0.923,0,13,11.5
+DE0005677108,ELMOS SEMICONDUCTOR SE (Elmos Semiconductor AG prior to 07/2020),10443,No,Patrick Schmitt,COO,0.5,0.5,0.5,1,1,0,0.923,0,13,11.5
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,Yes,Professor Doctor Iris Loew-Friedrich,Chairwoman (Independent Board Member),3.5,10.5,10.5,4,2,2,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,Yes,Wes Wheeler,Independent Board Member,0.5,0.5,0.5,2,1,2,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,Yes,Roland Sackers,Vice Chairman (Independent Board Member),3.5,5.5,5.5,5,2,1,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,No,Christian Wojczewski,CEO,0.4,0.4,0.4,1,1,0,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,No,Doctor Cord Dohrmann,Chief Scientific Officer,14.3,14.3,14.3,1,1,4,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,Yes,Doctor Constanze Ulmer-Eilfort,Independent Board Member,3.5,3.5,3.5,2,2,5,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,Yes,Doctor Duncan McHale,Independent Board Member,0.5,0.5,0.5,1,1,3,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,Yes,Camilla Languille,Independent Board Member,2.5,2.5,2.5,3,3,2,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,No,Aurélie Dalbiez,Chief People Officer,0.5,0.5,0.5,1,1,1,0.5,0.7,10,8.1
+DE0005664809,EVOTEC SE (Evotec AG prior to 04/2019),11323,No,Laetitia Rouxel,CFO,1.7,1.7,1.7,1,1,1,0.5,0.7,10,8.1
+DE0005498901,DATA MODUL AG,8719,No,Doctor Florian Pesahl,Chairman/CEO,9.4,14.8,17.7,1,1,2,1,0.5,4,4.1
+DE0005498901,DATA MODUL AG,8719,Yes,Rick Seidlitz,Chairman,0.3,6,6,1,1,1,1,0.5,4,4.1
+DE0005498901,DATA MODUL AG,8719,Yes,Eberhard Kurz,Employee Representative,5.6,5.6,13.9,1,1,1,1,0.5,4,4.1
+DE0005498901,DATA MODUL AG,8719,Yes,Salesh Rampersad,Deputy Chairman,0.3,0.3,0.3,1,1,1,1,0.5,4,4.1
+DE0005419105,CANCOM SE (Cancom AG prior to 02/2013),5653,Yes,Klaus Weinmann,Chairman,2.3,20.2,20.2,5,1,2,0.714,0.2,7,4.8
+DE0005419105,CANCOM SE (Cancom AG prior to 02/2013),5653,Yes,Doctor Ilias Läber,Independent Board Member,0.9,0.9,0.9,4,3,4,0.714,0.2,7,4.8
+DE0005419105,CANCOM SE (Cancom AG prior to 02/2013),5653,No,Rüdiger Rath,Chairman/CEO,2.1,3.2,3.2,1,1,1,0.714,0.2,7,4.8
+DE0005419105,CANCOM SE (Cancom AG prior to 02/2013),5653,No,Thomas Stark,CFO,10.2,6.9,24.8,2,1,2,0.714,0.2,7,4.8
+DE0005419105,CANCOM SE (Cancom AG prior to 02/2013),5653,Yes,Professor Doctor Puppy Welpe,Independent Board Member,5.5,5.5,5.5,4,2,5,0.714,0.2,7,4.8
+DE0005419105,CANCOM SE (Cancom AG prior to 02/2013),5653,Yes,Doctor Swantje Schulze,Independent Board Member,1.7,1.7,5.7,1,1,1,0.714,0.2,7,4.8
+DE0005419105,CANCOM SE (Cancom AG prior to 02/2013),5653,Yes,Jürgen Maidl,Independent Board Member,0.5,0.5,0.5,1,1,0,0.714,0.2,7,4.8
+DE0005407100,CENIT AG,6239,Yes,Regina Weinmann,Deputy Chair,1.6,1.6,1.6,2,1,2,0.6,0,5,6.5
+DE0005407100,CENIT AG,6239,Yes,Rainer-Christian Koppitz,Chairman,3.6,3.6,3.6,4,2,1,0.6,0,5,6.5
+DE0005407100,CENIT AG,6239,No,Peter Schneck,CEO,2.9,2.9,2.9,2,1,2,0.6,0,5,6.5
+DE0005407100,CENIT AG,6239,Yes,Laura Schmidt,Employee Representative,1.6,1.6,13.9,1,1,2,0.6,0,5,6.5
+DE0005407100,CENIT AG,6239,No,Axel Otto,CFO,0.9,0.9,0.9,1,1,1,0.6,0,5,6.5
+DE0005228779,ORBIS AG,23320,No,Stefan Mailänder,CEO,0.9,24.8,24.8,1,1,0,1,0,6,2.4
+DE0005228779,ORBIS AG,23320,No,Michael Jung,Head of Division,6.2,6.2,6.2,1,1,0,1,0,6,2.4
+DE0005228779,ORBIS AG,23320,No,Frank Schmelzer,Executive VP - Systems,6.2,6.2,24.3,1,1,0,1,0,6,2.4
+DE0005228779,ORBIS AG,23320,Yes,Ulrich Holzer,Chairman,13.6,13.6,13.6,1,1,0,1,0,6,2.4
+DE0005228779,ORBIS AG,23320,Yes,Thomas Gard,Board Member - SD,0.9,24.2,24.2,1,1,0,1,0,6,2.4
+DE0005228779,ORBIS AG,23320,Yes,Martin Hörmann,Board Member - SD,3.6,3.6,3.6,1,1,1,1,0,6,2.4
+DE0005227235,BIOTEST AG,4417,Yes,Raimon Grifols Roura,Shareholder Representative,1.6,1.6,1.6,2,2,1,1,0.4,8,8
+DE0005227235,BIOTEST AG,4417,Yes,Davi Ian Bell,Shareholder Representative,2.5,2.5,2.5,2,1,5,1,0.4,8,8
+DE0005227235,BIOTEST AG,4417,Yes,Doctor Bernhard Ehmer,Chairman (Shareholder Representative),2.6,7,10,5,3,3,1,0.4,8,8
+DE0005227235,BIOTEST AG,4417,Yes,Jurgen Heilmann,Employee Representative,13.3,13.3,13.3,1,1,0,1,0.4,8,8
+DE0005227235,BIOTEST AG,4417,Yes,Doctor Gernot Hebestreit,Shareholder Representative,0.1,0.1,0.1,2,2,4,1,0.4,8,8
+DE0005227235,BIOTEST AG,4417,No,Martin Möller,Interim CFO,0.3,0.3,9.9,1,1,0,1,0.4,8,8
+DE0005227235,BIOTEST AG,4417,No,Peter Janssen,CEO,0.9,2.3,2.3,1,1,3,1,0.4,8,8
+DE0005227235,BIOTEST AG,4417,Yes,Dirk Schuck,Employee Representative,2.6,2.6,17.7,1,1,4,1,0.4,8,8
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,Yes,Doctor Dietmar Kubis,Deputy Chairman (Independent Board Member),1.6,10.6,10.6,7,1,2,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,Yes,Juergen Rottler,Independent Board Member,5.6,5.6,5.6,2,1,2,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,No,Doctor Ingo Behrendt,Chairman/CEO,22.5,24.9,24.9,1,1,4,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,Yes,Doctor Hans-Joachim König,Chairman (Independent Board Member),20.3,20.3,20.3,1,1,2,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,No,Ralf Heilig,Chief Sales Officer,14.9,15.9,23.9,1,1,2,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,No,Edgar Kuner,Chief Development Officer,7.9,15.9,35.9,1,1,1,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,Yes,Rolf Wöhrle,Independent Board Member,1.6,1.6,1.6,2,2,1,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,Yes,Professor Doctor Felicia Rosenthal,Independent Board Member,9.6,9.6,9.6,1,1,3,0.889,0,9,7
+DE0005220909,NEXUS AG (De-listed 11/2025),22130,Yes,Florian Herger,Independent Board Member,2.2,2.2,2.2,3,3,4,0.889,0,9,7
+DE0005158703,BECHTLE AG,3901,Yes,Kurt Dobitsch,Shareholder Representative (Independent Board Member),24.8,24.8,24.8,7,4,1,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Klaus Straub,Shareholder Representative (Independent Board Member),1.6,1.6,1.6,2,1,1,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Doctor Lars Grünert,Shareholder Representative (Independent Board Member),6.5,6.5,6.5,2,1,4,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,No,Doctor Thomas Olemotz,Chairman/CEO,15.9,17.8,17.8,2,1,2,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,No,Michael Guschlbauer,COO,15.9,15.9,16.9,1,1,0,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Klaus Winkler,Chairman (Independent Shareholder Representative),6.5,20.2,20.2,1,1,1,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Uli Drautz,Deputy Chairman (Employee Representative),17.4,21.2,21.2,1,1,1,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Daniela Eberle,Employee Representative,21.2,21.2,21.2,1,1,2,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Professor Doctor Thomas Hess,Shareholder Representative (Independent Board Member),12.5,12.5,12.5,1,1,3,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,No,Antje Leminsky,Board Member - ED,0.8,0.8,0.8,2,1,2,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Elmar König,Shareholder Representative (Independent Board Member),1.6,1.6,18.3,1,1,1,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Sandra Stegmann,Shareholder Representative (Independent Board Member),8.5,8.5,8.5,1,1,3,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Anton Samija,Employee Representative,6.5,6.5,24.9,1,1,0,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,No,Konstantin Ebert,Division COO,0.9,0.9,3.8,1,1,2,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,No,Armando Seixas,MD,3.7,3.7,3.7,1,1,0,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Lebenslauf Holdt,Shareholder Representative (Independent Board Member),0.5,0.5,0.5,1,1,4,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Julia Böttcher,Employee Representative,1.6,1.6,1.6,1,1,0,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Christine Muhr,Employee Representative,1.6,1.6,1.6,1,1,0,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Julia Randelshofer,Employee Representative,1.6,1.6,13.6,1,1,2,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Christian Döngi,Employee Representative,1.6,1.6,1.6,1,1,3,0.7,0.5,20,8.7
+DE0005158703,BECHTLE AG,3901,Yes,Jonas Berhe,Employee Representative,0.1,0.1,0.1,1,1,1,0.7,0.5,20,8.7
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,Yes,Doctor Harald Marquardt,Deputy Chairman (Independent Shareholder Representative),1.5,2.5,2.5,2,1,4,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,Yes,Doctor Andreas Schumacher,Independent Shareholder Representative,1.5,1.5,1.5,1,1,4,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,No,Nicolas-Fabian Schweizer,Chairman/CEO,4.7,13.7,13.7,1,1,1,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,No,Marc Bunz,Deputy Chairman/CFO,4.7,14.7,16.1,1,1,1,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,Yes,Chris Wu,Independent Shareholder Representative,0.5,7.4,7.4,1,1,3,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,Yes,Jürgen Kammerer,Employee Representative (Independent Board Member),5.5,5.5,33.9,1,1,1,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,No,Thomas Gottwald,Chief Technology Officer,0.6,0.6,33.3,1,1,1,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,Yes,Doctor Stefan Krauss,Chairman (Independent Shareholder Representative),2.5,3.5,3.5,1,1,2,1,0.3,9,5.5
+DE0005156236,SCHWEIZER ELECTRONIC AG,27300,Yes,Markus Kretschmann,Employee Representative (Independent Board Member),0.5,0.5,29.9,1,1,0,1,0.3,9,5.5
+DE0005104400,ATOSS SOFTWARE SE (ATOSS Software AG prior to 05/2024),2969,Yes,Klaus Bauer,Independent Board Member,11.7,11.7,11.7,2,1,1,1,0,7,15.2
+DE0005104400,ATOSS SOFTWARE SE (ATOSS Software AG prior to 05/2024),2969,No,Andreas Obereder,Chairman/CEO,3.9,24.8,24.8,1,1,0,1,0,7,15.2
+DE0005104400,ATOSS SOFTWARE SE (ATOSS Software AG prior to 05/2024),2969,No,Christof Leiber,CFO,20.7,20.7,24.8,1,1,2,1,0,7,15.2
+DE0005104400,ATOSS SOFTWARE SE (ATOSS Software AG prior to 05/2024),2969,Yes,Baron Vielhauer von Hohenhau,Vice Chairman (Independent Board Member),12.8,23.6,23.6,1,1,1,1,0,7,15.2
+DE0005104400,ATOSS SOFTWARE SE (ATOSS Software AG prior to 05/2024),2969,Yes,Moritz Zimmermann,Chairman (Independent Board Member),5.1,5.1,5.1,1,1,2,1,0,7,15.2
+DE0005104400,ATOSS SOFTWARE SE (ATOSS Software AG prior to 05/2024),2969,Yes,Christian Osterland,Board Member - SD,0.2,0.2,0.2,1,1,1,1,0,7,15.2
+DE0005104400,ATOSS SOFTWARE SE (ATOSS Software AG prior to 05/2024),2969,No,Pritim Krishnamoorthy,Chief Technology Officer,3.4,3.4,4.4,1,1,0,1,0,7,15.2
+DE0005103006,ADTRAN NETWORKS SE (ADVA Optical Networking SE prior to 06/2023),843,No,Tom Stanton,CEO,1.4,1.4,1.4,3,3,1,0.833,0.4,6,6.3
+DE0005103006,ADTRAN NETWORKS SE (ADVA Optical Networking SE prior to 06/2023),843,No,Doctor Chris Glingener,Chief Technology Officer,1.4,17.8,18.6,1,1,2,0.833,0.4,6,6.3
+DE0005103006,ADTRAN NETWORKS SE (ADVA Optical Networking SE prior to 06/2023),843,Yes,Frank Fischer,Vice Chairman (Independent Board Member),2.3,2.6,2.6,1,1,1,0.833,0.4,6,6.3
+DE0005103006,ADTRAN NETWORKS SE (ADVA Optical Networking SE prior to 06/2023),843,No,Uli Dopfer,CFO,9.9,9.9,21.3,1,1,0,0.833,0.4,6,6.3
+DE0005103006,ADTRAN NETWORKS SE (ADVA Optical Networking SE prior to 06/2023),843,Yes,Doctor Eduard Scheiterer,Chairman (Independent Board Member),1.4,2.2,2.2,1,1,2,0.833,0.4,6,6.3
+DE0005103006,ADTRAN NETWORKS SE (ADVA Optical Networking SE prior to 06/2023),843,Yes,Heike Kratzenstein,Independent Board Member,1.4,1.4,1.4,1,1,1,0.833,0.4,6,6.3
+DE0005102008,BASLER AG,3648,No,Doctor Dietmar Ley,Chairman/CEO,24.8,24.8,26.4,2,1,2,0.75,0,8,8.9
+DE0005102008,BASLER AG,3648,Yes,Norbert Basler,Chairman (Independent Shareholder Representative),20.4,36.9,36.9,1,1,2,0.75,0,8,8.9
+DE0005102008,BASLER AG,3648,No,Hardy Mehl,Deputy CEO/CFO/COO,10.9,10.9,24.4,1,1,5,0.75,0,8,8.9
+DE0005102008,BASLER AG,3648,Yes,Horst Garbrecht,Deputy Chairman (Independent Shareholder Representative),2.6,9.6,9.6,1,1,1,0.75,0,8,8.9
+DE0005102008,BASLER AG,3648,Yes,Professor Doctor Mirja Steinkamp,Independent Shareholder Representative,7.7,7.7,7.7,3,3,6,0.75,0,8,8.9
+DE0005102008,BASLER AG,3648,Yes,Lennart Schulenburg,Independent Shareholder Representative,2.6,2.6,2.6,1,1,2,0.75,0,8,8.9
+DE0005102008,BASLER AG,3648,Yes,Tanja Schley,Employee Representative,1.6,1.6,16.9,1,1,2,0.75,0,8,8.9
+DE0005102008,BASLER AG,3648,Yes,Alexander Jürn,Employee Representative,1.6,1.6,13.9,1,1,1,0.75,0,8,8.9
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Andre Hoffmann,Vice Chairman (Independent Board Member),11.8,28.9,28.9,4,1,3,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Doctor Mark Schneider,Independent Board Member,1.8,1.8,1.8,5,1,3,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Doctor Severin Schwan,Chairman,1.8,11.8,31.9,3,1,5,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Doctor Patrick Frost,Independent Board Member,4.8,4.8,4.8,2,1,4,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Anita Hauser,Independent Board Member,5.9,7.8,7.8,2,2,3,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Tan Sri Dato' Seri Jemilah Mahmood,Independent Board Member,2.8,2.8,2.8,1,1,5,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Doctor Richard Lifton,Independent Board Member,5.9,9.8,9.8,1,1,3,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Doctor Claudia Suessmuth-Dyckerhoff,Independent Board Member,5.9,8.8,8.8,4,4,5,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Doctor Jörg Duschmalé,Independent Board Member,4.8,4.8,4.8,1,1,1,0.6,0.7,10,8
+CH1499059983,ROCHE HOLDING AG,26450,Yes,Professor Doctor Akiko Iwasaki,Independent Board Member,1.8,1.8,1.8,1,1,3,0.6,0.7,10,8
+CH1431598916,INFICON HOLDING AG,15907,Yes,Doctor Beat Lüthi,Chairman (Independent Director),12.7,12.7,12.7,8,2,3,0.8,0,5,7.5
+CH1431598916,INFICON HOLDING AG,15907,Yes,Beat Siegrist,Independent Director,14.6,14.6,14.6,3,3,2,0.8,0,5,7.5
+CH1431598916,INFICON HOLDING AG,15907,Yes,Lukas Winkler,Director - SD,1.8,1.8,23.8,1,1,2,0.8,0,5,7.5
+CH1431598916,INFICON HOLDING AG,15907,Yes,Vanessa Frey,Independent Director,12.7,12.7,12.7,3,2,2,0.8,0,5,7.5
+CH1431598916,INFICON HOLDING AG,15907,Yes,Doctor Reto Suter,Independent Director,3.8,3.8,3.8,1,1,3,0.8,0,5,7.5
+CH1335392721,GALDERMA GROUP AG,3767031,Yes,Thomas Ebeling,Chair,0,0,0,9,2,1,0.625,0.7,8,5.4
+CH1335392721,GALDERMA GROUP AG,3767031,Yes,Tessa Hilado,Board Member - SD,0,0,0,5,3,2,0.625,0.7,8,5.4
+CH1335392721,GALDERMA GROUP AG,3767031,Yes,Marcus Brennecke,Board Member - SD,0,0,0,2,1,1,0.625,0.7,8,5.4
+CH1335392721,GALDERMA GROUP AG,3767031,Yes,Sheri McCoy,Vice Chair,0,0,0,7,4,3,0.625,0.7,8,5.4
+CH1335392721,GALDERMA GROUP AG,3767031,No,Doctor Flemming Ørnskov,CEO,0,0,0,8,2,3,0.625,0.7,8,5.4
+CH1335392721,GALDERMA GROUP AG,3767031,Yes,Michael Bauer,Board Member - SD,0,0,0,2,1,2,0.625,0.7,8,5.4
+CH1335392721,GALDERMA GROUP AG,3767031,Yes,Karen Ling,Board Member - SD,0,0,0,5,3,2,0.625,0.7,8,5.4
+CH1335392721,GALDERMA GROUP AG,3767031,Yes,Dan Browne,Board Member - SD,0,0,0,2,1,2,0.625,0.7,8,5.4
+CH1276028821,SANTHERA PHARMACEUTICALS HOLDING AG,915881,Yes,Doctor Thomas Meier,Chairman,2.5,7.7,18.1,2,2,1,1,0.8,4,8.8
+CH1276028821,SANTHERA PHARMACEUTICALS HOLDING AG,915881,Yes,Doctor Otto Schwarz,Board Member - SD,1.5,1.5,1.5,2,1,2,1,0.8,4,8.8
+CH1276028821,SANTHERA PHARMACEUTICALS HOLDING AG,915881,Yes,Philipp Gutzwiller,Independent Board Member,7.7,7.7,7.7,1,1,1,1,0.8,4,8.8
+CH1276028821,SANTHERA PHARMACEUTICALS HOLDING AG,915881,Yes,Brad Meyer,Independent Director,1.5,1.5,1.8,3,3,1,1,0.8,4,8.8
+CH1251125998,MINDMAZE THERAPEUTICS HOLDING SA (Relief Therapeutics Holding SA prior to 12/2025),1613960,Yes,Peter De Svastich,Board Member - SD,5.3,5.3,5.3,1,1,5,1,0.5,4,17
+CH1251125998,MINDMAZE THERAPEUTICS HOLDING SA (Relief Therapeutics Holding SA prior to 12/2025),1613960,Yes,Doctor Ram Selvaraju,Chairman,8.6,8.6,8.6,1,1,4,1,0.5,4,17
+CH1251125998,MINDMAZE THERAPEUTICS HOLDING SA (Relief Therapeutics Holding SA prior to 12/2025),1613960,Yes,Gregory Van Beek,Board Member - SD,0.7,0.7,0.7,1,1,2,1,0.5,4,17
+CH1251125998,MINDMAZE THERAPEUTICS HOLDING SA (Relief Therapeutics Holding SA prior to 12/2025),1613960,Yes,Thomas Elzinga,Board Member - SD,0.7,0.7,0.7,1,1,0,1,0.5,4,17
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Urs Riedener,Independent Director,1.2,1.2,1.2,3,3,2,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Doctor Mathai Mammen,Independent Director,0.7,0.7,0.7,2,1,4,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Gilbert Ghostine,Independent Chairman,1.2,1.2,1.2,3,2,2,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Yannis Skoufalos,Independent Director,1.2,1.2,1.2,4,2,2,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Maria Varsellona,Independent Director,1.2,1.2,1.2,4,1,1,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Doctor Karen Huebscher,Independent Vice Chair,1.2,1.2,1.2,2,2,3,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Graeme Pitkethly,Independent Director,0.7,0.7,0.7,5,2,2,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Doctor Aarti Shah,Independent Director,1.2,1.2,1.2,3,2,2,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Michael Rechsteiner,Independent Director,0.7,0.7,0.7,2,2,2,0.6,0.8,10,3.6
+CH1243598427,SANDOZ GROUP AG,3689907,Yes,Doctor Shami Feinglass,Independent Director,1.2,1.2,1.2,1,1,3,0.6,0.8,10,3.6
+CH1110760852,POLYPEPTIDE GROUP AG,3388666,Yes,Doctor Beat In-Albon,Independent Board Member,3.7,3.7,3.7,3,2,2,0.833,0.7,6,5.2
+CH1110760852,POLYPEPTIDE GROUP AG,3388666,Yes,Doctor Klaus Wilden,Chairman,2.9,3.6,3.6,3,1,2,0.833,0.7,6,5.2
+CH1110760852,POLYPEPTIDE GROUP AG,3388666,Yes,Professor Doctor Patrick Aebischer,Lead Independent Vice Chairman,3.7,3.7,3.7,4,2,3,0.833,0.7,6,5.2
+CH1110760852,POLYPEPTIDE GROUP AG,3388666,Yes,Doctor Philippe Weber,Independent Board Member,3.7,3.7,3.7,4,4,2,0.833,0.7,6,5.2
+CH1110760852,POLYPEPTIDE GROUP AG,3388666,Yes,Erik Schropp,Board Member - SD,3.7,3.7,3.7,1,1,1,0.833,0.7,6,5.2
+CH1110760852,POLYPEPTIDE GROUP AG,3388666,Yes,Jane Salik,Independent Board Member,0.9,3.7,3.7,1,1,2,0.833,0.7,6,5.2
+CH0582581713,DOTTIKON ES HOLDING AG,1613936,Yes,Doctor Alfred Scheidegger,Deputy Chairman,3.7,12.7,12.7,2,1,3,1,0,3,6.4
+CH0582581713,DOTTIKON ES HOLDING AG,1613936,No,Doctor Markus Blocher,Chairman/CEO/MD,11.7,13.7,19,1,1,0,1,0,3,6.4
+CH0582581713,DOTTIKON ES HOLDING AG,1613936,Yes,Doctor Bernhard Urwyler,Board Member - SD,3.7,3.7,4,1,1,1,1,0,3,6.4
+CH0406705126,SENSIRION HOLDING AG,2888082,Yes,Doctor Anja Koenig,Independent Board Member,3.6,3.6,3.6,1,1,2,0.667,0.5,6,4.7
+CH0406705126,SENSIRION HOLDING AG,2888082,Yes,Ricarda Demarmels,Lead Independent Board Member,2.6,6.8,6.8,1,1,2,0.667,0.5,6,4.7
+CH0406705126,SENSIRION HOLDING AG,2888082,Yes,Doctor Franz Studer,Independent Board Member,5.6,5.6,5.6,2,2,4,0.667,0.5,6,4.7
+CH0406705126,SENSIRION HOLDING AG,2888082,Yes,Doctor Moritz Lechner,Co-Chairman,6.8,6.8,6.8,1,1,2,0.667,0.5,6,4.7
+CH0406705126,SENSIRION HOLDING AG,2888082,Yes,Doctor Felix Mayer,Co-Chairman,6.8,6.8,6.8,1,1,2,0.667,0.5,6,4.7
+CH0406705126,SENSIRION HOLDING AG,2888082,Yes,Henri Mrejen,Independent Board Member,0.6,0.6,0.6,1,1,1,0.667,0.5,6,4.7
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Christina Stercken,Independent Director,6.7,6.7,6.7,5,3,4,0.625,0.8,8,4
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Andreas Umbach,Chairman,6.7,6.7,6.7,3,2,3,0.625,0.8,8,4
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Eric Elzvik,Lead Independent Director,6.7,6.7,6.7,3,3,1,0.625,0.8,8,4
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Peter Bason,Shareholder Representative,0.8,0.8,0.8,1,1,2,0.625,0.8,8,4
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Andreas Spreiter,Independent Director,6.7,6.7,6.7,1,1,2,0.625,0.8,8,4
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Audrey Zibelman,Independent Director,0.8,0.8,0.8,4,3,3,0.625,0.8,8,4
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Peter Mainz,Independent Director,5.8,5.8,5.8,3,1,2,0.625,0.8,8,4
+CH0371153492,LANDIS+GYR GROUP AG,2685952,Yes,Laurie Tolson,Independent Director,2.8,2.8,2.8,2,2,3,0.625,0.8,8,4
+CH0033361673,U-BLOX HOLDING AG,1615256,Yes,Ulrich Looser,Independent Board Member,2.8,6.7,6.7,4,2,2,0.667,0.5,6,5.8
+CH0033361673,U-BLOX HOLDING AG,1615256,Yes,Elke Eckstein,Independent Board Member,2.1,2.1,2.1,3,3,1,0.667,0.5,6,5.8
+CH0033361673,U-BLOX HOLDING AG,1615256,Yes,Markus Borchert,Independent Board Member,5.7,5.7,5.7,1,1,2,0.667,0.5,6,5.8
+CH0033361673,U-BLOX HOLDING AG,1615256,Yes,Karin Sonnenmoser,Independent Board Member,2.1,2.1,2.1,7,2,2,0.667,0.5,6,5.8
+CH0033361673,U-BLOX HOLDING AG,1615256,Yes,André Müller,Chairman (Independent Board Member),6.7,9.7,9.7,1,1,1,0.667,0.5,6,5.8
+CH0033361673,U-BLOX HOLDING AG,1615256,Yes,Fabian Rauch,Independent Board Member,0.7,0.7,0.7,2,2,1,0.667,0.5,6,5.8
+CH0029850754,ADDEX THERAPEUTICS LTD (Addex Pharmaceuticals Ltd prior to 03/2012),492747,No,Doctor Roger Mills,Chief Medical Officer,8.1,7.5,8.1,1,1,2,1,0.5,6,11.7
+CH0029850754,ADDEX THERAPEUTICS LTD (Addex Pharmaceuticals Ltd prior to 03/2012),492747,Yes,Jake Nunn,Independent Board Member,6.5,6.5,6.5,10,3,3,1,0.5,6,11.7
+CH0029850754,ADDEX THERAPEUTICS LTD (Addex Pharmaceuticals Ltd prior to 03/2012),492747,Yes,Professor Doctor Ray Hill,Board Member - SD,14.4,14.4,14.4,3,1,4,1,0.5,6,11.7
+CH0029850754,ADDEX THERAPEUTICS LTD (Addex Pharmaceuticals Ltd prior to 03/2012),492747,Yes,Doctor Isaac Manke,Independent Board Member,4.5,6.5,6.5,4,3,2,1,0.5,6,11.7
+CH0029850754,ADDEX THERAPEUTICS LTD (Addex Pharmaceuticals Ltd prior to 03/2012),492747,No,Tim Dyer,CEO,11.5,9.5,17.6,1,1,2,1,0.5,6,11.7
+CH0029850754,ADDEX THERAPEUTICS LTD (Addex Pharmaceuticals Ltd prior to 03/2012),492747,Yes,Professor Vincent Lawton,Chairman (Independent Board Member),6.9,15.7,15.7,1,1,2,1,0.5,6,11.7
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Guy Gecht,Independent Director,4,4.5,4.5,3,2,1,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Professor Doctor Patrick Aebischer,Independent Director,7.5,7.5,7.5,4,3,3,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Deborah Thomas,Independent Director,3.5,3.5,3.5,2,1,2,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Frankie Ng,Independent Director,1.5,1.5,1.5,1,1,2,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Marjorie Lao,Independent Director,5.5,5.5,5.5,4,3,4,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Wendy Becker,Independent Chairman,4.5,6.5,6.5,7,4,2,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Chris Jones,Independent Director,1.5,1.5,1.5,2,1,1,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Professor Ed Bugnion,Independent Director,8.5,8.5,8.5,1,1,3,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Neela Montgomery,Independent Director,6.5,6.5,6.5,3,2,2,0.6,0.7,10,5.9
+CH0025751329,LOGITECH INTERNATIONAL SA,19084,Yes,Sascha Zahnd,Independent Director,1.5,1.5,1.5,3,2,2,0.6,0.7,10,5.9
+CH0022427626,LEM HOLDING SA,917583,Yes,Ulrich Looser,Board Member - SD,8.8,8.8,8.8,4,3,2,1,0.3,6,4.2
+CH0022427626,LEM HOLDING SA,917583,Yes,François Gabella,Board Member - SD,5.8,5.8,13.4,3,2,2,1,0.3,6,4.2
+CH0022427626,LEM HOLDING SA,917583,Yes,Andreas Hürlimann,Chairman,10.8,12.7,12.7,1,1,2,1,0.3,6,4.2
+CH0022427626,LEM HOLDING SA,917583,Yes,Doctor Ilan Cohen,Board Member - SD,13.8,13.8,13.8,1,1,4,1,0.3,6,4.2
+CH0022427626,LEM HOLDING SA,917583,Yes,Ueli Wampfler,Board Member - SD,16.8,16.8,16.8,1,1,2,1,0.3,6,4.2
+CH0022427626,LEM HOLDING SA,917583,Yes,Doctor Werner Weber,Board Member - SD,6.8,6.8,6.8,1,1,1,1,0.3,6,4.2
+CH0013841017,LONZA GROUP AG,19144,Yes,Barbara Richmond,Independent Director,10.7,10.7,10.7,7,2,2,0.625,0.7,8,4.8
+CH0013841017,LONZA GROUP AG,19144,Yes,Ernst Mäder,Lead Independent Director,0.3,8.7,8.7,4,3,1,0.625,0.7,8,4.8
+CH0013841017,LONZA GROUP AG,19144,Yes,Raoul Huët,Chairman,0.4,0.4,0.4,8,2,2,0.625,0.7,8,4.8
+CH0013841017,LONZA GROUP AG,19144,Yes,Juergen Steinemann,Independent Vice Chairman,0.3,10.7,10.7,6,2,1,0.625,0.7,8,4.8
+CH0013841017,LONZA GROUP AG,19144,Yes,Doctor Marion Helmes,Independent Director,2.6,2.6,2.6,11,3,2,0.625,0.7,8,4.8
+CH0013841017,LONZA GROUP AG,19144,Yes,Doctor Angelica Kupper,Independent Director,6.6,6.6,6.6,1,1,2,0.625,0.7,8,4.8
+CH0013841017,LONZA GROUP AG,19144,Yes,Doctor Olivier Verscheure,Independent Director,6.6,6.6,6.6,1,1,3,0.625,0.7,8,4.8
+CH0013841017,LONZA GROUP AG,19144,Yes,Professor Roger Nitsch,Independent Director,2.6,2.6,2.6,1,1,3,0.625,0.7,8,4.8
+CH0013396012,SKAN GROUP AG,5397,Yes,Doctor Beat Lüthi,Independent Chairman,0.6,3.2,3.2,8,2,3,0.833,0,6,4.7
+CH0013396012,SKAN GROUP AG,5397,Yes,Cornelia Gehrig-Nell,Independent Vice Chairman,3.2,3.2,3.2,3,2,2,0.833,0,6,4.7
+CH0013396012,SKAN GROUP AG,5397,No,Thomas Huber,CEO,3.2,3.2,3.2,1,1,3,0.833,0,6,4.7
+CH0013396012,SKAN GROUP AG,5397,Yes,Oliver Baumann,Independent Board Member,3.2,3.2,3.2,1,1,2,0.833,0,6,4.7
+CH0013396012,SKAN GROUP AG,5397,Yes,Gregor Plattner,Independent Board Member,3.2,3.2,3.2,1,1,1,0.833,0,6,4.7
+CH0013396012,SKAN GROUP AG,5397,Yes,Patrick Schär,Independent Board Member,3.2,3.2,3.2,1,1,1,0.833,0,6,4.7
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Thibault De Tersant,Independent Chairman,1.6,12.5,12.5,3,1,2,0.625,0.7,8,5.2
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Maurizio Carli,Independent Director,4.6,4.6,4.6,4,1,1,0.625,0.7,8,5.2
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Doctor Michael Gorriz,Independent Director,0.6,0.6,0.6,2,1,2,0.625,0.7,8,5.2
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Laurie Readhead,Independent Director,0.6,0.6,0.6,1,1,1,0.625,0.7,8,5.2
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Dorothee Deuring,Independent Director,1.6,1.6,1.6,7,3,2,0.625,0.7,8,5.2
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Doctor Peter Spenser,Independent Director,7.6,7.6,7.6,1,1,3,0.625,0.7,8,5.2
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Xavier Cauchois,Independent Director,1.6,1.6,1.6,4,2,1,0.625,0.7,8,5.2
+CH0012453913,TEMENOS AG (Temenos Group AG prior to 05/2018),30379,Yes,Karin Cecilia Hultén,Independent Vice Chair,0.6,2.6,2.6,2,1,3,0.625,0.7,8,5.2
+CH0012005267,NOVARTIS AG,22583,Yes,Ton Büchner,Independent Director,8.8,8.8,8.8,4,3,3,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Bridgette Heller,Independent Director,4.8,4.8,4.8,6,4,2,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Liz Doherty,Independent Director,8.8,8.8,8.8,9,3,2,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Bill Winters,Independent Director,11.8,11.8,11.8,3,2,2,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Frans van Houten,Independent Director,7.8,7.8,7.8,4,2,1,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Doctor Jörg Reinhardt,Chair (Independent Director),11.3,11.3,25.2,4,2,1,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Ana de Pro Gonzalo,Independent Director,2.8,2.8,2.8,5,3,2,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Simon Moroney,Vice Chair (Independent Director),2.8,4.8,4.8,3,2,2,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Professor Doctor Charles Sawyers,Independent Director,11.8,11.8,11.8,1,1,5,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Patrice Bula,Lead Independent Director,2.8,5.8,5.8,3,2,2,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,John Young,Independent Director,1.8,1.8,1.8,4,3,2,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Doctor Nancy Andrews,Independent Director,9.8,9.8,9.8,2,2,4,0.692,0.8,13,3.3
+CH0012005267,NOVARTIS AG,22583,Yes,Daniel Hochstrasser,Independent Director,2.8,2.8,2.8,1,1,2,0.692,0.8,13,3.3
+CH0005319162,ELMA ELECTRONIC AG,10437,Yes,Walter Häusermann,Vice Chairman (Independent Board Member),20.7,20.7,20.7,3,2,5,1,0,4,8.3
+CH0005319162,ELMA ELECTRONIC AG,10437,Yes,Bruno Cathomen,Independent Board Member,2.7,2.7,2.7,1,1,1,1,0,4,8.3
+CH0005319162,ELMA ELECTRONIC AG,10437,Yes,Martin Wipfli,Chairman (Independent Board Member),16.7,17.7,17.7,4,4,1,1,0,4,8.3
+CH0005319162,ELMA ELECTRONIC AG,10437,Yes,Andy Egger,Board Member - SD,0.7,0.7,0.7,1,1,1,1,0,4,8.3
+BE0974363955,HYLORIS PHARMACEUTICALS SA,3207670,Yes,Vincent van Dessel,Independent Board Member,0.3,0.3,0.3,2,1,1,0.857,0.4,7,10.1
+BE0974363955,HYLORIS PHARMACEUTICALS SA,3207670,Yes,Stefan Yee,Chairman (Non-Executive),4.5,4.5,4.5,3,1,5,0.857,0.4,7,10.1
+BE0974363955,HYLORIS PHARMACEUTICALS SA,3207670,Yes,Leon van Rompay,Board Member - SD,4.5,4.5,4.5,2,1,1,0.857,0.4,7,10.1
+BE0974363955,HYLORIS PHARMACEUTICALS SA,3207670,No,Stijn van Rompay,Co-CEO,0.2,4.5,4.5,2,1,1,0.857,0.4,7,10.1
+BE0974363955,HYLORIS PHARMACEUTICALS SA,3207670,Yes,Marc Foidart,Independent Board Member,4.5,4.5,4.5,3,1,1,0.857,0.4,7,10.1
+BE0974363955,HYLORIS PHARMACEUTICALS SA,3207670,No,Thomas Jacobsen,Co-CEO/Chief Business Development Officer,0.2,4.5,4.5,1,1,2,0.857,0.4,7,10.1
+BE0974363955,HYLORIS PHARMACEUTICALS SA,3207670,Yes,Revital Rattenbach,Independent Board Member,0.3,0.3,0.3,2,2,2,0.857,0.4,7,10.1
+BE0974362940,BARCO NV,3576,Yes,Frank Donck,Independent Director,6.7,9.7,9.7,9,5,2,0.571,0.3,7,5.8
+BE0974362940,BARCO NV,3576,Yes,Lord Sassoon,Independent Director,1.7,1.7,1.7,9,3,3,0.571,0.3,7,5.8
+BE0974362940,BARCO NV,3576,Yes,Hilde Laga,Independent Director,10.7,10.7,10.7,6,1,3,0.571,0.3,7,5.8
+BE0974362940,BARCO NV,3576,Yes,Ashok Jain,Independent Representative Director,6.9,12.2,12.2,1,1,2,0.571,0.3,7,5.8
+BE0974362940,BARCO NV,3576,Yes,Charles Beauduin,Chairman,6.9,9.9,9.9,1,1,3,0.571,0.3,7,5.8
+BE0974362940,BARCO NV,3576,No,Doctor An Steegen,CEO,0.3,7.6,7.6,3,2,1,0.571,0.3,7,5.8
+BE0974362940,BARCO NV,3576,Yes,Lieve Creten,Independent Director,3.7,3.7,3.7,5,4,3,0.571,0.3,7,5.8
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Doctor Roland Duchâtelet,Director - SD,7.7,7.7,7.7,4,3,4,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,No,Rudi De Winter,CEO/MD (Representative Director),7.7,7.7,7.7,2,1,1,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Tan Sri Datuk Amar Tommy Bin Bugo,Chairman,3.4,7.7,7.7,9,1,5,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Thomas Straub,Director - SD,7.7,7.7,7.7,1,1,2,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Christel Verschaeren,Independent Director,7.7,7.7,7.7,1,1,1,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Estelle Iacona,Independent Director,7.7,7.7,7.7,1,1,3,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Chris Juliam,Independent Representative Director,7.3,7.3,7.3,1,1,4,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Ling Qi,Representative Director,3.9,6.2,6.2,1,1,2,0.556,0.6,9,9.2
+BE0974310428,X-FAB SILICON FOUNDRIES SE,2644877,Yes,Datuk Dr Wan bin Wan Omar,Director - SD,3.4,3.4,3.4,1,1,4,0.556,0.6,9,9.2
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Michel Lussier,Permanent Representative,0.2,11.4,11.4,1,1,3,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Hilde Windels,Independent Chairman (Permanent Representative),2.5,6.6,6.6,7,4,1,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Jon James,Director - SD,1.9,1.9,1.9,1,1,2,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Andrea Gothing,Director - SD,1.9,1.9,1.9,1,1,3,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Chris LiPuma,Director - SD,2.9,2.9,2.9,1,1,1,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Serge Goblet,Director - SD,4.6,11.4,11.4,1,1,1,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Doctor Marina Udier-Blagovic,Independent Director,4,4,4,1,1,2,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Dominic Piscitelli,Independent Director,4.6,4.6,4.6,1,1,3,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,No,Matt Kane,CEO,0.2,0.2,0.2,2,1,3,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Sage Mandel,Director - SD,1.9,1.9,1.9,1,1,3,0.545,0.5,11,7.7
+BE0974260896,CELYAD ONCOLOGY SA (Celyad SA prior to 06/2020),1963558,Yes,Ami Shah,Director - SD,3,3,3,1,1,2,0.545,0.5,11,7.7
+BE0165385973,MELEXIS NV,20222,Yes,Doctor Roland Duchâtelet,Director - SD,3.3,30.7,30.7,4,3,4,0.5,0.4,6,9.5
+BE0165385973,MELEXIS NV,20222,Yes,Françoise Chombar,Chairwoman,3.3,28.9,30.9,4,3,1,0.5,0.4,6,9.5
+BE0165385973,MELEXIS NV,20222,No,Doctor Marc Biron,CEO/MD/Interim COO,0.1,3.3,26.4,1,1,2,0.5,0.4,6,9.5
+BE0165385973,MELEXIS NV,20222,Yes,Shiro Baba,Independent Director,11.7,11.7,11.7,1,1,2,0.5,0.4,6,9.5
+BE0165385973,MELEXIS NV,20222,Yes,Professor Doctor Tine Baelmans,Independent Director,10.7,10.7,10.7,1,1,2,0.5,0.4,6,9.5
+BE0165385973,MELEXIS NV,20222,Yes,Maria Pia De Caro,Independent Director,3.6,3.6,3.6,1,1,1,0.5,0.4,6,9.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Jérôme Contamine,Lead Independent Board Member,1.8,2.7,2.7,12,2,2,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Simon Sturge,Independent Board Member,1.3,1.3,1.3,7,2,2,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Andy Dickinson,Board Member - SD,0.8,0.8,0.8,1,1,2,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,No,Doctor Paul Stoffels,Chairman/CEO (Permanent Representative),2.7,2.7,2.7,2,2,4,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Doctor Susanne Schaffert,Independent Board Member,1.5,1.5,1.5,5,3,1,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Peter Guenter,Independent Board Member,2.7,5.7,5.7,3,2,1,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Oleg Nodelman,Board Member - SD,0.2,0.2,0.2,7,3,1,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Elisabeth Svanberg,Independent Board Member,2.7,4.7,4.7,5,2,4,0.667,0.8,9,5.5
+BE0003818359,GALAPAGOS NV (Galapagos Genomics NV prior to 03/2005),804929,Yes,Doctor Linda Higgins,Board Member - SD,5.2,5.2,5.2,2,2,3,0.667,0.8,9,5.5
+BE0003755692,AGFA GEVAERT NV,1052,Yes,Doctor Christian Reinaudo,Permanent Representative,4.9,14.7,16.9,2,2,2,0.714,0.7,7,7.6
+BE0003755692,AGFA GEVAERT NV,1052,Yes,Mark Pensaert,Independent Permanent Representative,6.6,6.6,6.6,2,1,4,0.714,0.7,7,7.6
+BE0003755692,AGFA GEVAERT NV,1052,No,Pascal Juéry,President/CEO/MD,4.6,4.6,4.8,3,1,5,0.714,0.7,7,7.6
+BE0003755692,AGFA GEVAERT NV,1052,Yes,Frank Aranzana,Independent Chairman (Permanent Representative),4.3,5.6,5.6,1,1,4,0.714,0.7,7,7.6
+BE0003755692,AGFA GEVAERT NV,1052,Yes,Klaus Röhrig,Director - SD,4.8,6.1,6.1,5,3,1,0.714,0.7,7,7.6
+BE0003755692,AGFA GEVAERT NV,1052,Yes,Doctor Helen Routh,Independent Permanent Representative,5.6,5.6,5.6,1,1,1,0.714,0.7,7,7.6
+BE0003755692,AGFA GEVAERT NV,1052,Yes,Line de Decker,Independent Permanent Representative,2.6,2.6,2.6,1,1,2,0.714,0.7,7,7.6
+BE0003739530,UCB SA,31602,Yes,Ulf Wiinberg,Independent Director,8.7,8.7,8.7,6,3,2,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Cyril Janssen,Director - SD,9.7,9.7,9.7,3,2,2,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,No,Doctor Jean-Christophe Tellier,CEO,9.7,10.7,13.4,1,1,5,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Jon Peacock,Independent Chair,1.8,3.7,3.7,7,2,2,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Jonkheer van Rijckevorsel,Director - SD,10.7,10.7,10.7,2,2,2,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Baron Janssen,Vice Chair,0.7,12.7,23.9,2,2,3,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Professor Dame Kay Davies,Independent Director,10.7,10.7,10.7,3,2,4,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Maëlys Castella,Independent Director,1.7,1.7,1.7,3,2,0,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Pierre Gurdjian,Independent Director,4.7,8.7,8.7,2,2,2,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Rodolfo Savitzky,Independent Director,0.7,0.7,0.7,2,2,3,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Doctor Jan Berger,Independent Director,5.7,5.7,5.7,3,1,3,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Doctor Dolca Thomas,Independent Director,0.7,0.7,0.7,3,2,3,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Professor Susan Gasser,Independent Director,3.9,3.9,3.9,1,1,2,0.571,0.8,14,6.7
+BE0003739530,UCB SA,31602,Yes,Nefertiti Greene,Independent Director,0.7,0.7,0.7,1,1,2,0.571,0.8,14,6.7
+ATMARINOMED6,MARINOMED BIOTECH AG,2988710,Yes,Doctor Karl Mahler,Independent Board Member,0,0,0,1,1,1,0.571,0,7,5.5
+ATMARINOMED6,MARINOMED BIOTECH AG,2988710,Yes,Brigitte Ederer,Vice Chairwoman (Independent Board Member),1.5,5.8,5.8,5,3,1,0.571,0,7,5.5
+ATMARINOMED6,MARINOMED BIOTECH AG,2988710,Yes,Doctor Simon Nebel,Chairman (Independent Board Member),5.8,5.8,5.8,2,1,2,0.571,0,7,5.5
+ATMARINOMED6,MARINOMED BIOTECH AG,2988710,No,Doctor Andreas Grassauer,Chairman/CEO,5.8,5.8,5.8,1,1,1,0.571,0,7,5.5
+ATMARINOMED6,MARINOMED BIOTECH AG,2988710,No,Doctor Eva Prieschl-Grassauer,Chief Scientific Officer,5.8,5.8,5.8,1,1,1,0.571,0,7,5.5
+ATMARINOMED6,MARINOMED BIOTECH AG,2988710,No,Pascal Schmidt,CFO,5.8,5.8,5.8,1,1,1,0.571,0,7,5.5
+ATMARINOMED6,MARINOMED BIOTECH AG,2988710,Yes,Doctor Elisabeth Lackner,Independent Board Member,2.5,2.5,2.5,1,1,4,0.571,0,7,5.5
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,Yes,Doctor Harald Sommerer,Deputy Chairman (Independent Board Member),3.5,10.3,10.3,5,2,3,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,No,Georg Kapsch,Chairman/CEO,16.8,16.8,16.8,1,1,1,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,Yes,Doctor Franz Semmernegg,Chairman,7.8,16.8,16.8,1,1,2,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,Yes,Christian Windisch,Employee Representative (Independent Board Member),16.8,16.8,16.8,1,1,1,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,No,Alfredo Gallego,Chief Technology Officer,4.8,4.8,4.8,1,1,3,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,No,Andreas Hämmerle,CFO,2.5,2.5,3,1,1,0,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,Yes,Doctor Sonja Hammerschmid,Independent Board Member,2.5,2.5,2.5,1,1,2,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,Yes,Monika Brodey,Board Member - SD,0.5,0.5,0.5,1,1,1,0.778,0,9,4.2
+AT000KAPSCH9,KAPSCH TRAFFICCOM AG,1245175,Yes,Robert Kutschera,Employee Representative (Independent Board Member),0.3,0.3,11.2,1,1,2,0.778,0,9,4.2
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Kin Loh,Independent Shareholder Representative,8.5,8.5,8.5,6,2,2,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Andy Mattes,Vice Chairman (Independent Shareholder Representative),0.5,1.5,1.5,8,2,1,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Margarete Haase,Chairwoman (Independent Shareholder Representative),2.5,3.5,3.5,6,4,4,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Brigitte Ederer,Independent Shareholder Representative,3.5,3.5,3.5,5,3,1,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Arunjai Mittal,Independent Shareholder Representative,1.2,1.2,1.2,4,1,4,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Yen Tan,Independent Shareholder Representative,5.9,6.5,6.5,6,3,2,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Andreas Gerstenmayer,Independent Shareholder Representative,2.5,2.5,2.5,2,1,1,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,No,Rainer Irle,CFO,1.4,1.4,1.4,3,2,2,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,No,Aldo Kamper,Chairman/CEO,1.7,1.9,1.9,3,2,2,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Doctor Monika Henzinger,Independent Shareholder Representative,5.9,6.5,6.5,2,2,1,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Wolfgang Koren,Employee Representative,1.4,1.4,20.9,1,1,1,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Doctor Nadine Raidl,Employee Representative,1.5,1.5,7.9,1,1,1,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Michael Krainz,Employee Representative,1.4,1.4,10.9,1,1,1,0.643,0.8,14,10.5
+AT0000A3EPA4,AMS-OSRAM AG (Ams AG prior to 01/2022),784030,Yes,Martin Bauer,Employee Representative,0.3,0.3,0.3,2,2,0,0.643,0.8,14,10.5
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,Yes,John Costopoulos,Vice Chairman (Independent Board Member),1.9,1.9,1.9,5,3,2,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,Yes,Petros Katsoulas,Chairman (Independent Board Member),1.9,1.9,1.9,3,2,3,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,Yes,Anastassios Gabrielides,Independent Board Member,1.9,1.9,1.9,1,1,5,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,Yes,Martin Wagner,Independent Board Member,1.9,1.9,1.9,1,1,0,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,Yes,Michael Butz,Independent Board Member,1.9,1.9,1.9,1,1,0,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,No,Nikolaos Lykos,Chairman (Executive),1.9,1.9,1.9,1,1,0,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,No,Emmanouil Kontos,Deputy Chairman/Group CEO,0.4,1.4,1.4,1,1,0,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,No,Burak Bilge,Executive VP,1.4,1.4,1.4,1,1,0,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,No,Jon Neeraas,Executive VP,1.4,1.4,1.4,1,1,0,1,0,10,8.2
+AT0000A325L0,AUSTRIACARD HOLDINGS AG,3608147,No,Markus Kirchmayr,Group CFO,1.4,1.4,1.4,1,1,0,1,0,10,8.2
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Professor Doctor Hermann Eul,Shareholder Representative (Independent Director),3.7,3.7,3.7,3,2,3,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Doctor Regina Prehofer,Independent First Deputy Chairwoman (Shareholders Representative),3.7,12.7,12.7,9,2,3,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Doctor Hannes Androsch,Chairman (Shareholder Representative),15.8,15.8,15.8,3,1,3,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Doctor Georg Riedl,Independent First Deputy Chairman (Shareholders Representative),3.7,15.8,15.8,5,1,2,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Robert Lasshofer,Shareholder Representative (Independent Director),3.7,3.7,3.7,3,2,2,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Doctor Gertrude Tumpel-Gugerell,Shareholder Representative (Independent Director),4.7,4.7,4.7,4,4,2,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Lars Reger,Shareholder Representative (Independent Director),3.7,3.7,3.7,2,1,2,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,No,Andreas Gerstenmayer,Chairman/CEO,12.6,14.1,14.1,2,2,1,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Doctor Karin Schaupp,Shareholder Representative (Independent Director),12.7,12.7,12.7,1,1,4,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Wolfgang Fleck,Employee Representative,15.5,15.5,15.5,1,1,0,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Siegfried Trauch,Employee Representative,8.2,8.2,15.8,1,1,0,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,No,Petra Preining,CFO,1.4,1.4,1.4,3,2,1,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Günter Pint,Employee Representative,6.5,6.5,6.5,1,1,0,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,No,Ingolf Schröder,Executive VP/COO,3.5,3.5,3.5,1,1,1,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Georg Hansis,Shareholder Representative (Independent Director),3.7,3.7,3.7,1,1,4,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,No,Doctor Peter Schneider,Executive VP/Deputy Chairman/Deputy CEO,1.4,2.8,3.5,1,1,2,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,No,Doctor Peter Griehsnig,Chief Technology Officer,0.9,0.9,0.9,1,1,1,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Bianca Ernhardt,Employee Representative,1.3,1.3,1.3,1,1,0,0.684,0.5,19,11.6
+AT0000969985,AT & S AUSTRIA TECHNOLOGIE & SYSTEMTECHNIK AG,3087,Yes,Christa Köberl,Employee Representative,0.3,0.3,0.3,1,1,0,0.684,0.5,19,11.6
+AT0000785407,FABASOFT AG,11472,No,Helmut Fallmann,Chairman/CEO,1.8,35.6,35.6,1,1,1,0.714,0,7,9.2
+AT0000785407,FABASOFT AG,11472,Yes,Doctor Friedrich Roithmayr,Independent Chairman,14.8,25.2,25.2,1,1,3,0.714,0,7,9.2
+AT0000785407,FABASOFT AG,11472,Yes,Professor Doctor Ingrid Schaumüller-Bichl,Second Deputy Chairman (Independent Board Member),10.7,10.7,10.7,1,1,3,0.714,0,7,9.2
+AT0000785407,FABASOFT AG,11472,Yes,Professor Doctor Andreas Altmann,First Deputy Chairman (Independent Board Member),9.8,9.8,9.8,1,1,4,0.714,0,7,9.2
+AT0000785407,FABASOFT AG,11472,No,Oliver Albl,Chief Technical Officer,1.8,1.8,29.3,1,1,1,0.714,0,7,9.2
+AT0000785407,FABASOFT AG,11472,No,Matthias Wodniok,Chief Growth Officer,1.7,1.7,1.7,1,1,1,0.714,0,7,9.2
+AT0000785407,FABASOFT AG,11472,Yes,Michaela Schwinghammer-Hausleithner,Independent Board Member,1.7,1.7,1.7,1,1,1,0.714,0,7,9.2

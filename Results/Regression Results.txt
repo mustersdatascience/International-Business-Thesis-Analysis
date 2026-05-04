@@ -1,0 +1,422 @@
+Ingeladen: 464 firms
+  US: 348
+  EU: 116
+
+======================================================================
+DUMMIES AANMAKEN
+======================================================================
+  Cluster dummies aangemaakt (referentie: Cluster 2)
+    Cluster 0 (Entrenched):    71 firms
+    Cluster 1 (Insider):       86 firms
+    Cluster 2 (International): 155 firms [REF]
+    Cluster 3 (Fresh):         152 firms
+
+  Sector dummy aangemaakt (referentie: Healthcare)
+    Tech:       256 firms
+    Healthcare: 208 firms [REF]
+
+  Institutional_Context al binary
+    US (LME): 348 firms
+    EU (CME): 116 firms [REF]
+
+  Interactie-termen aangemaakt:
+    Cluster_0 × US: 63 firms
+    Cluster_1 × US: 52 firms
+    Cluster_3 × US: 132 firms
+
+======================================================================
+OLS REGRESSIE RESULTATEN
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+Model 1: Firm_Size_Ln + ROA + Leverage
+──────────────────────────────────────────────────────────────────────
+  N = 464, R² = 0.3746, Adj. R² = 0.3705
+  F(3, 460) = 58.137, p = 0.0000
+
+──────────────────────────────────────────────────────────────────────
+Model 2: Firm_Size_Ln + ROA + Leverage...
+──────────────────────────────────────────────────────────────────────
+  N = 464, R² = 0.4041, Adj. R² = 0.3962
+  F(6, 457) = 35.144, p = 0.0000
+
+──────────────────────────────────────────────────────────────────────
+Model 3: Firm_Size_Ln + ROA + Leverage...
+──────────────────────────────────────────────────────────────────────
+  N = 464, R² = 0.4932, Adj. R² = 0.4843
+  F(8, 455) = 41.726, p = 0.0000
+
+──────────────────────────────────────────────────────────────────────
+Model 4: Firm_Size_Ln + ROA + Leverage...
+──────────────────────────────────────────────────────────────────────
+  N = 464, R² = 0.5016, Adj. R² = 0.4895
+  F(11, 452) = 30.704, p = 0.0000
+
+======================================================================
+COEFFICIENT OVERZICHT (alle modellen)
+======================================================================
+
+Variabele                        Model 1        Model 2        Model 3        Model 4
+------------------------- -------------- -------------- -------------- --------------
+const                         -1.112 **     -0.457        -0.140         0.013   
+Cluster_0                                    -0.268        -0.381        -0.057   
+Cluster_1                                    -1.042***     -0.873***     -0.746  *
+Cluster_3                                     0.054        -0.175        -1.088  *
+Firm_Size_Ln                  -0.014        -0.080        -0.115  *     -0.130  *
+ROA                           -4.318***     -4.125***     -3.169***     -3.149***
+Leverage                      -1.841***     -1.672***     -1.833***     -1.820***
+Sector_Tech                                                 -1.107***     -1.044***
+Institutional_Context                                        1.009***      0.898***
+Cluster_0_x_US                                                             -0.357   
+Cluster_1_x_US                                                             -0.286   
+Cluster_3_x_US                                                              1.055   
+------------------------- -------------- -------------- -------------- --------------
+N                                    464            464            464            464
+R²                                0.3746         0.4041         0.4932         0.5016
+Adj. R²                           0.3705         0.3962         0.4843         0.4895
+F-statistic                       58.137         35.144         41.726         30.704
+
+  * p<0.05, ** p<0.01, *** p<0.001
+  Robust standard errors (HC1) gebruikt
+
+======================================================================
+GEDETAILLEERDE OUTPUT - MODEL 3 (HOOFDMODEL)
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        RD_Intensity_Ln   R-squared:                       0.493
+Model:                            OLS   Adj. R-squared:                  0.484
+Method:                 Least Squares   F-statistic:                     41.73
+Date:                Thu, 16 Apr 2026   Prob (F-statistic):           6.74e-50
+Time:                        10:16:00   Log-Likelihood:                -879.23
+No. Observations:                 464   AIC:                             1776.
+Df Residuals:                     455   BIC:                             1814.
+Df Model:                           8                                         
+Covariance Type:                  HC1                                         
+=========================================================================================
+                            coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                    -0.1396      0.455     -0.307      0.759      -1.032       0.753
+Firm_Size_Ln             -0.1152      0.049     -2.364      0.018      -0.211      -0.020
+ROA                      -3.1689      0.415     -7.636      0.000      -3.982      -2.355
+Leverage                 -1.8335      0.295     -6.213      0.000      -2.412      -1.255
+Cluster_0                -0.3805      0.199     -1.915      0.055      -0.770       0.009
+Cluster_1                -0.8728      0.234     -3.725      0.000      -1.332      -0.414
+Cluster_3                -0.1754      0.203     -0.862      0.388      -0.574       0.223
+Sector_Tech              -1.1069      0.170     -6.502      0.000      -1.441      -0.773
+Institutional_Context     1.0086      0.172      5.848      0.000       0.671       1.347
+==============================================================================
+Omnibus:                       64.347   Durbin-Watson:                   1.870
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              154.134
+Skew:                           0.716   Prob(JB):                     3.39e-34
+Kurtosis:                       5.433   Cond. No.                         47.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+======================================================================
+GEDETAILLEERDE OUTPUT - MODEL 4 (INTERACTIES)
+======================================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        RD_Intensity_Ln   R-squared:                       0.502
+Model:                            OLS   Adj. R-squared:                  0.489
+Method:                 Least Squares   F-statistic:                     30.70
+Date:                Thu, 16 Apr 2026   Prob (F-statistic):           3.01e-48
+Time:                        10:16:00   Log-Likelihood:                -875.33
+No. Observations:                 464   AIC:                             1775.
+Df Residuals:                     452   BIC:                             1824.
+Df Model:                          11                                         
+Covariance Type:                  HC1                                         
+=========================================================================================
+                            coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     0.0131      0.494      0.026      0.979      -0.955       0.982
+Firm_Size_Ln             -0.1297      0.051     -2.566      0.010      -0.229      -0.031
+ROA                      -3.1494      0.418     -7.542      0.000      -3.968      -2.331
+Leverage                 -1.8203      0.301     -6.050      0.000      -2.410      -1.231
+Cluster_0                -0.0570      0.341     -0.167      0.867      -0.726       0.612
+Cluster_1                -0.7456      0.307     -2.430      0.015      -1.347      -0.144
+Cluster_3                -1.0879      0.505     -2.155      0.031      -2.077      -0.099
+Sector_Tech              -1.0441      0.168     -6.199      0.000      -1.374      -0.714
+Institutional_Context     0.8984      0.225      3.995      0.000       0.458       1.339
+Cluster_0_x_US           -0.3571      0.410     -0.871      0.384      -1.161       0.446
+Cluster_1_x_US           -0.2865      0.401     -0.715      0.475      -1.072       0.499
+Cluster_3_x_US            1.0548      0.539      1.957      0.050      -0.001       2.111
+==============================================================================
+Omnibus:                       69.682   Durbin-Watson:                   1.894
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              165.494
+Skew:                           0.775   Prob(JB):                     1.16e-36
+Kurtosis:                       5.481   Cond. No.                         96.6
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+
+======================================================================
+MULTICOLLINEARITEIT CHECK (Model 3)
+======================================================================
+
+  Variabele                        VIF
+  ------------------------- ----------
+  Cluster_0                       1.35
+  Cluster_1                       1.56
+  Cluster_3                       1.58
+  Firm_Size_Ln                    1.76
+  ROA                             1.67
+  Leverage                        1.10
+  Sector_Tech                     1.16
+  Institutional_Context           1.17
+
+======================================================================
+CONTROLS-ONLY MODEL (zonder archetypes)
+======================================================================
+
+  Controls-only: R² = 0.4771, Adj. R² = 0.4714
+  Model 3:       R² = 0.4932, Adj. R² = 0.4843
+  Incrementele R² (archetypes): 0.0160
+  F-test Model 3 vs Controls-only:
+    F(3, 455) = 4.796, p = 0.0027
+
+======================================================================
+P3 SUPPLEMENTARY TEST: INTERNATIONALITY & BUSYNESS ALS CONTINUE VARIABELEN
+======================================================================
+
+  N = 464, R² = 0.4963, Adj. R² = 0.4886
+
+  Variabele                               β         SE          p    Sig
+  ------------------------------ ---------- ---------- ---------- ------
+  Internationality_Ratio              0.459      0.303     0.1294       
+  Board_Busyness                      0.785      0.216     0.0003    ***
+  Firm_Size_Ln                       -0.143      0.050     0.0041     **
+  ROA                                -3.019      0.425     0.0000    ***
+  Leverage                           -1.763      0.303     0.0000    ***
+  Sector_Tech                        -1.023      0.175     0.0000    ***
+  Institutional_Context               0.967      0.181     0.0000    ***
+
+======================================================================
+R&D INTENSITY PER GICS SUBSECTOR
+======================================================================
+
+    GICS Sub       Sector     N   Mean Ln(R&D)
+  ---------- ------------ ----- --------------
+    35201010   Healthcare   121          1.017
+    35202010   Healthcare    48         -1.122
+    45301020         Tech    37         -1.340
+    45103010         Tech    76         -1.550
+    45203015         Tech    11         -1.658
+    45103020         Tech    26         -1.746
+    45301010         Tech    19         -1.902
+    35103010   Healthcare    14         -1.939
+    45201020         Tech    25         -1.973
+    45203010         Tech    24         -2.121
+    35203010   Healthcare    25         -2.126
+    45202030         Tech    16         -2.533
+    45203020         Tech     5         -4.063
+    45102010         Tech    17         -4.310
+
+======================================================================
+INTERPRETATIE CLUSTER EFFECTEN (Model 3)
+======================================================================
+
+  Referentiecategorie: Cluster 2 (International Advisory Boards)
+  
+  Interpretatie coefficiënten:
+
+  Cluster_0 (Entrenched):
+    β = -0.381 (n.s.), SE = 0.199, 95% CI [-0.770, 0.009]
+    → Entrenched Boards hebben 31.7% lager R&D intensity
+       dan International Advisory Boards (ceteris paribus)
+
+  Cluster_1 (Insider):
+    β = -0.873***, SE = 0.234, 95% CI [-1.332, -0.414]
+    → Insider Boards hebben 58.2% lager R&D intensity
+       dan International Advisory Boards (ceteris paribus)
+
+  Cluster_3 (Fresh Monitoring):
+    β = -0.175 (n.s.), SE = 0.203, 95% CI [-0.574, 0.223]
+    → Fresh Monitoring Boards hebben 16.1% lager R&D intensity
+       dan International Advisory Boards (ceteris paribus)
+
+
+======================================================================
+INTERPRETATIE INTERACTIE-EFFECTEN (Model 4)
+======================================================================
+
+  Vraag: Werken board archetypes anders in US (LME) vs EU (CME)?
+  
+  Interpretatie interactie-termen:
+
+  MAIN EFFECTS (baseline = EU firms in Cluster 2):
+    Cluster_0                : β =  -0.057 
+    Cluster_1                : β =  -0.746 *
+    Cluster_3                : β =  -1.088 *
+    Institutional_Context    : β =   0.898 ***
+
+  INTERACTIE-EFFECTEN:
+    Cluster_0_x_US           : β =  -0.357  (n.s.)
+      → Geen significant verschil tussen US en EU
+
+    Cluster_1_x_US           : β =  -0.286  (n.s.)
+      → Geen significant verschil tussen US en EU
+
+    Cluster_3_x_US           : β =   1.055  (n.s.)
+      → Geen significant verschil tussen US en EU
+
+
+======================================================================
+MODEL VERGELIJKING
+======================================================================
+
+  Model              R²    Adj. R²          AIC          BIC
+  ---------- ---------- ---------- ------------ ------------
+  Model 1        0.3746     0.3705      1864.04      1880.60
+  Model 2        0.4041     0.3962      1847.61      1876.59
+  Model 3        0.4932     0.4843      1776.46      1813.72
+  Model 4        0.5016     0.4895      1774.66      1824.34
+
+  Incrementele R² bijdrage:
+    Model 1 → 2 (controls):     +0.0295
+    Model 2 → 3 (context):      +0.0891
+    Model 3 → 4 (interacties):  +0.0085
+
+======================================================================
+F-TEST: ZIJN INTERACTIE-EFFECTEN GEZAMENLIJK SIGNIFICANT?
+======================================================================
+
+  H0: Alle interactie-termen = 0
+  H1: Minstens één interactie-term ≠ 0
+
+  F(3, 452) = 2.555
+  p-value = 0.0548
+
+  Conclusie: KAN H0 NIET VERWERPEN - Interacties niet gezamenlijk significant
+
+======================================================================
+SAMENVATTING VOOR THESIS
+======================================================================
+
+  REGRESSIE RESULTATEN
+  
+  Dependent Variable: Ln(R&D Intensity)
+  N = 464 firms
+  
+  HOOFDBEVINDINGEN (Model 3):
+  
+  1. ARCHETYPE EFFECTEN (vs. International Advisory Boards):
+
+     Entrenched Boards             : β = -0.381 (n.s.)
+     Insider Boards                : β = -0.873 ***
+     Fresh Monitoring Boards       : β = -0.175 (n.s.)
+
+  2. CONTROL VARIABELEN:
+     Firm_Size_Ln:    β = -0.115 *
+     ROA:             β = -3.169 ***
+     Leverage:        β = -1.833 ***
+  
+  3. CONTEXT VARIABELEN:
+     Sector (Tech):   β = -1.107 ***
+     US (vs EU):      β =  1.009 ***
+  
+  4. MODEL FIT:
+     R² = 0.4932
+     Adj. R² = 0.4843
+     F-statistic = 41.726 (p < 0.001)
+  
+  5. INTERACTIE-EFFECTEN (Model 4):
+     Gezamenlijke F-test: F = 2.555, p = 0.0548
+     Archetype effecten zijn VERGELIJKBAAR in US en EU
+
+
+======================================================================
+ROBUSTNESS CHECK 1: GICS SUBSECTOR DUMMIES
+======================================================================
+
+  Model met GICS subsector dummies (ipv Sector dummy)
+  N = 464, R² = 0.5959, Adj. R² = 0.5777
+
+  Cluster effecten:
+    Cluster_0: β = -0.391 *
+    Cluster_1: β = -0.628 **
+    Cluster_3: β =  0.014 (n.s.)
+
+  Vergelijking met Model 3:
+    Model 3 R²:        0.4932
+    Robustness 1 R²:   0.5959
+    Cluster effecten:  CONSISTENT
+
+======================================================================
+ROBUSTNESS CHECK 2: MARKET CAP (Ln) ipv FIRM SIZE
+======================================================================
+
+  Model met Market_Cap_Ln ipv Firm_Size_Ln
+  N = 464, R² = 0.4871, Adj. R² = 0.4781
+
+  Cluster effecten:
+    Cluster_0: β = -0.315 (n.s.)
+    Cluster_1: β = -0.693 **
+    Cluster_3: β = -0.061 (n.s.)
+
+  Market_Cap_Ln effect: β = -0.035 (n.s.)
+
+  Vergelijking met Model 3:
+    Model 3 R²:        0.4932
+    Robustness 2 R²:   0.4871
+    Cluster effecten:  CONSISTENT
+
+======================================================================
+ROBUSTNESS CHECK 3: RAW R&D INTENSITY (niet log-transformed)
+======================================================================
+
+  Model met raw R&D Intensity als DV
+  N = 464, R² = 0.0580, Adj. R² = 0.0415
+
+  Cluster effecten:
+    Cluster_0: β = -1.292 (n.s.)
+    Cluster_1: β = -17.713 (n.s.)
+    Cluster_3: β = -3.720 (n.s.)
+
+  WAARSCHUWING: Raw R&D Intensity is extreem scheef verdeeld.
+  Dit model is minder betrouwbaar dan Model 3 (Ln-transformed).
+
+  Vergelijking met Model 3:
+    Model 3 R²:        0.4932
+    Robustness 3 R²:   0.0580
+
+======================================================================
+ROBUSTNESS CHECK 4: ZONDER EXTREME R&D INTENSITY OUTLIERS
+======================================================================
+
+  Model zonder R&D Intensity outliers (> P99)
+  Verwijderd: 5 firms
+  N = 459, R² = 0.5215, Adj. R² = 0.5130
+
+  Cluster effecten:
+    Cluster_0: β = -0.411 *
+    Cluster_1: β = -0.758 ***
+    Cluster_3: β = -0.190 (n.s.)
+
+  Vergelijking met Model 3:
+    Model 3 R²:        0.4932
+    Robustness 4 R²:   0.5215
+    Cluster effecten:  CONSISTENT
+
+======================================================================
+ROBUSTNESS CHECKS SAMENVATTING
+======================================================================
+
+  Model                                R²  Cluster_1 β    Sig
+  ------------------------------ -------- ------------ ------
+  Model 3 (Hoofdmodel)             0.4932       -0.873    ***
+  R1: GICS Subsector               0.5959       -0.628     **
+  R2: Market Cap                   0.4871       -0.693     **
+  R3: Raw R&D Intensity            0.0580      -17.713       
+  R4: Zonder outliers              0.5215       -0.758    ***
+
+  Cluster_1 (Insider Boards) significant in 4/5 modellen
+  Conclusie: ROBUUST - Resultaat houdt stand
+
+======================================================================
+KLAAR
+======================================================================
