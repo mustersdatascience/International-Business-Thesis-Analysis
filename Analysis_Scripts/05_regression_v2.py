@@ -16,6 +16,28 @@ pd.set_option("display.max_columns", 20)
 pd.set_option("display.width", 140)
 
 # ============================================================
+# HELPER FUNCTIES
+# ============================================================
+def sig_stars(pval):
+    """Return significance markers using only †, *, ** (no *** per Jasper).
+    Thresholds: † p < .10, * p < .05, ** p < .01"""
+    if pval < 0.01:
+        return "**"
+    elif pval < 0.05:
+        return "*"
+    elif pval < 0.10:
+        return "†"
+    else:
+        return ""
+
+def fmt_coef(coef, pval, se=None):
+    """Format a coefficient with stars AND exact p-value (so Jasper sees real p)."""
+    stars = sig_stars(pval)
+    if se is not None:
+        return f"β = {coef:+.3f}{stars} (SE={se:.3f}, p={pval:.4f})"
+    return f"β = {coef:+.3f}{stars} (p={pval:.4f})"
+
+# ============================================================
 # STAP 1: INLADEN
 # ============================================================
 df = pd.read_csv("Data/05_Thesis_data_clustered.csv")
@@ -30,15 +52,15 @@ print(f"\n{'='*70}")
 print("DUMMIES AANMAKEN")
 print(f"{'='*70}")
 
-# Cluster dummies (referentie = Cluster 2: International Advisory Boards)
-df["Cluster_0"] = (df["Cluster"] == 0).astype(int)  # Entrenched Boards
-df["Cluster_1"] = (df["Cluster"] == 1).astype(int)  # Insider Boards
-df["Cluster_3"] = (df["Cluster"] == 3).astype(int)  # Fresh Monitoring Boards
+# Cluster dummies (referentie = Cluster 2: Internationally Connected Boards)
+df["Cluster_0"] = (df["Cluster"] == 0).astype(int)  # Long-Tenured Boards
+df["Cluster_1"] = (df["Cluster"] == 1).astype(int)  # Low-Diversity Boards
+df["Cluster_3"] = (df["Cluster"] == 3).astype(int)  # Short-Tenured Domestic Boards
 # Cluster 2 is referentiecategorie (niet als dummy opnemen)
 
 print(f"  Cluster dummies aangemaakt (referentie: Cluster 2)")
-print(f"    Cluster 0 (Entrenched):    {df['Cluster_0'].sum()} firms")
-print(f"    Cluster 1 (Insider):       {df['Cluster_1'].sum()} firms")
+print(f"    Cluster 0 (Long-Tenured):    {df['Cluster_0'].sum()} firms")
+print(f"    Cluster 1 (Low-Diversity):       {df['Cluster_1'].sum()} firms")
 print(f"    Cluster 2 (International): {(df['Cluster'] == 2).sum()} firms [REF]")
 print(f"    Cluster 3 (Fresh):         {df['Cluster_3'].sum()} firms")
 
@@ -77,17 +99,18 @@ y_var = "RD_Intensity_Ln"
 # Independent variables per model
 cluster_vars = ["Cluster_0", "Cluster_1", "Cluster_3"]
 control_vars = ["Firm_Size_Ln", "ROA", "Leverage"]
-context_vars = ["Sector_Tech", "Institutional_Context"]
+context_vars = ["Sector_Tech"]  # Sector blijft baseline control in Model 3
+inst_vars = ["Institutional_Context"]  # Inst_Context alleen in Model 4 (per Kirsten #44)
 interaction_vars = ["Cluster_0_x_US", "Cluster_1_x_US", "Cluster_3_x_US"]
 
 # ============================================================
 # STAP 5: MODEL SPECIFICATIES
 # ============================================================
 models = {
-    "Model 1": control_vars,
-    "Model 2": control_vars + cluster_vars,
-    "Model 3": control_vars + cluster_vars + context_vars,
-    "Model 4": control_vars + cluster_vars + context_vars + interaction_vars,
+    "Model 1": control_vars,                                                                 # firm controls
+    "Model 2": control_vars + context_vars,                                                  # + sector
+    "Model 3": control_vars + context_vars + cluster_vars,                                   # + clusters = MAIN
+    "Model 4": control_vars + context_vars + cluster_vars + inst_vars + interaction_vars,    # + inst context as moderator
 }
 # ============================================================
 # STAP 6: OLS REGRESSIES UITVOEREN
@@ -121,7 +144,7 @@ print("COEFFICIENT OVERZICHT (alle modellen)")
 print(f"{'='*70}")
 
 # Verzamel alle variabelen
-all_vars = ["const"] + cluster_vars + control_vars + context_vars + interaction_vars
+all_vars = ["const"] + cluster_vars + control_vars + context_vars + inst_vars + interaction_vars
 
 # Header
 print(f"\n{'Variabele':25s} {'Model 1':>14s} {'Model 2':>14s} {'Model 3':>14s} {'Model 4':>14s}")
@@ -134,7 +157,7 @@ for var in all_vars:
         if var in model.params.index:
             coef = model.params[var]
             pval = model.pvalues[var]
-            sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else ""
+            sig = sig_stars(pval)
             row += f" {coef:10.3f}{sig:>3s}"
         else:
             row += f" {'':>14s}"
@@ -162,7 +185,7 @@ for model_name in models.keys():
     print(f" {results[model_name].fvalue:>14.3f}", end="")
 print()
 
-print(f"\n  * p<0.05, ** p<0.01, *** p<0.001")
+print(f"\n  † p<0.10, * p<0.05, ** p<0.01")
 print(f"  Robust standard errors (HC1) gebruikt")
 
 # ============================================================
@@ -234,7 +257,7 @@ print(f"\n{'='*70}")
 print("P3 SUPPLEMENTARY TEST: INTERNATIONALITY & BUSYNESS ALS CONTINUE VARIABELEN")
 print(f"{'='*70}")
 
-x_p3 = ["Internationality_Ratio", "Board_Busyness", "Firm_Size_Ln", "ROA", "Leverage", "Sector_Tech", "Institutional_Context"]
+x_p3 = ["Internationality_Ratio", "Board_Busyness", "Firm_Size_Ln", "ROA", "Leverage", "Sector_Tech"]  # Inst_Context weggelaten, consistent met Model 3
 X_p3 = sm.add_constant(df[x_p3])
 model_p3 = sm.OLS(df[y_var], X_p3).fit(cov_type='HC1')
 
@@ -245,7 +268,7 @@ for var in x_p3:
     coef = model_p3.params[var]
     se = model_p3.bse[var]
     pval = model_p3.pvalues[var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else ""
+    sig = sig_stars(pval)
     print(f"  {var:30s} {coef:10.3f} {se:10.3f} {pval:10.4f} {sig:>6s}")
 
 # ============================================================
@@ -274,7 +297,7 @@ print("INTERPRETATIE CLUSTER EFFECTEN (Model 3)")
 print(f"{'='*70}")
 
 print(f"""
-  Referentiecategorie: Cluster 2 (International Advisory Boards)
+  Referentiecategorie: Cluster 2 (Internationally Connected Boards)
   
   Interpretatie coefficiënten:
 """)
@@ -287,10 +310,10 @@ for cluster_var in cluster_vars:
     ci_high = coef + 1.96 * se
     
     cluster_num = cluster_var.split("_")[1]
-    cluster_names = {"0": "Entrenched", "1": "Insider", "3": "Fresh Monitoring"}
+    cluster_names = {"0": "Long-Tenured", "1": "Low-Diversity", "3": "Short-Tenured Domestic"}
     cluster_name = cluster_names[cluster_num]
     
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else " (n.s.)"
+    sig = sig_stars(pval) or " (n.s.)"
     
     direction = "lager" if coef < 0 else "hoger"
     pct_effect = (np.exp(coef) - 1) * 100  # Voor log-level interpretatie
@@ -298,7 +321,7 @@ for cluster_var in cluster_vars:
     print(f"  {cluster_var} ({cluster_name}):")
     print(f"    β = {coef:.3f}{sig}, SE = {se:.3f}, 95% CI [{ci_low:.3f}, {ci_high:.3f}]")
     print(f"    → {cluster_name} Boards hebben {abs(pct_effect):.1f}% {direction} R&D intensity")
-    print(f"       dan International Advisory Boards (ceteris paribus)")
+    print(f"       dan Internationally Connected Boards (ceteris paribus)")
     print()
 
 # ============================================================
@@ -321,17 +344,17 @@ print(f"  MAIN EFFECTS (baseline = EU firms in Cluster 2):")
 for var in cluster_vars + ["Institutional_Context"]:
     coef = model4.params[var]
     pval = model4.pvalues[var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else ""
+    sig = sig_stars(pval)
     print(f"    {var:25s}: β = {coef:7.3f} {sig}")
 
 print(f"\n  INTERACTIE-EFFECTEN:")
 for var in interaction_vars:
     coef = model4.params[var]
     pval = model4.pvalues[var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else " (n.s.)"
+    sig = sig_stars(pval) or " (n.s.)"
     
     cluster_num = var.split("_")[1]
-    cluster_names = {"0": "Entrenched", "1": "Insider", "3": "Fresh Monitoring"}
+    cluster_names = {"0": "Long-Tenured", "1": "Low-Diversity", "3": "Short-Tenured Domestic"}
     cluster_name = cluster_names[cluster_num]
     
     print(f"    {var:25s}: β = {coef:7.3f} {sig}")
@@ -368,22 +391,18 @@ print(f"\n{'='*70}")
 print("F-TEST: ZIJN INTERACTIE-EFFECTEN GEZAMENLIJK SIGNIFICANT?")
 print(f"{'='*70}")
 
-# Vergelijk Model 3 (restricted) vs Model 4 (unrestricted)
-r2_restricted = results["Model 3"].rsquared
-r2_unrestricted = results["Model 4"].rsquared
-n = results["Model 4"].nobs
-k_unrestricted = results["Model 4"].df_model + 1  # +1 voor constante
-k_restricted = results["Model 3"].df_model + 1
-q = k_unrestricted - k_restricted  # Aantal restricties
-
-f_stat = ((r2_unrestricted - r2_restricted) / q) / ((1 - r2_unrestricted) / (n - k_unrestricted))
-f_pval = 1 - stats.f.cdf(f_stat, q, n - k_unrestricted)
+# Wald-test op alleen de 3 interactie-termen (niet de Institutional_Context main effect)
+wald = results["Model 4"].f_test("Cluster_0_x_US = 0, Cluster_1_x_US = 0, Cluster_3_x_US = 0")
+f_stat = float(wald.statistic)
+f_pval = float(wald.pvalue)
+df_num = int(wald.df_num)
+df_den = int(wald.df_denom)
 
 print(f"\n  H0: Alle interactie-termen = 0")
 print(f"  H1: Minstens één interactie-term ≠ 0")
-print(f"\n  F({int(q)}, {int(n - k_unrestricted)}) = {f_stat:.3f}")
+print(f"\n  F({df_num}, {df_den}) = {f_stat:.3f}")
 print(f"  p-value = {f_pval:.4f}")
-print(f"\n  Conclusie: {'VERWERP H0 - Interacties zijn gezamenlijk significant' if f_pval < 0.05 else 'KAN H0 NIET VERWERPEN - Interacties niet gezamenlijk significant'}")
+print(f"\n  Conclusie: {'VERWERP H0 - Interacties zijn gezamenlijk significant' if f_pval < 0.10 else 'KAN H0 NIET VERWERPEN - Interacties niet gezamenlijk significant'}")
 
 # ============================================================
 # STAP 15: SAMENVATTING VOOR THESIS
@@ -400,35 +419,36 @@ print(f"""
   
   HOOFDBEVINDINGEN (Model 3):
   
-  1. ARCHETYPE EFFECTEN (vs. International Advisory Boards):
+  1. ARCHETYPE EFFECTEN (vs. Internationally Connected Boards):
 """)
 
 for cluster_var in cluster_vars:
     coef = model3.params[cluster_var]
     pval = model3.pvalues[cluster_var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else "(n.s.)"
+    sig = sig_stars(pval) or "(n.s.)"
     cluster_num = cluster_var.split("_")[1]
-    cluster_names = {"0": "Entrenched Boards", "1": "Insider Boards", "3": "Fresh Monitoring Boards"}
+    cluster_names = {"0": "Long-Tenured Boards", "1": "Low-Diversity Boards", "3": "Short-Tenured Domestic Boards"}
     print(f"     {cluster_names[cluster_num]:30s}: β = {coef:6.3f} {sig}")
 
 print(f"""
   2. CONTROL VARIABELEN:
-     Firm_Size_Ln:    β = {model3.params['Firm_Size_Ln']:6.3f} {'***' if model3.pvalues['Firm_Size_Ln'] < 0.001 else '**' if model3.pvalues['Firm_Size_Ln'] < 0.01 else '*' if model3.pvalues['Firm_Size_Ln'] < 0.05 else '(n.s.)'}
-     ROA:             β = {model3.params['ROA']:6.3f} {'***' if model3.pvalues['ROA'] < 0.001 else '**' if model3.pvalues['ROA'] < 0.01 else '*' if model3.pvalues['ROA'] < 0.05 else '(n.s.)'}
-     Leverage:        β = {model3.params['Leverage']:6.3f} {'***' if model3.pvalues['Leverage'] < 0.001 else '**' if model3.pvalues['Leverage'] < 0.01 else '*' if model3.pvalues['Leverage'] < 0.05 else '(n.s.)'}
+     Firm_Size_Ln:    β = {model3.params['Firm_Size_Ln']:6.3f} {sig_stars(model3.pvalues['Firm_Size_Ln']) or '(n.s.)'}
+     ROA:             β = {model3.params['ROA']:6.3f} {sig_stars(model3.pvalues['ROA']) or '(n.s.)'}
+     Leverage:        β = {model3.params['Leverage']:6.3f} {sig_stars(model3.pvalues['Leverage']) or '(n.s.)'}
   
   3. CONTEXT VARIABELEN:
-     Sector (Tech):   β = {model3.params['Sector_Tech']:6.3f} {'***' if model3.pvalues['Sector_Tech'] < 0.001 else '**' if model3.pvalues['Sector_Tech'] < 0.01 else '*' if model3.pvalues['Sector_Tech'] < 0.05 else '(n.s.)'}
-     US (vs EU):      β = {model3.params['Institutional_Context']:6.3f} {'***' if model3.pvalues['Institutional_Context'] < 0.001 else '**' if model3.pvalues['Institutional_Context'] < 0.01 else '*' if model3.pvalues['Institutional_Context'] < 0.05 else '(n.s.)'}
+     Sector (Tech):   β = {model3.params['Sector_Tech']:6.3f} {sig_stars(model3.pvalues['Sector_Tech']) or '(n.s.)'}
+     [Institutional Context verschoven naar Model 4 als pure moderator, per Kirsten #44]
   
   4. MODEL FIT:
      R² = {model3.rsquared:.4f}
      Adj. R² = {model3.rsquared_adj:.4f}
-     F-statistic = {model3.fvalue:.3f} (p < 0.001)
+     F-statistic = {model3.fvalue:.3f} (p = {model3.f_pvalue:.6f})
   
-  5. INTERACTIE-EFFECTEN (Model 4):
-     Gezamenlijke F-test: F = {f_stat:.3f}, p = {f_pval:.4f}
-     {'Archetype effecten VERSCHILLEN tussen US en EU' if f_pval < 0.05 else 'Archetype effecten zijn VERGELIJKBAAR in US en EU'}
+  5. INSTITUTIONAL CONTEXT (Model 4):
+     US main effect: β = {model4.params['Institutional_Context']:6.3f} {sig_stars(model4.pvalues['Institutional_Context']) or '(n.s.)'}
+     Joint F-test interacties: F({df_num}, {df_den}) = {f_stat:.3f}, p = {f_pval:.4f}
+     {'Archetype effecten VERSCHILLEN tussen US en EU (P2 supported)' if f_pval < 0.10 else 'Geen significante moderatie'}
 """)
 
 # ============================================================
@@ -444,7 +464,7 @@ df_robust1 = pd.concat([df, gics_dummies], axis=1)
 
 # Model met GICS dummies ipv Sector dummy
 gics_cols = [col for col in gics_dummies.columns]
-x_vars_robust1 = cluster_vars + control_vars + ["Institutional_Context"] + gics_cols
+x_vars_robust1 = cluster_vars + control_vars + gics_cols  # GICS dummies vervangen Sector; geen Inst_Context (consistent met Model 3)
 
 X_r1 = df_robust1[x_vars_robust1].copy().astype(float)
 X_r1 = sm.add_constant(X_r1)
@@ -458,7 +478,7 @@ print(f"\n  Cluster effecten:")
 for cluster_var in cluster_vars:
     coef = model_robust1.params[cluster_var]
     pval = model_robust1.pvalues[cluster_var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else "(n.s.)"
+    sig = sig_stars(pval) or "(n.s.)"
     print(f"    {cluster_var}: β = {coef:6.3f} {sig}")
 
 print(f"\n  Vergelijking met Model 3:")
@@ -490,10 +510,10 @@ print(f"\n  Cluster effecten:")
 for cluster_var in cluster_vars:
     coef = model_robust2.params[cluster_var]
     pval = model_robust2.pvalues[cluster_var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else "(n.s.)"
+    sig = sig_stars(pval) or "(n.s.)"
     print(f"    {cluster_var}: β = {coef:6.3f} {sig}")
 
-print(f"\n  Market_Cap_Ln effect: β = {model_robust2.params['Market_Cap_Ln']:.3f} {'***' if model_robust2.pvalues['Market_Cap_Ln'] < 0.001 else '**' if model_robust2.pvalues['Market_Cap_Ln'] < 0.01 else '*' if model_robust2.pvalues['Market_Cap_Ln'] < 0.05 else '(n.s.)'}")
+print(f"\n  Market_Cap_Ln effect: β = {model_robust2.params['Market_Cap_Ln']:.3f} {sig_stars(model_robust2.pvalues['Market_Cap_Ln']) or '(n.s.)'}")
 print(f"\n  Vergelijking met Model 3:")
 print(f"    Model 3 R²:        {model3.rsquared:.4f}")
 print(f"    Robustness 2 R²:   {model_robust2.rsquared:.4f}")
@@ -520,7 +540,7 @@ print(f"\n  Cluster effecten:")
 for cluster_var in cluster_vars:
     coef = model_robust3.params[cluster_var]
     pval = model_robust3.pvalues[cluster_var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else "(n.s.)"
+    sig = sig_stars(pval) or "(n.s.)"
     print(f"    {cluster_var}: β = {coef:6.3f} {sig}")
 
 print(f"\n  WAARSCHUWING: Raw R&D Intensity is extreem scheef verdeeld.")
@@ -553,7 +573,7 @@ print(f"\n  Cluster effecten:")
 for cluster_var in cluster_vars:
     coef = model_robust4.params[cluster_var]
     pval = model_robust4.pvalues[cluster_var]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else "(n.s.)"
+    sig = sig_stars(pval) or "(n.s.)"
     print(f"    {cluster_var}: β = {coef:6.3f} {sig}")
 
 print(f"\n  Vergelijking met Model 3:")
@@ -562,35 +582,97 @@ print(f"    Robustness 4 R²:   {model_robust4.rsquared:.4f}")
 print(f"    Cluster effecten:  {'CONSISTENT' if (model_robust4.pvalues['Cluster_1'] < 0.05) == (model3.pvalues['Cluster_1'] < 0.05) else 'INCONSISTENT'}")
 
 # ============================================================
-# STAP 20: ROBUSTNESS SAMENVATTING
+# STAP 19b: ROBUSTNESS CHECK 5 - REFERENCE ROTATION (Cluster 3 als ref)
+# Per Kirsten comment #40: Cluster 3 heeft hoogste mean R&D, dus
+# conventioneel de juiste reference. Test of bevindingen reference-onafhankelijk zijn.
 # ============================================================
 print(f"\n{'='*70}")
-print("ROBUSTNESS CHECKS SAMENVATTING")
+print("ROBUSTNESS CHECK 5: REFERENCE ROTATION (Cluster 3 = highest mean R&D)")
 print(f"{'='*70}")
 
-print(f"""
-  {'Model':<30s} {'R²':>8s} {'Cluster_1 β':>12s} {'Sig':>6s}
-  {'-'*30} {'-'*8} {'-'*12} {'-'*6}""")
+# Maak Cluster_2 als dummy (was reference); Cluster_3 wordt nu reference (geen dummy)
+df["Cluster_2_dummy"] = (df["Cluster"] == 2).astype(int)
+cluster_vars_r5 = ["Cluster_0", "Cluster_1", "Cluster_2_dummy"]
+x_vars_r5 = control_vars + ["Sector_Tech"] + cluster_vars_r5
+
+X_r5 = sm.add_constant(df[x_vars_r5])
+y_r5 = df[y_var]
+model_robust5 = sm.OLS(y_r5, X_r5).fit(cov_type='HC1')
+
+print(f"\n  Model met Cluster 3 (Short-Tenured Domestic) als reference")
+print(f"  N = {int(model_robust5.nobs)}, R² = {model_robust5.rsquared:.4f}, Adj. R² = {model_robust5.rsquared_adj:.4f}")
+print(f"\n  Cluster effecten (vs. Cluster 3 = highest mean R&D):")
+cluster_labels_r5 = {
+    "Cluster_0": "Long-Tenured Boards",
+    "Cluster_1": "Low-Diversity Boards",
+    "Cluster_2_dummy": "Internationally Connected Boards"
+}
+for cv in cluster_vars_r5:
+    coef = model_robust5.params[cv]
+    pval = model_robust5.pvalues[cv]
+    se = model_robust5.bse[cv]
+    sig = sig_stars(pval) or "(n.s.)"
+    print(f"    {cluster_labels_r5[cv]:35s}: β = {coef:+.3f} {sig:>7s}  (SE={se:.3f}, p={pval:.4f})")
+
+print(f"\n  Vergelijking met Model 3 (Cluster 2 als ref):")
+print(f"    Cluster 1 effect Model 3: β = {model3.params['Cluster_1']:+.3f}, p = {model3.pvalues['Cluster_1']:.4f}")
+print(f"    Cluster 1 effect R5:      β = {model_robust5.params['Cluster_1']:+.3f}, p = {model_robust5.pvalues['Cluster_1']:.4f}")
+print(f"    → Core finding (Cluster 1 lager) blijft {'OVEREIND' if model_robust5.pvalues['Cluster_1'] < 0.05 else 'NIET overeind'} onder rotation")
+
+# ============================================================
+# STAP 20: ROBUSTNESS SAMENVATTING (alle 3 clusters per spec - per #51)
+# ============================================================
+print(f"\n{'='*70}")
+print("ROBUSTNESS CHECKS SAMENVATTING (alle cluster coefficients)")
+print(f"{'='*70}")
 
 models_summary = [
-    ("Model 3 (Hoofdmodel)", model3),
-    ("R1: GICS Subsector", model_robust1),
-    ("R2: Market Cap", model_robust2),
-    ("R3: Raw R&D Intensity", model_robust3),
-    ("R4: Zonder outliers", model_robust4),
+    ("Model 3 (Hoofdmodel)", model3, "Cluster_2"),
+    ("R1: GICS Subsector",   model_robust1, "Cluster_2"),
+    ("R2: Market Cap",       model_robust2, "Cluster_2"),
+    ("R3: Raw R&D Intensity",model_robust3, "Cluster_2"),
+    ("R4: Zonder outliers",  model_robust4, "Cluster_2"),
+    ("R5: Cluster 3 als ref",model_robust5, "Cluster_3"),
 ]
 
-for name, model in models_summary:
-    r2 = model.rsquared
-    beta = model.params["Cluster_1"]
-    pval = model.pvalues["Cluster_1"]
-    sig = "***" if pval < 0.001 else "**" if pval < 0.01 else "*" if pval < 0.05 else ""
-    print(f"  {name:<30s} {r2:>8.4f} {beta:>12.3f} {sig:>6s}")
+print(f"\n  {'Model':<24s} {'Ref':<10s} {'R²':>6s} | {'C0 β':>8s} {'sig':>4s} {'p':>6s} | {'C1 β':>8s} {'sig':>4s} {'p':>6s} | {'Other β':>8s} {'sig':>4s} {'p':>6s}")
+print(f"  {'-'*24} {'-'*10} {'-'*6} | {'-'*8} {'-'*4} {'-'*6} | {'-'*8} {'-'*4} {'-'*6} | {'-'*8} {'-'*4} {'-'*6}")
 
-# Check consistentie
-consistent_count = sum(1 for _, m in models_summary if m.pvalues["Cluster_1"] < 0.05)
-print(f"\n  Cluster_1 (Insider Boards) significant in {consistent_count}/{len(models_summary)} modellen")
-print(f"  Conclusie: {'ROBUUST - Resultaat houdt stand' if consistent_count >= 4 else 'FRAGIEL - Resultaat varieert per specificatie'}")
+for name, model, ref in models_summary:
+    r2 = model.rsquared
+    row = f"  {name:<24s} C{ref[-1]:1s} ref    {r2:>6.3f}"
+    # Cluster 0 (always present)
+    if "Cluster_0" in model.params.index:
+        b, p = model.params["Cluster_0"], model.pvalues["Cluster_0"]
+        row += f" | {b:>+8.3f} {sig_stars(p):>4s} {p:>6.3f}"
+    else:
+        row += f" | {'n/a':>20s}"
+    # Cluster 1 (always present, this is the key one)
+    if "Cluster_1" in model.params.index:
+        b, p = model.params["Cluster_1"], model.pvalues["Cluster_1"]
+        row += f" | {b:>+8.3f} {sig_stars(p):>4s} {p:>6.3f}"
+    else:
+        row += f" | {'n/a':>20s}"
+    # "Other" = Cluster 3 in main spec, Cluster 2_dummy in R5
+    if "Cluster_3" in model.params.index:
+        b, p = model.params["Cluster_3"], model.pvalues["Cluster_3"]
+        row += f" | C3:{b:>+5.3f} {sig_stars(p):>4s} {p:>6.3f}"
+    elif "Cluster_2_dummy" in model.params.index:
+        b, p = model.params["Cluster_2_dummy"], model.pvalues["Cluster_2_dummy"]
+        row += f" | C2:{b:>+5.3f} {sig_stars(p):>4s} {p:>6.3f}"
+    else:
+        row += f" | {'n/a':>20s}"
+    print(row)
+
+print(f"\n  Significantie: † p<.10, * p<.05, ** p<.01")
+
+# Robuustheid van Cluster 1 effect specifiek
+c1_sig = sum(1 for _, m, _ in models_summary if m.pvalues["Cluster_1"] < 0.05)
+c1_marg = sum(1 for _, m, _ in models_summary if m.pvalues["Cluster_1"] < 0.10)
+print(f"\n  Cluster 1 (Low-Diversity) effect:")
+print(f"    Significant op p<.05 in {c1_sig}/{len(models_summary)} specificaties")
+print(f"    Marginaal+ op p<.10 in   {c1_marg}/{len(models_summary)} specificaties")
+print(f"    Conclusie: {'ROBUUST' if c1_sig >= 4 else 'GEMENGD'}")
 
 print(f"\n{'='*70}")
 print("KLAAR")
